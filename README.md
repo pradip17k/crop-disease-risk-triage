@@ -81,6 +81,10 @@ New controlled test:91.8% accuracy on49 images. On the reused38-image historical
 
 ## Repository contents
 
-Code, tests, active/archived model bundles, saved training checkpoints, calibration/evaluation records, dataset manifests and review metadata are versioned. Downloaded dataset photographs, user check images, generated contact sheets, runtime caches and the Python environment remain local. The three attributed UI sample photos are included; see web/samples/credits.json. Download provenance and licences are recorded in manifests and docs/FIELD_DATA_PROTOCOL.md. Re-running photo audits requires restoring the referenced source images; a Git checkout alone is not the full training dataset.
+Code, tests, active/archived model bundles, saved training checkpoints, calibration/evaluation records, dataset manifests and review metadata are versioned. The active model’s475 training photographs are included in training_images/ with attribution and a manifest. Other downloaded dataset photographs, user check images, generated contact sheets, runtime caches and the Python environment remain local. The three attributed UI sample photos are included; see web/samples/credits.json. Download provenance and licences are recorded in manifests and docs/FIELD_DATA_PROTOCOL.md. Re-running photo audits requires restoring the referenced source images; a Git checkout alone is not the full training dataset.
 
 For a fresh checkout, use Python3.12: `python3.12 -m venv .venv`, then `.venv/bin/python -m pip install -r ml/requirements.txt`. The included active model enables local inference. Training requires the additional ml/training-requirements.txt dependencies and restored datasets. Version details from the tested environment are in ml/environment-lock.txt.
+
+## Browse the training photographs
+
+Open [training_images/](training_images/README.md) for the475 photographs actually used to train source-v2, organized into healthy, early_blight, late_blight and septoria folders. These download with a normal clone.

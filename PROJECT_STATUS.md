@@ -159,3 +159,7 @@ GitHub: user explicitly requests a new PUBLIC pradip17k/crop-disease-risk-triage
 ## GitHub publication — 6 November 2026
 
 Created public repository https://github.com/pradip17k/crop-disease-risk-triage using GitHub CLI at the user’s request. Initial project commit6534883 pushed to main; origin configured and tracking origin/main. Code, models/checkpoints, experiment results, manifests and review metadata included. Downloaded datasets, local user-check images, contact sheets, environment and caches excluded by .gitignore.44 tests passed before publication. LeafLens untouched.
+
+## Shareable training-image folder — 6 November 2026
+
+Added training_images/ with475 original active source-v2 train-role photographs grouped by class, manifest with source URLs/groups/hashes, and PlantVillage CC BY-SA3.0 attribution. All475 copies verified against saved SHA-256 values; evaluation/calibration roles and untrained field candidates excluded. Original data paths and model unchanged.
