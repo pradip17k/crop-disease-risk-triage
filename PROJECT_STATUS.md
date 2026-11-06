@@ -155,3 +155,7 @@ Downloaded40 additional CCMT healthy candidates (~2MB), preserving the original 
 Added ml/consolidate_field_review.py with transitive prior/conflict propagation, precautionary grouping and hash checks.44 tests pass including actual ONNX inference. No model retraining or accuracy change. Current resume artifacts: data/field-development/background-review/consolidated-review.csv, consolidated-summary.json, capture-review.json and healthy-expansion/. Next: complete expansion overlap/group audit and source-label provenance; resolve realistic data/split scope before fitting.
 
 GitHub: user explicitly requests a new PUBLIC pradip17k/crop-disease-risk-triage repository and terminal-based creation/push. Preparation in progress; LeafLens remains untouched.
+
+## GitHub publication — 6 November 2026
+
+Created public repository https://github.com/pradip17k/crop-disease-risk-triage using GitHub CLI at the user’s request. Initial project commit6534883 pushed to main; origin configured and tracking origin/main. Code, models/checkpoints, experiment results, manifests and review metadata included. Downloaded datasets, local user-check images, contact sheets, environment and caches excluded by .gitignore.44 tests passed before publication. LeafLens untouched.
