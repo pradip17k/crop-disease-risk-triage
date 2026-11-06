@@ -1,0 +1,352 @@
+[
+  {
+    "id": "bwh3zbpkpv:f1cd9717-fbb9-432f-bf4a-8867166355c9",
+    "sha256": "687eab8d1f39c69d1c00a685d51ff3a316807019d6195594c6bced1de3ace281",
+    "sheet": "bwh3zbpkpv-healthy.jpg",
+    "tile": 14,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:c76b225931ba2a3854d4986842e6679421aeb8a3",
+    "sha256": "a168b286abf0da7a41ee9a997bc1ae4f03e07b4dec1f2d15b720488641629064",
+    "sheet": "plantdoc-early_blight.jpg",
+    "tile": 6,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:5035555a29e4c8d93f5e7a73df1b7f2335a191b3",
+    "sha256": "8ec0ab005a98df520cd8cb9959d95c851e9ca3d0d7f7075dac168f035bbf2800",
+    "sheet": "plantdoc-early_blight.jpg",
+    "tile": 15,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:eb0b782039ec7bfdd454811c4c1271ba287249ef",
+    "sha256": "2bbd412c3becf1c8b468630f6536855ee9e39705be3905a9d62db51f32595ed0",
+    "sheet": "plantdoc-early_blight.jpg",
+    "tile": 24,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:71deb2cdbeb355cb9487b894d558637795b5ba1e",
+    "sha256": "65a9d96aa54416a84aef29d40e6b1904d6296f27c39685dbd510223df828ff52",
+    "sheet": "plantdoc-early_blight.jpg",
+    "tile": 25,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:93ee56ef4081e0c77cd2e1c7781388279af543ce",
+    "sha256": "64f828f8665c1884762025bba8feeaa41ef5c87651ace0cdb821e7f1981419cd",
+    "sheet": "plantdoc-early_blight.jpg",
+    "tile": 39,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:2ece168fbe58cdc19a38ed38d385812512362e51",
+    "sha256": "b7ac78d7589165e470a569e7a383325e5d8f204c50d615382dc180663ddebbdb",
+    "sheet": "plantdoc-early_blight.jpg",
+    "tile": 40,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:b628fe26e9c3bd5e75c8ee3238000c6fce128505",
+    "sha256": "cc438f6eb618d7470cd622e40b6dd423e5242165c1ea0e130a04f15ed18347d3",
+    "sheet": "plantdoc-early_blight.jpg",
+    "tile": 46,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:3e8195afab2fe034c26886a68f15d004f59968a5",
+    "sha256": "283b4d969c7c2d557e61b7e865eaae86083e9e1dee0282585b4472b7b8829c1c",
+    "sheet": "plantdoc-early_blight.jpg",
+    "tile": 47,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:372d5c557b109d25db15f2d07303ead530869222",
+    "sha256": "fd239bf6835b671660a8f6c01f19e977348f741ec605be9ed2ad5d08340729fe",
+    "sheet": "plantdoc-early_blight.jpg",
+    "tile": 48,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:d6f0264021d9088f56cea975fc41fff14d6c6d5d",
+    "sha256": "060e4aba444e9cc4fce4c102254449ab482bf289d20ee110cd5f6b49b8d5d92c",
+    "sheet": "plantdoc-early_blight.jpg",
+    "tile": 70,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:31a977cc2f9be946532be51bd6997072a2e53de0",
+    "sha256": "8d84fa7ef2daea720ba5121a277f493208167bdd76e2dc0718968be6d9b7dfb0",
+    "sheet": "plantdoc-healthy.jpg",
+    "tile": 18,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:d93cb82dc4291549b07b13795de842077147a3bf",
+    "sha256": "d052c3663489cf27b32d2e62284f5200afa43c42c67f3d3517e1e792c6612a73",
+    "sheet": "plantdoc-healthy.jpg",
+    "tile": 26,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:b78ce3690b6e90f5018302a51f75487083766b10",
+    "sha256": "f6443987dc175b21fd7f3864129e37980208ac2f5b64c33148b3e9b9e43a8b48",
+    "sheet": "plantdoc-healthy.jpg",
+    "tile": 34,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:7ead916414737ceecb2e04c5c5867e8453c50f8d",
+    "sha256": "69cfc1a17079e20ebcbf1744e8d4a57fcb46105cfdfd32827820632096e0657c",
+    "sheet": "plantdoc-late_blight.jpg",
+    "tile": 7,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:90b32908100fcfb6d931827549ff3610df7a4c9b",
+    "sha256": "4fcf9d49b5a47364965b175ad10266aebc75d32bb98e3f2f380d89c8cbd85c98",
+    "sheet": "plantdoc-late_blight.jpg",
+    "tile": 25,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:08fe797b8032d8799d148647219d2a4182deedea",
+    "sha256": "b031c7e4550ac090c4f7f1cb2aa150bd5c45dd1225f44d2a3f6144b22a71f45c",
+    "sheet": "plantdoc-late_blight.jpg",
+    "tile": 32,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:0659ed899c7433f3a4956e3ab0c773c4a747929e",
+    "sha256": "c063ea0c9ad3302c45d414776d122f3f860c0b9307cfb84e03d843db7c67d4ec",
+    "sheet": "plantdoc-late_blight.jpg",
+    "tile": 33,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:d2d42ca96ef606224d0ca516cf8cbb0f4ba4cee4",
+    "sha256": "8c70c4321a305ca3225768862b0ce55abbe3d2933016052d96c9d2752abb5815",
+    "sheet": "plantdoc-late_blight.jpg",
+    "tile": 34,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:38b7b497b5880adaff9533c138db15c82e953148",
+    "sha256": "e86b5c15a56efc7e64f50af6bb7317cc2271c0067ed69371bb02aca7b43f0695",
+    "sheet": "plantdoc-late_blight.jpg",
+    "tile": 39,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:e74d6a44640248c6e303e36ea3be5159bcc15e96",
+    "sha256": "e4c76f512198fc742905de176ec4f2f5611df51eddff2fc5f1ee9d2ebe479ef3",
+    "sheet": "plantdoc-late_blight.jpg",
+    "tile": 56,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:d28694690cce67a72f4bd68933bc17cbec000b66",
+    "sha256": "bd87613068228f0493aed0545b456d7a32905e88914c215a5802a396f2802bc9",
+    "sheet": "plantdoc-late_blight.jpg",
+    "tile": 58,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:ac3e6fdfbd5eee515ce41ef37f7433913ac4d02d",
+    "sha256": "7f45f20fb269dd24ed5e94e216a0dbdfb8a8c8676864f760c4b37abd68410f74",
+    "sheet": "plantdoc-late_blight.jpg",
+    "tile": 59,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:367fad2b4dbe14c1793d6ad5f6ebd24d20776d0b",
+    "sha256": "b06427f875a549080239281621541ecadb1e8d2c47860b4e7d0f5032d1dbdaa9",
+    "sheet": "plantdoc-late_blight.jpg",
+    "tile": 61,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:6804ef98e99fafaf8c33ef29434a7fb50346d793",
+    "sha256": "f7474217b5b29e55fa6f21a4fd4a3085e24e98cda9a5434d3124d5793e6c988d",
+    "sheet": "plantdoc-late_blight.jpg",
+    "tile": 87,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:102c150402131d6df3c7d4ad019425f506d9fd08",
+    "sha256": "2ad3b5105d22190fbfae4798ab4aec20e3d5d1fd467ebb3e3f51198ffdd3d95b",
+    "sheet": "plantdoc-late_blight.jpg",
+    "tile": 88,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:a5d35032c33bf682a14ffea78620ec3baaf6ea3d",
+    "sha256": "69494f416ce4803218604f78256ac454df38b990df9c97398f276a387e9fe99e",
+    "sheet": "plantdoc-late_blight.jpg",
+    "tile": 90,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:215ef6673a92c2a829f84af0773c7fa0a5e71be0",
+    "sha256": "b62dde18182b1154cb86abf4a601d8ff4f86a0e3557c339995328c4d2c77bbfe",
+    "sheet": "plantdoc-septoria.jpg",
+    "tile": 5,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:2cc836ba4a9c23f11a5197d1e74dcc50b35057cb",
+    "sha256": "85b702cb6875f9eb76b00332ac5205d46056302b38618912090b3952a82f8779",
+    "sheet": "plantdoc-septoria.jpg",
+    "tile": 26,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:6c11632e5797dadfeae57309f76d9f58731b49b2",
+    "sha256": "38f5baba91e3ea14c45f02f1320137375db422c77eec313f44ad1c4bd99687e5",
+    "sheet": "plantdoc-septoria.jpg",
+    "tile": 41,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:946ae436319feb30b3b5c7cbb487c1eaf9430efc",
+    "sha256": "8a1376011a0a8f09b29b6146b41bffdd225500a9ec3defdfb017db64d4ca9dc3",
+    "sheet": "plantdoc-septoria.jpg",
+    "tile": 60,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:5971fe56274f48f72a98f06abab53cfa28c54490",
+    "sha256": "4706b8019fde4af3189329ed50f24e0925b4609a667266b0697effa446601f01",
+    "sheet": "plantdoc-septoria.jpg",
+    "tile": 62,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:aa64b7303ee023bad6a3908c55934d28bdb19f41",
+    "sha256": "e1a4559a490c394e462b337028431b7db2345e348062e0d44bc7a80d2202d43c",
+    "sheet": "plantdoc-septoria.jpg",
+    "tile": 68,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:2428f36e4358ad1e15bae690b446f3a04e3df7a0",
+    "sha256": "de4287f7e68678a481d5f874f3fd05d89ac6360b108aff3f3da1b11242c7b37d",
+    "sheet": "plantdoc-septoria.jpg",
+    "tile": 87,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  },
+  {
+    "id": "plantdoc:33e87368e8033d2172c8bb7107ddf7d76867de12",
+    "sha256": "4f57d8bbe3c8749886cf792b5cfd0852d2fecd51ecfa85f21ee97ae5b339cfdd",
+    "sheet": "plantdoc-septoria.jpg",
+    "tile": 95,
+    "domain": "ambiguous",
+    "review_level": "contact_sheet_screen",
+    "label_status": "publisher_label_unverified",
+    "physical_capture_group": "unresolved"
+  }
+]

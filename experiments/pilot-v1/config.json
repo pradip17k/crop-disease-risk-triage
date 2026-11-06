@@ -1,0 +1,17 @@
+{
+  "model": "MobileNetV3-Small",
+  "classes": [
+    "early_blight",
+    "healthy",
+    "late_blight",
+    "septoria"
+  ],
+  "seed": 42,
+  "epochs": 10,
+  "input_size": 224,
+  "manifest_sha256": "78bc3a2e3f74727431a6bcfb613fe86c8e932966fe707bd103985e064c659d4d",
+  "selection": "validation macro-F1 only",
+  "device": "cpu",
+  "trainable": "classifier; frozen features kept in eval mode",
+  "field_validated": false
+}

@@ -1,0 +1,29 @@
+{
+  "input_sha256": "71f6b85bd4b4c77ee93584cde63cb226a61fb19e5289f3ccbda911a828de5305",
+  "matches": [
+    {
+      "candidate_id": "plantdoc:1b4effb94cd337eaeb9e51681b08e43364cc2fe9",
+      "prior_path": "/Users/pradiphapa/Documents/Crop Disease Risk Triage/main project/data/field/f0594915b9a7dbca41c8603a6f41f0ce673a1f8c",
+      "exact_pixels": false,
+      "distance": 0,
+      "decision": "same_scene_or_derivative",
+      "review_method": "assistant visual comparison; preserve earlier cohort exclusion"
+    },
+    {
+      "candidate_id": "plantdoc:c7a35ed2180c3caa49af1bc00f9a3a773bc82201",
+      "prior_path": "/Users/pradiphapa/Documents/Crop Disease Risk Triage/main project/data/field/c7a35ed2180c3caa49af1bc00f9a3a773bc82201",
+      "exact_pixels": true,
+      "distance": 0,
+      "decision": "same_scene_or_derivative",
+      "review_method": "assistant visual comparison; preserve earlier cohort exclusion"
+    },
+    {
+      "candidate_id": "plantdoc:5c33c893f4900ef20ea0cca97c5355f0eb2c997d",
+      "prior_path": "/Users/pradiphapa/Documents/Crop Disease Risk Triage/main project/data/field/5c33c893f4900ef20ea0cca97c5355f0eb2c997d",
+      "exact_pixels": true,
+      "distance": 0,
+      "decision": "same_scene_or_derivative",
+      "review_method": "assistant visual comparison; preserve earlier cohort exclusion"
+    }
+  ]
+}

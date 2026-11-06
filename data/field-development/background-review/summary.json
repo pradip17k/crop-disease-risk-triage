@@ -1,0 +1,159 @@
+{
+  "rows": 805,
+  "domain_counts": {
+    "natural_background": 250,
+    "staged_plain": 533,
+    "ambiguous": 9,
+    "composite_or_illustration": 13
+  },
+  "status_counts": {
+    "pending_capture_and_label_review": 764,
+    "quarantine_label_conflict": 2,
+    "pending_full_size_background_review": 9,
+    "quarantine_composite": 13,
+    "quarantine_source_label_review": 17
+  },
+  "by_source_class_domain": [
+    {
+      "source": "bwh3zbpkpv",
+      "label": "healthy",
+      "domain": "natural_background",
+      "count": 13
+    },
+    {
+      "source": "bwh3zbpkpv",
+      "label": "healthy",
+      "domain": "staged_plain",
+      "count": 85
+    },
+    {
+      "source": "bwh3zbpkpv",
+      "label": "septoria",
+      "domain": "natural_background",
+      "count": 10
+    },
+    {
+      "source": "bwh3zbpkpv",
+      "label": "septoria",
+      "domain": "staged_plain",
+      "count": 89
+    },
+    {
+      "source": "jttrv2w27r",
+      "label": "early_blight",
+      "domain": "staged_plain",
+      "count": 99
+    },
+    {
+      "source": "jttrv2w27r",
+      "label": "healthy",
+      "domain": "staged_plain",
+      "count": 98
+    },
+    {
+      "source": "jttrv2w27r",
+      "label": "late_blight",
+      "domain": "staged_plain",
+      "count": 93
+    },
+    {
+      "source": "plantdoc",
+      "label": "early_blight",
+      "domain": "ambiguous",
+      "count": 2
+    },
+    {
+      "source": "plantdoc",
+      "label": "early_blight",
+      "domain": "composite_or_illustration",
+      "count": 1
+    },
+    {
+      "source": "plantdoc",
+      "label": "early_blight",
+      "domain": "natural_background",
+      "count": 60
+    },
+    {
+      "source": "plantdoc",
+      "label": "early_blight",
+      "domain": "staged_plain",
+      "count": 10
+    },
+    {
+      "source": "plantdoc",
+      "label": "healthy",
+      "domain": "ambiguous",
+      "count": 1
+    },
+    {
+      "source": "plantdoc",
+      "label": "healthy",
+      "domain": "composite_or_illustration",
+      "count": 4
+    },
+    {
+      "source": "plantdoc",
+      "label": "healthy",
+      "domain": "natural_background",
+      "count": 33
+    },
+    {
+      "source": "plantdoc",
+      "label": "healthy",
+      "domain": "staged_plain",
+      "count": 17
+    },
+    {
+      "source": "plantdoc",
+      "label": "late_blight",
+      "domain": "ambiguous",
+      "count": 4
+    },
+    {
+      "source": "plantdoc",
+      "label": "late_blight",
+      "domain": "composite_or_illustration",
+      "count": 2
+    },
+    {
+      "source": "plantdoc",
+      "label": "late_blight",
+      "domain": "natural_background",
+      "count": 66
+    },
+    {
+      "source": "plantdoc",
+      "label": "late_blight",
+      "domain": "staged_plain",
+      "count": 23
+    },
+    {
+      "source": "plantdoc",
+      "label": "septoria",
+      "domain": "ambiguous",
+      "count": 2
+    },
+    {
+      "source": "plantdoc",
+      "label": "septoria",
+      "domain": "composite_or_illustration",
+      "count": 6
+    },
+    {
+      "source": "plantdoc",
+      "label": "septoria",
+      "domain": "natural_background",
+      "count": 68
+    },
+    {
+      "source": "plantdoc",
+      "label": "septoria",
+      "domain": "staged_plain",
+      "count": 19
+    }
+  ],
+  "physical_grouping_complete": false,
+  "training_ready": false,
+  "note": "Contact-sheet screening only. Natural-background counts are candidates, not independent or validated examples. All roles unassigned."
+}

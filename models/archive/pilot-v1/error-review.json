@@ -1,0 +1,157 @@
+{
+  "model_sha256": "432913b461e4f4de5afa91a274c8101fbe71ff8482bd4808f71221b4d45bdca3",
+  "score_band": 0.8,
+  "note": "0.8 is a descriptive score band, not a validated guidance threshold. Wilson intervals assume independent Bernoulli trials; unresolved image dependence/label noise limits their interpretation.",
+  "controlled": {
+    "count": 55,
+    "accuracy": 0.9090909090909091,
+    "accuracy_interval_95": [
+      0.8042250541602005,
+      0.9605418449258196
+    ],
+    "total_errors": 5,
+    "wrong_with_score_at_least_08": 0,
+    "per_class": [
+      {
+        "label": "early_blight",
+        "count": 14,
+        "correct": 11,
+        "recall": 0.7857142857142857,
+        "recall_interval_95": [
+          0.524107694133997,
+          0.9242861328730683
+        ],
+        "confusions": {
+          "healthy": 0,
+          "late_blight": 2,
+          "septoria": 1
+        },
+        "wrong_with_score_at_least_08": 0
+      },
+      {
+        "label": "healthy",
+        "count": 15,
+        "correct": 15,
+        "recall": 1.0,
+        "recall_interval_95": [
+          0.7961166989641515,
+          1
+        ],
+        "confusions": {
+          "early_blight": 0,
+          "late_blight": 0,
+          "septoria": 0
+        },
+        "wrong_with_score_at_least_08": 0
+      },
+      {
+        "label": "late_blight",
+        "count": 12,
+        "correct": 11,
+        "recall": 0.9166666666666666,
+        "recall_interval_95": [
+          0.646120088858883,
+          0.9851349055950829
+        ],
+        "confusions": {
+          "early_blight": 1,
+          "healthy": 0,
+          "septoria": 0
+        },
+        "wrong_with_score_at_least_08": 0
+      },
+      {
+        "label": "septoria",
+        "count": 14,
+        "correct": 13,
+        "recall": 0.9285714285714286,
+        "recall_interval_95": [
+          0.6853129557584889,
+          0.9872777847521093
+        ],
+        "confusions": {
+          "early_blight": 1,
+          "healthy": 0,
+          "late_blight": 0
+        },
+        "wrong_with_score_at_least_08": 0
+      }
+    ]
+  },
+  "field": {
+    "count": 38,
+    "accuracy": 0.42105263157894735,
+    "accuracy_interval_95": [
+      0.27852501157758713,
+      0.5780765465632945
+    ],
+    "total_errors": 22,
+    "wrong_with_score_at_least_08": 17,
+    "per_class": [
+      {
+        "label": "early_blight",
+        "count": 9,
+        "correct": 9,
+        "recall": 1.0,
+        "recall_interval_95": [
+          0.7008549515804559,
+          1
+        ],
+        "confusions": {
+          "healthy": 0,
+          "late_blight": 0,
+          "septoria": 0
+        },
+        "wrong_with_score_at_least_08": 0
+      },
+      {
+        "label": "healthy",
+        "count": 8,
+        "correct": 0,
+        "recall": 0.0,
+        "recall_interval_95": [
+          0,
+          0.32440756488388023
+        ],
+        "confusions": {
+          "early_blight": 6,
+          "late_blight": 1,
+          "septoria": 1
+        },
+        "wrong_with_score_at_least_08": 6
+      },
+      {
+        "label": "late_blight",
+        "count": 10,
+        "correct": 4,
+        "recall": 0.4,
+        "recall_interval_95": [
+          0.16818032970623614,
+          0.6873262302663417
+        ],
+        "confusions": {
+          "early_blight": 6,
+          "healthy": 0,
+          "septoria": 0
+        },
+        "wrong_with_score_at_least_08": 6
+      },
+      {
+        "label": "septoria",
+        "count": 11,
+        "correct": 3,
+        "recall": 0.2727272727272727,
+        "recall_interval_95": [
+          0.09746059290024889,
+          0.5656453011761291
+        ],
+        "confusions": {
+          "early_blight": 8,
+          "healthy": 0,
+          "late_blight": 0
+        },
+        "wrong_with_score_at_least_08": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "revision": "7f7ecc7e1eaca78107e3affe7cb5abd9427e139a",
+  "selection": {
+    "healthy": {
+      "listed": 1000,
+      "mapped": 315,
+      "chosen": 120,
+      "grouping": "publisher recorded leaf ID; one photograph per group"
+    },
+    "early_blight": {
+      "listed": 1000,
+      "mapped": 479,
+      "chosen": 120,
+      "grouping": "publisher recorded leaf ID; one photograph per group"
+    },
+    "late_blight": {
+      "listed": 1000,
+      "mapped": 269,
+      "chosen": 120,
+      "grouping": "publisher recorded leaf ID; one photograph per group"
+    },
+    "septoria": {
+      "listed": 1000,
+      "mapped": 283,
+      "chosen": 120,
+      "grouping": "publisher recorded leaf ID; one photograph per group"
+    }
+  },
+  "limits": "Small controlled-image pilot; API directory listings may be capped at 1000 entries. Does not represent all source images. No field-image validation.",
+  "audit": {
+    "passes": true,
+    "rows": 480,
+    "errors": [],
+    "warnings": [],
+    "shared_labels": [
+      "early_blight",
+      "healthy",
+      "late_blight",
+      "septoria"
+    ],
+    "counts": [
+      {
+        "domain": "controlled",
+        "role": "conformal",
+        "label": "early_blight",
+        "count": 19
+      },
+      {
+        "domain": "controlled",
+        "role": "conformal",
+        "label": "healthy",
+        "count": 17
+      },
+      {
+        "domain": "controlled",
+        "role": "conformal",
+        "label": "late_blight",
+        "count": 13
+      },
+      {
+        "domain": "controlled",
+        "role": "conformal",
+        "label": "septoria",
+        "count": 13
+      },
+      {
+        "domain": "controlled",
+        "role": "policy",
+        "label": "early_blight",
+        "count": 5
+      },
+      {
+        "domain": "controlled",
+        "role": "policy",
+        "label": "healthy",
+        "count": 9
+      },
+      {
+        "domain": "controlled",
+        "role": "policy",
+        "label": "late_blight",
+        "count": 5
+      },
+      {
+        "domain": "controlled",
+        "role": "policy",
+        "label": "septoria",
+        "count": 8
+      },
+      {
+        "domain": "controlled",
+        "role": "temperature",
+        "label": "early_blight",
+        "count": 7
+      },
+      {
+        "domain": "controlled",
+        "role": "temperature",
+        "label": "healthy",
+        "count": 13
+      },
+      {
+        "domain": "controlled",
+        "role": "temperature",
+        "label": "late_blight",
+        "count": 13
+      },
+      {
+        "domain": "controlled",
+        "role": "temperature",
+        "label": "septoria",
+        "count": 14
+      },
+      {
+        "domain": "controlled",
+        "role": "test",
+        "label": "early_blight",
+        "count": 14
+      },
+      {
+        "domain": "controlled",
+        "role": "test",
+        "label": "healthy",
+        "count": 15
+      },
+      {
+        "domain": "controlled",
+        "role": "test",
+        "label": "late_blight",
+        "count": 12
+      },
+      {
+        "domain": "controlled",
+        "role": "test",
+        "label": "septoria",
+        "count": 14
+      },
+      {
+        "domain": "controlled",
+        "role": "train",
+        "label": "early_blight",
+        "count": 67
+      },
+      {
+        "domain": "controlled",
+        "role": "train",
+        "label": "healthy",
+        "count": 52
+      },
+      {
+        "domain": "controlled",
+        "role": "train",
+        "label": "late_blight",
+        "count": 69
+      },
+      {
+        "domain": "controlled",
+        "role": "train",
+        "label": "septoria",
+        "count": 62
+      },
+      {
+        "domain": "controlled",
+        "role": "validation",
+        "label": "early_blight",
+        "count": 8
+      },
+      {
+        "domain": "controlled",
+        "role": "validation",
+        "label": "healthy",
+        "count": 14
+      },
+      {
+        "domain": "controlled",
+        "role": "validation",
+        "label": "late_blight",
+        "count": 8
+      },
+      {
+        "domain": "controlled",
+        "role": "validation",
+        "label": "septoria",
+        "count": 9
+      }
+    ],
+    "limits": "Checks exact bytes and declared capture groups. Cannot detect every near duplicate, incorrect label, or invented group identity."
+  }
+}

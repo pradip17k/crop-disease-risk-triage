@@ -1,0 +1,23 @@
+{
+  "model_name": "MobileNetV3-Small \u00b7 tomato research v2",
+  "model_sha256": "477fe388339fe99fc2a493a77961ea1a6b60c145c419d52f66ebdccf3bfe0ff1",
+  "classes": [
+    "early_blight",
+    "healthy",
+    "late_blight",
+    "septoria"
+  ],
+  "temperature": 1.059253725177289,
+  "method": "LAC",
+  "alpha": 0.1,
+  "qhat": 0.8182694725416981,
+  "independently_evaluated": false,
+  "guidance_enabled": false,
+  "energy_cutoff": null,
+  "version": "source-v2",
+  "limitations": [
+    "Expanded source training with partial feature fine-tuning.",
+    "Historical field accuracy 50%; healthy field recall 0/8.",
+    "No evaluated live unknown-input cutoff; guidance disabled."
+  ]
+}

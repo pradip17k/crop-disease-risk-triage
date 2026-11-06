@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+# Downloaded photos, local user checks and reproducible caches
+data/images/
+data/field/
+data/source/
+data/source-v2/images/
+data/torch-cache/
+data/error-analysis/
+data/field-development/images/
+data/field-development/rechecks/
+data/field-development/review-sheets/
+data/field-development/background-review/*.jpg
+data/field-development/healthy-expansion/*.jpg
+outputs/

@@ -1,0 +1,25 @@
+{
+  "protocol": "field-development-v1",
+  "status": "inventory_and_quarantine",
+  "training_authorized_by_data_audit": false,
+  "labels": ["early_blight", "healthy", "late_blight", "septoria"],
+  "roles": ["train", "validation", "temperature", "conformal", "policy", "test"],
+  "field_minimum_targets": {
+    "conformal": {"total": 100, "healthy": 25},
+    "policy": {"total": 100, "healthy": 25},
+    "test": {"total": 100, "healthy": 25}
+  },
+  "sources": [
+    {"id": "plantdoc", "version": "5467f6012d78d1c446145d5f582da6096f852ae8", "publisher_partition": "train", "license": "CC BY 4.0"},
+    {"id": "jttrv2w27r", "version": 2, "license": "CC BY 4.0"},
+    {"id": "bwh3zbpkpv", "version": 1, "raw_only": true, "license": "CC BY 4.0"}
+  ],
+  "required_before_assignment": [
+    "Exact and perceptual overlap review against earlier cohorts and user/reference images",
+    "Conflicting-label and natural-background review",
+    "Physical leaf/capture grouping or explicit unresolved dependence disclosure",
+    "Source/class balance and sufficient independent groups",
+    "Immutable group split manifest and final-test seal"
+  ],
+  "guidance_enabled": false
+}

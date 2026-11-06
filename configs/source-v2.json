@@ -1,0 +1,38 @@
+{
+  "name": "source-v2",
+  "status": "executed_research_pilot",
+  "reason": "Small source pilot fails on healthy/field examples; test a larger source cohort and limited feature fine-tuning.",
+  "crop": "tomato",
+  "classes": [
+    "healthy",
+    "early_blight",
+    "late_blight",
+    "septoria"
+  ],
+  "groups_per_class": 220,
+  "exclude": "All pilot-v1 recorded leaf groups; all UI sample/check-photo groups and exact hashes. No user-reported photos are training data.",
+  "source": "Same pinned original PlantVillage release; record remaining limitations of capped directory listings.",
+  "training": {
+    "max_epochs": 12,
+    "fine_tune_last_blocks": 3,
+    "warmup_epochs": 3,
+    "head_lr": 0.001,
+    "feature_lr": 0.0001,
+    "batch_size": 32,
+    "seed": 42,
+    "augmentation": "random resized crop, horizontal flip, rotation and moderate color jitter; evaluation remains deterministic square bilinear resize"
+  },
+  "selection": "Candidate checkpoint selected only by source-v2 validation macro-F1. No threshold selection or training on field/test images.",
+  "evaluation": "Source-v2 fresh grouped test; original field cohort can only be reused as a historical research benchmark, not a fresh blind test.",
+  "promotion": "Do not silently replace live model. Document evidence and checks first. All management guidance remains disabled.",
+  "pre_training_amendment": "Original capped source listings provided 391 additional valid groups rather than 880. Retain the original 250 TRAIN-ONLY images to form 641 total images, 475 train. All original non-training roles remain excluded. Amendment made after metadata audit and before fitting; no v2 predictions observed.",
+  "actual_counts": {
+    "train": 475,
+    "validation": 38,
+    "temperature": 32,
+    "conformal": 25,
+    "policy": 22,
+    "test": 49
+  },
+  "activation": "Activated after training, ONNX parity, matched source-validation comparison and explicit user-facing disclosure; guidance remains disabled. Historical field results descriptive only."
+}

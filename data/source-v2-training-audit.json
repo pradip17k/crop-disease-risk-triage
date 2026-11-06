@@ -1,0 +1,159 @@
+{
+  "passes": true,
+  "rows": 641,
+  "errors": [],
+  "warnings": [],
+  "shared_labels": [
+    "early_blight",
+    "healthy",
+    "late_blight",
+    "septoria"
+  ],
+  "counts": [
+    {
+      "domain": "controlled",
+      "role": "conformal",
+      "label": "early_blight",
+      "count": 13
+    },
+    {
+      "domain": "controlled",
+      "role": "conformal",
+      "label": "healthy",
+      "count": 1
+    },
+    {
+      "domain": "controlled",
+      "role": "conformal",
+      "label": "late_blight",
+      "count": 6
+    },
+    {
+      "domain": "controlled",
+      "role": "conformal",
+      "label": "septoria",
+      "count": 5
+    },
+    {
+      "domain": "controlled",
+      "role": "policy",
+      "label": "early_blight",
+      "count": 10
+    },
+    {
+      "domain": "controlled",
+      "role": "policy",
+      "label": "healthy",
+      "count": 3
+    },
+    {
+      "domain": "controlled",
+      "role": "policy",
+      "label": "late_blight",
+      "count": 4
+    },
+    {
+      "domain": "controlled",
+      "role": "policy",
+      "label": "septoria",
+      "count": 5
+    },
+    {
+      "domain": "controlled",
+      "role": "temperature",
+      "label": "early_blight",
+      "count": 11
+    },
+    {
+      "domain": "controlled",
+      "role": "temperature",
+      "label": "healthy",
+      "count": 5
+    },
+    {
+      "domain": "controlled",
+      "role": "temperature",
+      "label": "late_blight",
+      "count": 6
+    },
+    {
+      "domain": "controlled",
+      "role": "temperature",
+      "label": "septoria",
+      "count": 10
+    },
+    {
+      "domain": "controlled",
+      "role": "test",
+      "label": "early_blight",
+      "count": 8
+    },
+    {
+      "domain": "controlled",
+      "role": "test",
+      "label": "healthy",
+      "count": 8
+    },
+    {
+      "domain": "controlled",
+      "role": "test",
+      "label": "late_blight",
+      "count": 12
+    },
+    {
+      "domain": "controlled",
+      "role": "test",
+      "label": "septoria",
+      "count": 21
+    },
+    {
+      "domain": "controlled",
+      "role": "train",
+      "label": "early_blight",
+      "count": 145
+    },
+    {
+      "domain": "controlled",
+      "role": "train",
+      "label": "healthy",
+      "count": 76
+    },
+    {
+      "domain": "controlled",
+      "role": "train",
+      "label": "late_blight",
+      "count": 127
+    },
+    {
+      "domain": "controlled",
+      "role": "train",
+      "label": "septoria",
+      "count": 127
+    },
+    {
+      "domain": "controlled",
+      "role": "validation",
+      "label": "early_blight",
+      "count": 8
+    },
+    {
+      "domain": "controlled",
+      "role": "validation",
+      "label": "healthy",
+      "count": 6
+    },
+    {
+      "domain": "controlled",
+      "role": "validation",
+      "label": "late_blight",
+      "count": 9
+    },
+    {
+      "domain": "controlled",
+      "role": "validation",
+      "label": "septoria",
+      "count": 15
+    }
+  ],
+  "limits": "Checks exact bytes and declared capture groups. Cannot detect every near duplicate, incorrect label, or invented group identity."
+}

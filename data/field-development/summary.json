@@ -1,0 +1,30 @@
+{
+  "listed": 4604,
+  "listed_bytes": 406078185,
+  "counts": {
+    "bwh3zbpkpv:healthy": 470,
+    "bwh3zbpkpv:septoria": 2743,
+    "jttrv2w27r:early_blight": 524,
+    "jttrv2w27r:healthy": 380,
+    "jttrv2w27r:late_blight": 112,
+    "plantdoc:early_blight": 79,
+    "plantdoc:healthy": 55,
+    "plantdoc:late_blight": 101,
+    "plantdoc:septoria": 140
+  },
+  "downloaded_audited": 834,
+  "status_counts": {
+    "quarantine": 831,
+    "download_or_decode_failure": 1,
+    "excluded_prior_image": 2
+  },
+  "distinct_decoded_pixels": 831,
+  "final_test_assigned": 0,
+  "ready_for_training": false,
+  "limits": [
+    "Inventory counts are not independent leaf counts.",
+    "All downloads quarantined pending background/label/capture-group review.",
+    "Exact historical overlap excluded; near-duplicate audit still required.",
+    "CCMT ambiguous leaf blight and augmented folders excluded. No disease inference executed."
+  ]
+}

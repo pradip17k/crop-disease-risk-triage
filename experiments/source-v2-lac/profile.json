@@ -1,0 +1,17 @@
+{
+  "model_name": "Tomato research classifier",
+  "model_sha256": "477fe388339fe99fc2a493a77961ea1a6b60c145c419d52f66ebdccf3bfe0ff1",
+  "classes": [
+    "early_blight",
+    "healthy",
+    "late_blight",
+    "septoria"
+  ],
+  "temperature": 1.059253725177289,
+  "method": "LAC",
+  "alpha": 0.1,
+  "qhat": 0.8182694725416981,
+  "independently_evaluated": false,
+  "guidance_enabled": false,
+  "energy_cutoff": null
+}

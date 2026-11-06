@@ -1,0 +1,407 @@
+{
+  "exact_pixel_duplicate_groups": [
+    {
+      "ids": [
+        "plantdoc:0a3e454c04a1c30dfc687ef93071177ee2f033d8",
+        "plantdoc:5871135872e34bc1224e082137c1de844fcbc819"
+      ],
+      "labels": [
+        "late_blight"
+      ],
+      "conflicting_labels": false
+    },
+    {
+      "ids": [
+        "plantdoc:bd932719bc85d0aa9a8171cb454ee18de6f8b5a6",
+        "plantdoc:33e87368e8033d2172c8bb7107ddf7d76867de12"
+      ],
+      "labels": [
+        "septoria"
+      ],
+      "conflicting_labels": false
+    }
+  ],
+  "near_duplicate_candidates": [
+    {
+      "first": "bwh3zbpkpv:f0953921-5b3f-42b7-a64b-50cc6919d6aa",
+      "second": "bwh3zbpkpv:d5ff283c-9968-4d89-8cfa-648536969af3",
+      "hamming_distance": 1,
+      "labels": [
+        "healthy",
+        "healthy"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "bwh3zbpkpv:a5dffb90-95fc-4d99-a75a-6d439e909bb9",
+      "second": "bwh3zbpkpv:c8b86b44-fc3d-4a72-b2f1-34d16f9ebbf3",
+      "hamming_distance": 1,
+      "labels": [
+        "septoria",
+        "septoria"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:b81c5794-8ed9-4f14-af23-f37b66daf6a8",
+      "second": "jttrv2w27r:3d1f3b88-4db6-4f9f-bc10-13e0e2674740",
+      "hamming_distance": 0,
+      "labels": [
+        "early_blight",
+        "early_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:d62bcf4c-cb29-4d55-a14a-ba0514d23974",
+      "second": "jttrv2w27r:9b47b92e-6553-423a-9d81-62652d928c7f",
+      "hamming_distance": 4,
+      "labels": [
+        "early_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:330cdd00-5f70-41da-8c58-371b9965343c",
+      "second": "jttrv2w27r:d8e33e3f-1a25-4310-b92c-7aa9735abc54",
+      "hamming_distance": 4,
+      "labels": [
+        "early_blight",
+        "early_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:ebc77c6e-8d48-4387-9e11-8aee44beed6f",
+      "second": "jttrv2w27r:bd751272-3b55-482f-85da-a0d134bd47fc",
+      "hamming_distance": 2,
+      "labels": [
+        "early_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:ebc77c6e-8d48-4387-9e11-8aee44beed6f",
+      "second": "jttrv2w27r:dd3f7b66-18e3-440a-bd5b-521ba7908f7a",
+      "hamming_distance": 3,
+      "labels": [
+        "early_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:8aad3ba4-5d04-4206-a664-4484b024bc0e",
+      "second": "jttrv2w27r:5258a808-3280-4d6c-950e-f0aed268e0e4",
+      "hamming_distance": 4,
+      "labels": [
+        "early_blight",
+        "early_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:44a66120-e764-4dcf-a7ec-86a647201ca6",
+      "second": "jttrv2w27r:a8c9413e-72b0-4c22-b16a-b38a0f1ebc16",
+      "hamming_distance": 3,
+      "labels": [
+        "early_blight",
+        "early_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:44a66120-e764-4dcf-a7ec-86a647201ca6",
+      "second": "jttrv2w27r:bd751272-3b55-482f-85da-a0d134bd47fc",
+      "hamming_distance": 4,
+      "labels": [
+        "early_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:44a66120-e764-4dcf-a7ec-86a647201ca6",
+      "second": "jttrv2w27r:3cd63f78-a1ee-4202-9d0c-40648e55d022",
+      "hamming_distance": 2,
+      "labels": [
+        "early_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:44a66120-e764-4dcf-a7ec-86a647201ca6",
+      "second": "jttrv2w27r:dd3f7b66-18e3-440a-bd5b-521ba7908f7a",
+      "hamming_distance": 3,
+      "labels": [
+        "early_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:a8c9413e-72b0-4c22-b16a-b38a0f1ebc16",
+      "second": "jttrv2w27r:3cd63f78-a1ee-4202-9d0c-40648e55d022",
+      "hamming_distance": 3,
+      "labels": [
+        "early_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:39ebfa3f-0c66-40bf-a389-8c01abebbb19",
+      "second": "jttrv2w27r:91b641b5-5eb8-4afe-bf47-080792cd837a",
+      "hamming_distance": 4,
+      "labels": [
+        "healthy",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:b3176580-dc40-4213-b24b-fac1bb1130c1",
+      "second": "jttrv2w27r:4be314e5-3967-4125-b5fd-bd5ef9789dc0",
+      "hamming_distance": 4,
+      "labels": [
+        "healthy",
+        "healthy"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:03460aa0-067c-4857-9a87-46a2760a078d",
+      "second": "jttrv2w27r:50ebd160-d027-4daa-8923-47a532c00075",
+      "hamming_distance": 4,
+      "labels": [
+        "healthy",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:20674e7f-af90-4013-886e-88e8d53db76e",
+      "second": "jttrv2w27r:75bf3908-6f8a-46ed-a7c5-2f498d284d7e",
+      "hamming_distance": 0,
+      "labels": [
+        "healthy",
+        "healthy"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:6aa9a811-314b-402a-8760-e7b6199ff40a",
+      "second": "jttrv2w27r:85f1f35c-1829-4b1e-828a-830cd273c993",
+      "hamming_distance": 0,
+      "labels": [
+        "healthy",
+        "healthy"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:3f2f3bc8-6785-4073-854c-7da426e892d7",
+      "second": "jttrv2w27r:3cd63f78-a1ee-4202-9d0c-40648e55d022",
+      "hamming_distance": 4,
+      "labels": [
+        "late_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:4c231c6e-5eb3-4c32-8e0e-dfa43f894e10",
+      "second": "jttrv2w27r:3a591ea7-c66d-42e7-8e90-8eb6127891ba",
+      "hamming_distance": 2,
+      "labels": [
+        "late_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:aacf3451-5bcd-4316-9f90-1d37745b791f",
+      "second": "jttrv2w27r:139b9ea1-1e59-4e0b-86e7-9afdc9f29fbc",
+      "hamming_distance": 0,
+      "labels": [
+        "late_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:501cf483-6184-4df8-9616-6e9cfa19092f",
+      "second": "jttrv2w27r:50ebd160-d027-4daa-8923-47a532c00075",
+      "hamming_distance": 4,
+      "labels": [
+        "late_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:9fea74a2-ac25-4c11-9f18-231f2de42ee2",
+      "second": "jttrv2w27r:b43ead89-4e9d-4cad-b672-57b2db1b642a",
+      "hamming_distance": 0,
+      "labels": [
+        "late_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:bd751272-3b55-482f-85da-a0d134bd47fc",
+      "second": "jttrv2w27r:dd3f7b66-18e3-440a-bd5b-521ba7908f7a",
+      "hamming_distance": 3,
+      "labels": [
+        "late_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:a5d906fd-0947-4a54-9171-69bb168cf37d",
+      "second": "jttrv2w27r:12aad733-2148-4cd4-8073-e276f2f51c7b",
+      "hamming_distance": 4,
+      "labels": [
+        "late_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:3cd63f78-a1ee-4202-9d0c-40648e55d022",
+      "second": "jttrv2w27r:dd3f7b66-18e3-440a-bd5b-521ba7908f7a",
+      "hamming_distance": 3,
+      "labels": [
+        "late_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:7c6f3a1b-8450-41d0-9450-bd4a2aeffe5f",
+      "second": "jttrv2w27r:2dc6d1c6-df4d-4b64-840d-8b88b8860ba4",
+      "hamming_distance": 1,
+      "labels": [
+        "late_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:5e48cbd1-5acf-4c29-8689-1d25bdbf2908",
+      "second": "jttrv2w27r:1bb8c725-045d-4ff5-8b2d-eb2209847a54",
+      "hamming_distance": 2,
+      "labels": [
+        "late_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "jttrv2w27r:98a89a32-4e1d-4a1d-9dd8-b4b81dd49fe6",
+      "second": "jttrv2w27r:9348d147-bbcd-4bb0-8d12-d3d5032ad46c",
+      "hamming_distance": 1,
+      "labels": [
+        "late_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "plantdoc:d22e90035cdd0081a66c79cb2cc37f2ec06e9c6b",
+      "second": "plantdoc:dbc9d22a6e2c7538bfab9287c97ba10de212e26b",
+      "hamming_distance": 0,
+      "labels": [
+        "early_blight",
+        "early_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "plantdoc:adc36dd7d243595d43a52e214d01defe67ecc2b9",
+      "second": "plantdoc:233f3d61bbe8676ac6398191b92328843b4dbf42",
+      "hamming_distance": 1,
+      "labels": [
+        "early_blight",
+        "early_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "plantdoc:3da8d8e918ac8c98f88f4d9ea3b4f02b3eb7953c",
+      "second": "plantdoc:9abcca55f2fe74a2d8af02c65931edc63704d223",
+      "hamming_distance": 4,
+      "labels": [
+        "early_blight",
+        "early_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "plantdoc:e878f88cd44ee2f0e31e88888e9b1ad720b3ac57",
+      "second": "plantdoc:794575619bfa9a4b185018cb6504f811a9a6d9ee",
+      "hamming_distance": 0,
+      "labels": [
+        "early_blight",
+        "septoria"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "plantdoc:193652ffc9a240c9cd314d56e4ef40cc60c1a789",
+      "second": "plantdoc:2299d449911e993f87d7004d8ad39b7706fecf92",
+      "hamming_distance": 0,
+      "labels": [
+        "early_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "plantdoc:372d5c557b109d25db15f2d07303ead530869222",
+      "second": "plantdoc:dd50b0b7940c1b2bf0474b369652b04c60b03e66",
+      "hamming_distance": 1,
+      "labels": [
+        "early_blight",
+        "early_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "plantdoc:0bd6bc15d86ad062534a519ae618593156a79c51",
+      "second": "plantdoc:d4ca59f6d8225cea41ed8247ab3a4b27a9d4f27d",
+      "hamming_distance": 0,
+      "labels": [
+        "late_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "plantdoc:f5462068d4103aeecfa8730f43864cb30dbee37c",
+      "second": "plantdoc:38b7b497b5880adaff9533c138db15c82e953148",
+      "hamming_distance": 3,
+      "labels": [
+        "late_blight",
+        "late_blight"
+      ],
+      "decision": "pending_visual_review"
+    },
+    {
+      "first": "plantdoc:2dfe6323126fccbdf4cba5461a7b46540607aeba",
+      "second": "plantdoc:d0b4a7067c8231e48424ce390decc5250d8e53a2",
+      "hamming_distance": 1,
+      "labels": [
+        "septoria",
+        "septoria"
+      ],
+      "decision": "pending_visual_review"
+    }
+  ],
+  "note": "dHash<=4 is a review heuristic, not a duplicate verdict. Misses crops/rotations and some recompressions. Physical leaf/capture independence and prior-cohort perceptual overlap still need review. No roles assigned."
+}

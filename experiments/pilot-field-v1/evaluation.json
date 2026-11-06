@@ -1,0 +1,220 @@
+{
+  "cohort": "Original PlantDoc publisher test split, selected tomato classes",
+  "revision": "5467f6012d78d1c446145d5f582da6096f852ae8",
+  "model_sha256": "432913b461e4f4de5afa91a274c8101fbe71ff8482bd4808f71221b4d45bdca3",
+  "known": {
+    "macro_f1": 0.35175438596491226,
+    "confusion_matrix": [
+      [
+        9,
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        1,
+        1
+      ],
+      [
+        6,
+        0,
+        4,
+        0
+      ],
+      [
+        8,
+        0,
+        0,
+        3
+      ]
+    ],
+    "class_order": [
+      "early_blight",
+      "healthy",
+      "late_blight",
+      "septoria"
+    ],
+    "count": 38,
+    "accuracy": 0.42105263157894735,
+    "nll": 3.412193468652271,
+    "brier": 0.9769628579707937,
+    "ece": 0.4698657318344792,
+    "aurc": 0.63442639554858,
+    "risk_coverage": [
+      {
+        "coverage": 0.02631578947368421,
+        "risk": 1.0
+      },
+      {
+        "coverage": 0.05263157894736842,
+        "risk": 1.0
+      },
+      {
+        "coverage": 0.07894736842105263,
+        "risk": 1.0
+      },
+      {
+        "coverage": 0.10526315789473684,
+        "risk": 0.75
+      },
+      {
+        "coverage": 0.13157894736842105,
+        "risk": 0.8
+      },
+      {
+        "coverage": 0.15789473684210525,
+        "risk": 0.6666666666666666
+      },
+      {
+        "coverage": 0.18421052631578946,
+        "risk": 0.7142857142857143
+      },
+      {
+        "coverage": 0.21052631578947367,
+        "risk": 0.75
+      },
+      {
+        "coverage": 0.23684210526315788,
+        "risk": 0.6666666666666666
+      },
+      {
+        "coverage": 0.2631578947368421,
+        "risk": 0.6
+      },
+      {
+        "coverage": 0.2894736842105263,
+        "risk": 0.6363636363636364
+      },
+      {
+        "coverage": 0.3157894736842105,
+        "risk": 0.6666666666666666
+      },
+      {
+        "coverage": 0.34210526315789475,
+        "risk": 0.6153846153846154
+      },
+      {
+        "coverage": 0.3684210526315789,
+        "risk": 0.6428571428571429
+      },
+      {
+        "coverage": 0.39473684210526316,
+        "risk": 0.6666666666666666
+      },
+      {
+        "coverage": 0.42105263157894735,
+        "risk": 0.6875
+      },
+      {
+        "coverage": 0.4473684210526316,
+        "risk": 0.6470588235294118
+      },
+      {
+        "coverage": 0.47368421052631576,
+        "risk": 0.6111111111111112
+      },
+      {
+        "coverage": 0.5,
+        "risk": 0.5789473684210527
+      },
+      {
+        "coverage": 0.5263157894736842,
+        "risk": 0.55
+      },
+      {
+        "coverage": 0.5526315789473685,
+        "risk": 0.5238095238095238
+      },
+      {
+        "coverage": 0.5789473684210527,
+        "risk": 0.5454545454545454
+      },
+      {
+        "coverage": 0.6052631578947368,
+        "risk": 0.5652173913043478
+      },
+      {
+        "coverage": 0.631578947368421,
+        "risk": 0.5833333333333334
+      },
+      {
+        "coverage": 0.6578947368421053,
+        "risk": 0.56
+      },
+      {
+        "coverage": 0.6842105263157895,
+        "risk": 0.5384615384615384
+      },
+      {
+        "coverage": 0.7105263157894737,
+        "risk": 0.5185185185185185
+      },
+      {
+        "coverage": 0.7368421052631579,
+        "risk": 0.5357142857142857
+      },
+      {
+        "coverage": 0.7631578947368421,
+        "risk": 0.5517241379310345
+      },
+      {
+        "coverage": 0.7894736842105263,
+        "risk": 0.5666666666666667
+      },
+      {
+        "coverage": 0.8157894736842105,
+        "risk": 0.5483870967741935
+      },
+      {
+        "coverage": 0.8421052631578947,
+        "risk": 0.53125
+      },
+      {
+        "coverage": 0.868421052631579,
+        "risk": 0.5151515151515151
+      },
+      {
+        "coverage": 0.8947368421052632,
+        "risk": 0.5294117647058824
+      },
+      {
+        "coverage": 0.9210526315789473,
+        "risk": 0.5428571428571428
+      },
+      {
+        "coverage": 0.9473684210526315,
+        "risk": 0.5555555555555556
+      },
+      {
+        "coverage": 0.9736842105263158,
+        "risk": 0.5675675675675675
+      },
+      {
+        "coverage": 1.0,
+        "risk": 0.5789473684210527
+      }
+    ]
+  },
+  "unknown_count": 19,
+  "unknown_energy_auroc": 0.5124653739612188,
+  "set_coverage": 0.42105263157894735,
+  "average_set_size": 0.9473684210526315,
+  "source_counts": {
+    "Tomato Early blight leaf": 9,
+    "Tomato Septoria leaf spot": 11,
+    "Tomato leaf late blight": 10,
+    "Tomato leaf": 8,
+    "Tomato leaf bacterial spot": 9,
+    "Tomato leaf mosaic virus": 10
+  },
+  "decode_failures": [],
+  "limits": [
+    "Small web-sourced field-style benchmark, not a prospective farm trial.",
+    "No model/calibration/policy fitting on these images. Do not tune the frozen pilot against these results.",
+    "Exact source byte overlap excluded; related leaves, near duplicates and label noise remain possible.",
+    "Unknown classes are same-crop bacterial spot/mosaic; no non-leaf detection evidence.",
+    "No quality gate; these are model-only measurements. Guidance remains disabled."
+  ]
+}

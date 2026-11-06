@@ -1,0 +1,27 @@
+{
+  "rows": 834,
+  "status_counts": {
+    "pending_capture_provenance": 726,
+    "duplicate_or_related_capture": 58,
+    "excluded_bad_file": 1,
+    "pending_background_provenance": 9,
+    "quarantine_label_conflict": 6,
+    "quarantine_composite": 13,
+    "excluded_prior_scene": 3,
+    "quarantine_source_label_review": 18
+  },
+  "candidate_representatives": 726,
+  "candidate_domains": {
+    "staged_plain": 504,
+    "natural_background": 222
+  },
+  "natural_background_by_label": {
+    "septoria": 68,
+    "healthy": 31,
+    "early_blight": 59,
+    "late_blight": 64
+  },
+  "physical_grouping_complete": false,
+  "training_ready": false,
+  "note": "Conservative reviewed components, not independently verified plants/captures. Labels retained from publisher; all roles unassigned."
+}

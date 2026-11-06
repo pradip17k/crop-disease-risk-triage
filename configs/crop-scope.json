@@ -1,0 +1,21 @@
+{
+  "tomato": {
+    "status": "trained_pilot",
+    "classes": ["healthy", "early_blight", "late_blight", "septoria"],
+    "guidance_enabled": false
+  },
+  "paddy": {
+    "status": "dataset_feasibility_review",
+    "candidate_classes": ["healthy", "bacterial_leaf_blight", "brown_spot", "leaf_blast"],
+    "model_available": false,
+    "mapping_confirmed": false,
+    "candidate_sources": ["Paddy Doctor exact RGB release to resolve", "RiceyLeafDisease originals v1"],
+    "evaluation_design": "Cross-source/region comparison; not automatically controlled-to-field"
+  },
+  "corn": {
+    "status": "fallback_dataset_candidate",
+    "candidate_classes": ["healthy", "common_rust", "gray_leaf_spot", "northern_leaf_blight"],
+    "model_available": false,
+    "mapping_confirmed": false
+  }
+}

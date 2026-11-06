@@ -1,0 +1,1007 @@
+{
+  "input_sha256": "d7112e00cb8bf43ecdda2fa2ee3ac1a63d31aecdbcf407677d5dc5a9ad923f81",
+  "index_sha256": "65ec05738f844d06f7816a2591c24f436eab67e8bebbf05de824725b385e35a8",
+  "note": "All53 candidates visually reviewed. Confirmed and precautionary links remain distinct. Candidate search is not exhaustive.",
+  "pairs": [
+    {
+      "first": "bwh3zbpkpv:c2307ea9-0212-4fc7-96d3-9e8f9d71440e",
+      "second": "bwh3zbpkpv:2040d820-aa63-4947-a941-f6b6e3a549a6",
+      "first_sha256": "d7f1da2e047d8768b3650ac67f190389594b937ba5c98a3ce9f8d13f0244a9c6",
+      "second_sha256": "efafc3dbc91085c1a4483f221132670c38dbf50c27d9ec2b18ba3086c18d689f",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        21
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        22
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-01.jpg",
+      "review_sheet_sha256": "05cb4a7c20abb48a06e8fa1ab1543c1f582d69667205129f217a448e1cfc1baa"
+    },
+    {
+      "first": "bwh3zbpkpv:51d0faaa-1639-4a0a-8fde-92db50b48262",
+      "second": "bwh3zbpkpv:75738358-8407-4dc5-92ea-f05ef8753f34",
+      "first_sha256": "52b1d168bf2d9e1e0152d62651d3e281f3c1117c023619425b1d9d4ba8dd8df0",
+      "second_sha256": "0835b79e0e1a6d890552ace6d6b458735f2a5a42da8bff00c1eca7f9cba4397d",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        32
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        33
+      ],
+      "status": "different_photographs_identity_unresolved",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: different visible leaf/scene arrangement; does not establish independent plants",
+      "review_sheet": "capture-01.jpg",
+      "review_sheet_sha256": "05cb4a7c20abb48a06e8fa1ab1543c1f582d69667205129f217a448e1cfc1baa"
+    },
+    {
+      "first": "bwh3zbpkpv:2c697be1-b3fe-4fc5-b880-e2b6651b20ac",
+      "second": "bwh3zbpkpv:f5693b5d-6625-47eb-8a26-35261e16cabc",
+      "first_sha256": "64d689077a4f2357aac0c9bfbb3fb953d033afc0b48f27b0c488f3eb69ed9c61",
+      "second_sha256": "13d441504f1f1b6813db5bc9cea19abb3990e0b776a64d7fa6a9c3a88847b05c",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        38
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        39
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-01.jpg",
+      "review_sheet_sha256": "05cb4a7c20abb48a06e8fa1ab1543c1f582d69667205129f217a448e1cfc1baa"
+    },
+    {
+      "first": "bwh3zbpkpv:30097f80-f28f-4b0c-8cee-edb1508200b9",
+      "second": "bwh3zbpkpv:85274971-020e-4e98-8d6e-229da3bc46f6",
+      "first_sha256": "7d490d87a666391519aab6b6440d3aaba5465d9b1939e1dbb0aa8c2afe965988",
+      "second_sha256": "0b3bfbbcd5a83e33d220b9b65bd86c8c59d44800a0f184947059605672acac5e",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        45
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        46
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-01.jpg",
+      "review_sheet_sha256": "05cb4a7c20abb48a06e8fa1ab1543c1f582d69667205129f217a448e1cfc1baa"
+    },
+    {
+      "first": "bwh3zbpkpv:30097f80-f28f-4b0c-8cee-edb1508200b9",
+      "second": "bwh3zbpkpv:4ed6dd73-bd3f-4a65-9724-d30c690fc9d8",
+      "first_sha256": "7d490d87a666391519aab6b6440d3aaba5465d9b1939e1dbb0aa8c2afe965988",
+      "second_sha256": "5fcac67dce35bd35377a26571bea4792cf76f452351d28ccf779053dffcbfc9b",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        45
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        47
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-01.jpg",
+      "review_sheet_sha256": "05cb4a7c20abb48a06e8fa1ab1543c1f582d69667205129f217a448e1cfc1baa"
+    },
+    {
+      "first": "bwh3zbpkpv:30097f80-f28f-4b0c-8cee-edb1508200b9",
+      "second": "bwh3zbpkpv:4e41f0de-2800-4c40-8bf0-85f517054496",
+      "first_sha256": "7d490d87a666391519aab6b6440d3aaba5465d9b1939e1dbb0aa8c2afe965988",
+      "second_sha256": "39e016cdf11ae289fb4411d29d5e37d1d1ad9562f6c61b6698e7a5295fa434f4",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        45
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        48
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-02.jpg",
+      "review_sheet_sha256": "1e7087c39cce979f00c39e3bd558c343bd7d1d2482ebd967d87bcf77f26f0b80"
+    },
+    {
+      "first": "bwh3zbpkpv:30097f80-f28f-4b0c-8cee-edb1508200b9",
+      "second": "bwh3zbpkpv:d6845972-e5ab-4513-b5b0-3a9eb12d3800",
+      "first_sha256": "7d490d87a666391519aab6b6440d3aaba5465d9b1939e1dbb0aa8c2afe965988",
+      "second_sha256": "d5d1731a6ad43c18a4f7da13a4a62570cd4163c9d9f57d533e41628d9b2f2d2b",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        45
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        49
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-02.jpg",
+      "review_sheet_sha256": "1e7087c39cce979f00c39e3bd558c343bd7d1d2482ebd967d87bcf77f26f0b80"
+    },
+    {
+      "first": "bwh3zbpkpv:30097f80-f28f-4b0c-8cee-edb1508200b9",
+      "second": "bwh3zbpkpv:d6eb002d-536d-48f7-afbc-0b9ad492a911",
+      "first_sha256": "7d490d87a666391519aab6b6440d3aaba5465d9b1939e1dbb0aa8c2afe965988",
+      "second_sha256": "3cdc200ba44ba54d47f9db5a542eb5c20c0bb2a6170b2a85c627170bbb96b438",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        45
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        50
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-02.jpg",
+      "review_sheet_sha256": "1e7087c39cce979f00c39e3bd558c343bd7d1d2482ebd967d87bcf77f26f0b80"
+    },
+    {
+      "first": "bwh3zbpkpv:e333afea-38a3-4ac8-b994-9d31268fe358",
+      "second": "bwh3zbpkpv:f68974bd-1f0d-4e43-ae22-e394e795c3fc",
+      "first_sha256": "9f4348cb104b6936af021208b774bcea893371d882243879490f9dc36a934cb9",
+      "second_sha256": "baf7f5f5286aca54cda201ae798d9aca868f4c9dcf7b118b1ee808a6246a785b",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        55
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        56
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-02.jpg",
+      "review_sheet_sha256": "1e7087c39cce979f00c39e3bd558c343bd7d1d2482ebd967d87bcf77f26f0b80"
+    },
+    {
+      "first": "bwh3zbpkpv:e333afea-38a3-4ac8-b994-9d31268fe358",
+      "second": "bwh3zbpkpv:488bc76d-eb59-46c6-95b7-8e1881499b6a",
+      "first_sha256": "9f4348cb104b6936af021208b774bcea893371d882243879490f9dc36a934cb9",
+      "second_sha256": "fe65d96a00b79d124b8b0dcc0f8929e442ecaa46fe66a2a7bc5bf3f1ae8a3a5b",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        55
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        57
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-02.jpg",
+      "review_sheet_sha256": "1e7087c39cce979f00c39e3bd558c343bd7d1d2482ebd967d87bcf77f26f0b80"
+    },
+    {
+      "first": "bwh3zbpkpv:c20af435-de40-41e3-8b76-73f513c72aed",
+      "second": "bwh3zbpkpv:63b6ad20-5adb-420c-a10a-e18de928b2bc",
+      "first_sha256": "ad902c215b0a3d75154bf188b5abed863db6a9544ea022a390b8eb3c95ee9ab3",
+      "second_sha256": "cc37970c7d86119e6396012f62fb56c8e0e68fc06b475270d099fd46c241fd12",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        68
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        69
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-03.jpg",
+      "review_sheet_sha256": "25de8aae82d516deb133a63ba284171b2548c5144243ceb9e4221ee408f71924"
+    },
+    {
+      "first": "bwh3zbpkpv:4d704c96-d0fc-4851-a896-745c21c71578",
+      "second": "bwh3zbpkpv:b9e37ee5-81d1-42bb-a888-32bd428b9829",
+      "first_sha256": "48a131a2280e3ed54cde775ec6326f3f9cf0471f689489d7180687b9624cac11",
+      "second_sha256": "2e8dba2b4f37e437e0e6018319d63f021da11bf8f3feb36ddb25af138cdf35e3",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        83
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        84
+      ],
+      "status": "possible_shared_capture_keep_together",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: similar capture setup or leaf features; conservative grouping, identity not confirmed",
+      "review_sheet": "capture-03.jpg",
+      "review_sheet_sha256": "25de8aae82d516deb133a63ba284171b2548c5144243ceb9e4221ee408f71924"
+    },
+    {
+      "first": "bwh3zbpkpv:4d704c96-d0fc-4851-a896-745c21c71578",
+      "second": "bwh3zbpkpv:a203de49-db34-40d2-874f-00dd798ab8d2",
+      "first_sha256": "48a131a2280e3ed54cde775ec6326f3f9cf0471f689489d7180687b9624cac11",
+      "second_sha256": "e7603d1a6a1542b13b207284b743e75ff56919a87085cbc306e1ec25f48b0333",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        83
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        85
+      ],
+      "status": "possible_shared_capture_keep_together",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: similar capture setup or leaf features; conservative grouping, identity not confirmed",
+      "review_sheet": "capture-03.jpg",
+      "review_sheet_sha256": "25de8aae82d516deb133a63ba284171b2548c5144243ceb9e4221ee408f71924"
+    },
+    {
+      "first": "bwh3zbpkpv:09a27bfc-e9bc-4955-9f4a-a1210c0f6ea3",
+      "second": "bwh3zbpkpv:878f3585-4027-4409-a9a0-cecf7f296ba1",
+      "first_sha256": "c875688f538a48296e7190fda395821748f8ebf3d41514254b2e332ef7ec4a82",
+      "second_sha256": "8d943f1d2ef49b46400cccc22ae552277bf547b00d26dcfe847d430d9cd1c1ae",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        86
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        87
+      ],
+      "status": "possible_shared_capture_keep_together",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: similar capture setup or leaf features; conservative grouping, identity not confirmed",
+      "review_sheet": "capture-03.jpg",
+      "review_sheet_sha256": "25de8aae82d516deb133a63ba284171b2548c5144243ceb9e4221ee408f71924"
+    },
+    {
+      "first": "bwh3zbpkpv:9f642ef1-d12c-4cf4-8431-015c276a97a7",
+      "second": "bwh3zbpkpv:2add2fb5-1c61-4a3a-8a99-0eb8fc950eaf",
+      "first_sha256": "8e65c57ce220da309e4e06d58b185947846b5f1ce13eb61a8cfb136407b5cb4e",
+      "second_sha256": "e2bddf454f978b9f272e56e7d70d1510cfa3e63d30e020840990b3ac8121a201",
+      "first_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        97
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-healthy.jpg",
+        98
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-03.jpg",
+      "review_sheet_sha256": "25de8aae82d516deb133a63ba284171b2548c5144243ceb9e4221ee408f71924"
+    },
+    {
+      "first": "bwh3zbpkpv:3e777cfb-6871-491e-ae8d-8a801d756a46",
+      "second": "bwh3zbpkpv:2abb6820-5dd6-4586-96d5-043c2ee94df6",
+      "first_sha256": "537b45d3a0897f55dfdc863b5d304b83f899b90149bb35122f9dbe8809bafcf0",
+      "second_sha256": "369603ffc6caebf244589d80d8f77fe1256eaf0354b85d655e5aad4fcf7e80af",
+      "first_tile": [
+        "bwh3zbpkpv-septoria.jpg",
+        32
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-septoria.jpg",
+        33
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-04.jpg",
+      "review_sheet_sha256": "281c10e0d5910eaf1ccd8638d515a23a25511992956e541dba4250aea04a7a77"
+    },
+    {
+      "first": "bwh3zbpkpv:1820880e-e29d-4428-9d57-43ac2d14a3b4",
+      "second": "bwh3zbpkpv:79d12ebe-61ea-4881-9c14-373da9055abe",
+      "first_sha256": "9d0d013c8d9ab4e085faa082c534b25e279d6858dae6d681649e5d8d0605bddc",
+      "second_sha256": "827bdc6b6c1dc8db79d6a9fdc3b049753d59135387f5c859b303669326989562",
+      "first_tile": [
+        "bwh3zbpkpv-septoria.jpg",
+        34
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-septoria.jpg",
+        35
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-04.jpg",
+      "review_sheet_sha256": "281c10e0d5910eaf1ccd8638d515a23a25511992956e541dba4250aea04a7a77"
+    },
+    {
+      "first": "bwh3zbpkpv:58e1d97b-2662-4205-8703-54b2fa3d537f",
+      "second": "bwh3zbpkpv:8587198f-a7b7-4aaf-adb8-d3a8a2f76555",
+      "first_sha256": "9c771d019e5d53aab8f7a4679e26a9296c152c06100109036b3407047bc1c751",
+      "second_sha256": "66519473610a8de206e3abce61238c74a747dfd768c040082fd173a716e92649",
+      "first_tile": [
+        "bwh3zbpkpv-septoria.jpg",
+        69
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-septoria.jpg",
+        70
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-04.jpg",
+      "review_sheet_sha256": "281c10e0d5910eaf1ccd8638d515a23a25511992956e541dba4250aea04a7a77"
+    },
+    {
+      "first": "bwh3zbpkpv:014b609f-f40e-4f9c-97ee-f9a8973c6ed7",
+      "second": "bwh3zbpkpv:508de527-4375-4e80-9fd3-54b0d0bd9548",
+      "first_sha256": "3e4ab7538e5f14df1f73e1953db41a119bb3e7de69496ff3fa1e9b62bb27cb7f",
+      "second_sha256": "c54e1b84e50333fd085f48a6901935a16091d467ed20acb64ef029c8a053f752",
+      "first_tile": [
+        "bwh3zbpkpv-septoria.jpg",
+        74
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-septoria.jpg",
+        75
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-04.jpg",
+      "review_sheet_sha256": "281c10e0d5910eaf1ccd8638d515a23a25511992956e541dba4250aea04a7a77"
+    },
+    {
+      "first": "bwh3zbpkpv:bb530495-4347-474e-816e-bdf847bd8518",
+      "second": "bwh3zbpkpv:e7bf8924-956d-4d7d-bfac-182a0de4761f",
+      "first_sha256": "87b15d3467032d41f80c2a9c59cd48b95212cde71eef240c41f6897d447b5d48",
+      "second_sha256": "d24c8e26c36d89ad73f1845d7bb1265a1c923172c6fa59cf474dba728df3fdd4",
+      "first_tile": [
+        "bwh3zbpkpv-septoria.jpg",
+        91
+      ],
+      "second_tile": [
+        "bwh3zbpkpv-septoria.jpg",
+        92
+      ],
+      "status": "different_photographs_identity_unresolved",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: different visible leaf/scene arrangement; does not establish independent plants",
+      "review_sheet": "capture-04.jpg",
+      "review_sheet_sha256": "281c10e0d5910eaf1ccd8638d515a23a25511992956e541dba4250aea04a7a77"
+    },
+    {
+      "first": "jttrv2w27r:9b8fa4e9-822e-4507-9233-034c62caedf6",
+      "second": "jttrv2w27r:3131aa83-5feb-4c54-b17c-5569c2979381",
+      "first_sha256": "4c24b28ae090363406bf81dfedbe2a4894cb4086c15756f81c0eb9b30fb1113b",
+      "second_sha256": "d5290a65d10e3bf9b8b4834c6db2d5d1d712b8f99be3ed14256c7b2e924fb070",
+      "first_tile": [
+        "jttrv2w27r-healthy.jpg",
+        3
+      ],
+      "second_tile": [
+        "jttrv2w27r-healthy.jpg",
+        4
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-05.jpg",
+      "review_sheet_sha256": "c7988995384af3a2b0aa100c983772bdabfad84597683c5c63eca53eb6b46b29"
+    },
+    {
+      "first": "jttrv2w27r:040b13a2-d5c5-43fd-b68f-bc0c25883b28",
+      "second": "jttrv2w27r:69bd501c-fb68-4fb9-a0ee-ede1aeb40054",
+      "first_sha256": "1ab4fc7a779ff7ef6d3a40cce3b9f0f07c699d0f2df81946e28645d00fdfa275",
+      "second_sha256": "d7d9fde1f58168af6d55a28460b2d6629e3e3f0f6cad52fd76d00e71ef3b25f5",
+      "first_tile": [
+        "jttrv2w27r-healthy.jpg",
+        13
+      ],
+      "second_tile": [
+        "jttrv2w27r-healthy.jpg",
+        14
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-05.jpg",
+      "review_sheet_sha256": "c7988995384af3a2b0aa100c983772bdabfad84597683c5c63eca53eb6b46b29"
+    },
+    {
+      "first": "jttrv2w27r:0ef064b1-c6ed-4ca8-a11b-aba7734cf604",
+      "second": "jttrv2w27r:1017a099-3d17-4b04-9093-6d6ec81d3bbf",
+      "first_sha256": "970077aa8d9b72dcb6de8cda256d8955100c25c508ab120c70f5e58de81546eb",
+      "second_sha256": "a92e95410aa498e5c8545e2a4882f689a8b2b6e7ebe09154a452749eabc89733",
+      "first_tile": [
+        "jttrv2w27r-healthy.jpg",
+        96
+      ],
+      "second_tile": [
+        "jttrv2w27r-healthy.jpg",
+        97
+      ],
+      "status": "possible_shared_capture_keep_together",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: similar capture setup or leaf features; conservative grouping, identity not confirmed",
+      "review_sheet": "capture-05.jpg",
+      "review_sheet_sha256": "c7988995384af3a2b0aa100c983772bdabfad84597683c5c63eca53eb6b46b29"
+    },
+    {
+      "first": "jttrv2w27r:0ef064b1-c6ed-4ca8-a11b-aba7734cf604",
+      "second": "jttrv2w27r:c3e5a2e6-a92f-49ce-a76e-d4bcd11878a8",
+      "first_sha256": "970077aa8d9b72dcb6de8cda256d8955100c25c508ab120c70f5e58de81546eb",
+      "second_sha256": "83628dae43b2a371618078b2ac5ef940fa325d317910c29f1a446bd8603f9fd6",
+      "first_tile": [
+        "jttrv2w27r-healthy.jpg",
+        96
+      ],
+      "second_tile": [
+        "jttrv2w27r-healthy.jpg",
+        98
+      ],
+      "status": "possible_shared_capture_keep_together",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: similar capture setup or leaf features; conservative grouping, identity not confirmed",
+      "review_sheet": "capture-05.jpg",
+      "review_sheet_sha256": "c7988995384af3a2b0aa100c983772bdabfad84597683c5c63eca53eb6b46b29"
+    },
+    {
+      "first": "jttrv2w27r:c9d3f138-72c7-48c8-b91d-374f95be3ce6",
+      "second": "jttrv2w27r:aa28795a-1f68-4e98-8e7b-30b1f51cff47",
+      "first_sha256": "3c2204b6a3c706885abbba341e2fb2727d26f66d0ac0cdbdfe94d2d532d6738d",
+      "second_sha256": "7ab2c38c58fe6a523bcc39a8413f96c0e55891d0b4b02b69ed2f82dc9502d825",
+      "first_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        5
+      ],
+      "second_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        6
+      ],
+      "status": "different_photographs_identity_unresolved",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: different visible leaf/scene arrangement; does not establish independent plants",
+      "review_sheet": "capture-05.jpg",
+      "review_sheet_sha256": "c7988995384af3a2b0aa100c983772bdabfad84597683c5c63eca53eb6b46b29"
+    },
+    {
+      "first": "jttrv2w27r:c9d3f138-72c7-48c8-b91d-374f95be3ce6",
+      "second": "jttrv2w27r:c4b16784-b03e-44c5-926d-71bdf2615b40",
+      "first_sha256": "3c2204b6a3c706885abbba341e2fb2727d26f66d0ac0cdbdfe94d2d532d6738d",
+      "second_sha256": "2ee182609702796fee0db0606c7163218e20531c073428a1dd9ae830d649ca2b",
+      "first_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        5
+      ],
+      "second_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        7
+      ],
+      "status": "different_photographs_identity_unresolved",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: different visible leaf/scene arrangement; does not establish independent plants",
+      "review_sheet": "capture-06.jpg",
+      "review_sheet_sha256": "3d4b578a3443bf330d50dfc1ff67906e94392c6e09c4d01c3904162e56e4d6d3"
+    },
+    {
+      "first": "jttrv2w27r:cf6339fe-3fd4-43bf-91a7-a95529c04331",
+      "second": "jttrv2w27r:f1784435-738b-488e-bb99-c4087cbbfd09",
+      "first_sha256": "64d9adbea70a21207e01f72f745f826f1bdba4f1ab12ddf264756c2c96ee215c",
+      "second_sha256": "5eb1c6d279955560e6b7761f33f83ffa00f703d578db4b8eb6d49d6fb0893c09",
+      "first_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        39
+      ],
+      "second_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        40
+      ],
+      "status": "different_photographs_identity_unresolved",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: different visible leaf/scene arrangement; does not establish independent plants",
+      "review_sheet": "capture-06.jpg",
+      "review_sheet_sha256": "3d4b578a3443bf330d50dfc1ff67906e94392c6e09c4d01c3904162e56e4d6d3"
+    },
+    {
+      "first": "jttrv2w27r:6e4fe521-a870-4dab-8682-e088a00e611a",
+      "second": "jttrv2w27r:5fddb625-b4f9-4bde-a345-2dbc8a97863a",
+      "first_sha256": "441be58c183c2c4c4f9a8cf074a7c04c4c3f90100605dcf7765ea01ef5f092a4",
+      "second_sha256": "5418074421695b77e458c0df9f44f130012e6e15e774d991c502610eadb30a07",
+      "first_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        68
+      ],
+      "second_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        69
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-06.jpg",
+      "review_sheet_sha256": "3d4b578a3443bf330d50dfc1ff67906e94392c6e09c4d01c3904162e56e4d6d3"
+    },
+    {
+      "first": "jttrv2w27r:3a591ea7-c66d-42e7-8e90-8eb6127891ba",
+      "second": "jttrv2w27r:adf06df8-6d76-4e70-8850-4df8859c53ec",
+      "first_sha256": "802e744b61096a45988a9b099e0a448051fcb50052b31ac8c6eed2814854e732",
+      "second_sha256": "f6664ee6945afe829981f610266ca6cace6eeba78df328cff7a7c16fb27bdd4c",
+      "first_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        82
+      ],
+      "second_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        83
+      ],
+      "status": "different_photographs_identity_unresolved",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: different visible leaf/scene arrangement; does not establish independent plants",
+      "review_sheet": "capture-06.jpg",
+      "review_sheet_sha256": "3d4b578a3443bf330d50dfc1ff67906e94392c6e09c4d01c3904162e56e4d6d3"
+    },
+    {
+      "first": "jttrv2w27r:3a591ea7-c66d-42e7-8e90-8eb6127891ba",
+      "second": "jttrv2w27r:139b9ea1-1e59-4e0b-86e7-9afdc9f29fbc",
+      "first_sha256": "802e744b61096a45988a9b099e0a448051fcb50052b31ac8c6eed2814854e732",
+      "second_sha256": "58c2196dff5061fd719a7db034b290f5acbf4bbe0535befe259f7de8d6df9370",
+      "first_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        82
+      ],
+      "second_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        84
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-06.jpg",
+      "review_sheet_sha256": "3d4b578a3443bf330d50dfc1ff67906e94392c6e09c4d01c3904162e56e4d6d3"
+    },
+    {
+      "first": "jttrv2w27r:315ed6ea-928d-4855-879d-ad5039acf479",
+      "second": "jttrv2w27r:dccb9d61-9925-4fea-a45f-f96160e0b57f",
+      "first_sha256": "538a94de79e708da962a7b928a74d2500fc2cf59928f06b61da2b3aae651ed42",
+      "second_sha256": "c7e84ed5ea60fface7ce5f2665aac20ea5e7272924ad91844faf57357331c7c1",
+      "first_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        90
+      ],
+      "second_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        91
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-07.jpg",
+      "review_sheet_sha256": "e2c50e540bc6a754841b5b81831eaa87e94e32aa66078fba3091ac9dcbe2552b"
+    },
+    {
+      "first": "jttrv2w27r:7c427868-5e56-44e4-a513-e806385c8f65",
+      "second": "jttrv2w27r:167d44cd-e4c0-4ae1-893e-18aeec284505",
+      "first_sha256": "412b4ed2b175cc95b1e6be7c218e01bcd255f1de687b63ddcee87a6f66f35fa1",
+      "second_sha256": "f664b335a5df8adf321d1bc45b840aa7364d8c5cdea250f99fafe5052c755a41",
+      "first_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        92
+      ],
+      "second_tile": [
+        "jttrv2w27r-late_blight.jpg",
+        93
+      ],
+      "status": "different_photographs_identity_unresolved",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: different visible leaf/scene arrangement; does not establish independent plants",
+      "review_sheet": "capture-07.jpg",
+      "review_sheet_sha256": "e2c50e540bc6a754841b5b81831eaa87e94e32aa66078fba3091ac9dcbe2552b"
+    },
+    {
+      "first": "plantdoc:d2ba8e5e3ff5c72045be2f95bc514433993995ae",
+      "second": "plantdoc:e19f0a2b96bbc5aa091903d17b6c3c47b8aeab9e",
+      "first_sha256": "3edba79d624245191fc0036f231358ea60b2cc8e35645b2c54cc891892073027",
+      "second_sha256": "9f0ee97e32949978c323ff62e2e70788b3c6ab7a2248762328a46099bb7519d5",
+      "first_tile": [
+        "plantdoc-healthy.jpg",
+        5
+      ],
+      "second_tile": [
+        "plantdoc-healthy.jpg",
+        6
+      ],
+      "status": "possible_shared_capture_keep_together",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: similar capture setup or leaf features; conservative grouping, identity not confirmed",
+      "review_sheet": "capture-07.jpg",
+      "review_sheet_sha256": "e2c50e540bc6a754841b5b81831eaa87e94e32aa66078fba3091ac9dcbe2552b"
+    },
+    {
+      "first": "plantdoc:4c7d3352a6f3fb18a7ae93bf17b70fa8e1ad2ab4",
+      "second": "plantdoc:9af552eee74db43f1963b1f60a199b819209f98c",
+      "first_sha256": "5e2472f415aeb8e7cc254db1f17b2d14a4f2daae70b685ee8a70a29f0f99308a",
+      "second_sha256": "50e8f7928017878f7f020bb8f52b61f99d74f3db1d20c80d41a612e04695d32d",
+      "first_tile": [
+        "plantdoc-healthy.jpg",
+        7
+      ],
+      "second_tile": [
+        "plantdoc-healthy.jpg",
+        8
+      ],
+      "status": "possible_shared_capture_keep_together",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: similar capture setup or leaf features; conservative grouping, identity not confirmed",
+      "review_sheet": "capture-07.jpg",
+      "review_sheet_sha256": "e2c50e540bc6a754841b5b81831eaa87e94e32aa66078fba3091ac9dcbe2552b"
+    },
+    {
+      "first": "plantdoc:93ee56ef4081e0c77cd2e1c7781388279af543ce",
+      "second": "plantdoc:2ece168fbe58cdc19a38ed38d385812512362e51",
+      "first_sha256": "64f828f8665c1884762025bba8feeaa41ef5c87651ace0cdb821e7f1981419cd",
+      "second_sha256": "b7ac78d7589165e470a569e7a383325e5d8f204c50d615382dc180663ddebbdb",
+      "first_tile": [
+        "plantdoc-early_blight.jpg",
+        39
+      ],
+      "second_tile": [
+        "plantdoc-early_blight.jpg",
+        40
+      ],
+      "status": "different_photographs_identity_unresolved",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: different visible leaf/scene arrangement; does not establish independent plants",
+      "review_sheet": "capture-07.jpg",
+      "review_sheet_sha256": "e2c50e540bc6a754841b5b81831eaa87e94e32aa66078fba3091ac9dcbe2552b"
+    },
+    {
+      "first": "plantdoc:b628fe26e9c3bd5e75c8ee3238000c6fce128505",
+      "second": "plantdoc:3e8195afab2fe034c26886a68f15d004f59968a5",
+      "first_sha256": "cc438f6eb618d7470cd622e40b6dd423e5242165c1ea0e130a04f15ed18347d3",
+      "second_sha256": "283b4d969c7c2d557e61b7e865eaae86083e9e1dee0282585b4472b7b8829c1c",
+      "first_tile": [
+        "plantdoc-early_blight.jpg",
+        46
+      ],
+      "second_tile": [
+        "plantdoc-early_blight.jpg",
+        47
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-08.jpg",
+      "review_sheet_sha256": "7d153fea1f25426b074c7b48d0ac8c3926b096f2d1cd67538218b90330c79bc5"
+    },
+    {
+      "first": "plantdoc:d101047ea9cf08c929e6b70eb877274b8179d0d9",
+      "second": "plantdoc:b16c792ef72e0c0372579fe77682f184c5316530",
+      "first_sha256": "a218e87485e3460381942c140ec90e1015e08885f990d9271606b9a33b4c8d09",
+      "second_sha256": "17af9b933a654e3c28adc7846816eac9a876183638fba8a86f339bfef2505f42",
+      "first_tile": [
+        "plantdoc-early_blight.jpg",
+        61
+      ],
+      "second_tile": [
+        "plantdoc-early_blight.jpg",
+        62
+      ],
+      "status": "different_photographs_identity_unresolved",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: different visible leaf/scene arrangement; does not establish independent plants",
+      "review_sheet": "capture-08.jpg",
+      "review_sheet_sha256": "7d153fea1f25426b074c7b48d0ac8c3926b096f2d1cd67538218b90330c79bc5"
+    },
+    {
+      "first": "plantdoc:0a3e454c04a1c30dfc687ef93071177ee2f033d8",
+      "second": "plantdoc:f8fa43dbc2342431cbb9e2f8628e6d5d77f7de9f",
+      "first_sha256": "5118060f0790a20d309f5e181248777912a72453c63d18c2d5db05da9a723995",
+      "second_sha256": "a3258472a0d67a56458fd268f64ffa0b08164cf17cfa05cc5ae972e02a8cde68",
+      "first_tile": [
+        "plantdoc-late_blight.jpg",
+        13
+      ],
+      "second_tile": [
+        "plantdoc-late_blight.jpg",
+        14
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-08.jpg",
+      "review_sheet_sha256": "7d153fea1f25426b074c7b48d0ac8c3926b096f2d1cd67538218b90330c79bc5"
+    },
+    {
+      "first": "plantdoc:612aa1f3431c1cf4d5482fe65b3fc0d0e92c9233",
+      "second": "plantdoc:7276466493c020b48d4dc9ea7e7d619fb364186b",
+      "first_sha256": "9a1408769ef9d069a31ec50cf9cfe591962a84159c32064b5d43b694abff1636",
+      "second_sha256": "bdbe542bd9b254a4e96aaa4fef0c134cbea83f385876dd652d4da7d009e8ba48",
+      "first_tile": [
+        "plantdoc-late_blight.jpg",
+        54
+      ],
+      "second_tile": [
+        "plantdoc-late_blight.jpg",
+        55
+      ],
+      "status": "possible_shared_capture_keep_together",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: similar capture setup or leaf features; conservative grouping, identity not confirmed",
+      "review_sheet": "capture-08.jpg",
+      "review_sheet_sha256": "7d153fea1f25426b074c7b48d0ac8c3926b096f2d1cd67538218b90330c79bc5"
+    },
+    {
+      "first": "plantdoc:d28694690cce67a72f4bd68933bc17cbec000b66",
+      "second": "plantdoc:ac3e6fdfbd5eee515ce41ef37f7433913ac4d02d",
+      "first_sha256": "bd87613068228f0493aed0545b456d7a32905e88914c215a5802a396f2802bc9",
+      "second_sha256": "7f45f20fb269dd24ed5e94e216a0dbdfb8a8c8676864f760c4b37abd68410f74",
+      "first_tile": [
+        "plantdoc-late_blight.jpg",
+        58
+      ],
+      "second_tile": [
+        "plantdoc-late_blight.jpg",
+        59
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-08.jpg",
+      "review_sheet_sha256": "7d153fea1f25426b074c7b48d0ac8c3926b096f2d1cd67538218b90330c79bc5"
+    },
+    {
+      "first": "plantdoc:35e28fdc048a643eca1de89865076d666a414faa",
+      "second": "plantdoc:6e2f66e672161357c61020393d3eca3392814eb4",
+      "first_sha256": "e0cb8e337b7ccffef5c9ffadd988ca0cde1d6b698f721cdd0bb6cc54f674b681",
+      "second_sha256": "845e3cfb95badfa9fa06675c134833b9849915083bafff579e3b14d251938f0e",
+      "first_tile": [
+        "plantdoc-late_blight.jpg",
+        71
+      ],
+      "second_tile": [
+        "plantdoc-late_blight.jpg",
+        82
+      ],
+      "status": "possible_shared_capture_keep_together",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: similar capture setup or leaf features; conservative grouping, identity not confirmed",
+      "review_sheet": "capture-09.jpg",
+      "review_sheet_sha256": "1ecdf236c339ca3f381a91274d7291416c9d2f1122460a4376c1df63ed4f2eac"
+    },
+    {
+      "first": "plantdoc:6804ef98e99fafaf8c33ef29434a7fb50346d793",
+      "second": "plantdoc:102c150402131d6df3c7d4ad019425f506d9fd08",
+      "first_sha256": "f7474217b5b29e55fa6f21a4fd4a3085e24e98cda9a5434d3124d5793e6c988d",
+      "second_sha256": "2ad3b5105d22190fbfae4798ab4aec20e3d5d1fd467ebb3e3f51198ffdd3d95b",
+      "first_tile": [
+        "plantdoc-late_blight.jpg",
+        87
+      ],
+      "second_tile": [
+        "plantdoc-late_blight.jpg",
+        88
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-09.jpg",
+      "review_sheet_sha256": "1ecdf236c339ca3f381a91274d7291416c9d2f1122460a4376c1df63ed4f2eac"
+    },
+    {
+      "first": "plantdoc:9272fb7aa4741aba386f601d9ce8e4a2b6699057",
+      "second": "plantdoc:c7e8120612cf19b63b83fb550a6051bcab18735e",
+      "first_sha256": "0ba8d90f1122520d769a944f4e969dcb92a50cec6e28e72b214ddd6831140a86",
+      "second_sha256": "6340fee78e5aa661da4418f4afc43b802c972b436f4ede4094e1188798c3f83a",
+      "first_tile": [
+        "plantdoc-septoria.jpg",
+        15
+      ],
+      "second_tile": [
+        "plantdoc-septoria.jpg",
+        16
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-09.jpg",
+      "review_sheet_sha256": "1ecdf236c339ca3f381a91274d7291416c9d2f1122460a4376c1df63ed4f2eac"
+    },
+    {
+      "first": "plantdoc:c397a96fcb7372a72cabc82e4438988384b89210",
+      "second": "plantdoc:bd0baffbeb010d148e515cea8688b746adfb0774",
+      "first_sha256": "81afaf75b5ca0a17ba18d778f17dbd0f01251ffed493faefbcb5df65e150d6f3",
+      "second_sha256": "94a8ea8452cec2540ead310d93a6375e371b9b7e5077b7614044ec430a03606e",
+      "first_tile": [
+        "plantdoc-septoria.jpg",
+        19
+      ],
+      "second_tile": [
+        "plantdoc-septoria.jpg",
+        20
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-09.jpg",
+      "review_sheet_sha256": "1ecdf236c339ca3f381a91274d7291416c9d2f1122460a4376c1df63ed4f2eac"
+    },
+    {
+      "first": "plantdoc:6c684cf8ffee9caf4c529507dc1162dbf8e14cb1",
+      "second": "plantdoc:32b6d0e48ccc165cbf0fdcda9c0a98d03fe38aea",
+      "first_sha256": "9cc86b01057bb4542c061f00a8648f93d28a584614a3e9515092db1a0edf23ff",
+      "second_sha256": "7da5d22387c0bed19befb6abef6adfafc3b790607594832d8a224a36a948b918",
+      "first_tile": [
+        "plantdoc-septoria.jpg",
+        21
+      ],
+      "second_tile": [
+        "plantdoc-septoria.jpg",
+        22
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-09.jpg",
+      "review_sheet_sha256": "1ecdf236c339ca3f381a91274d7291416c9d2f1122460a4376c1df63ed4f2eac"
+    },
+    {
+      "first": "plantdoc:e4851bbf3cbb2f0b025553f0225075e4b5fd6f45",
+      "second": "plantdoc:7fe84d974531cc6a16cea6efc7f046de5dfe7198",
+      "first_sha256": "7da853e6dd4d3a78447638a64e8addaba2a7d5fe053ef09056af81aff4f2722f",
+      "second_sha256": "96de8e01c001bb855bfb8509a43d77f0b97a77bd730eebb99ca17bdba5bac46c",
+      "first_tile": [
+        "plantdoc-septoria.jpg",
+        33
+      ],
+      "second_tile": [
+        "plantdoc-septoria.jpg",
+        34
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-10.jpg",
+      "review_sheet_sha256": "d4811b8a9960a98a27dd76c556be476b1647a10c25b171bed39d6b8b1a2c1da2"
+    },
+    {
+      "first": "plantdoc:ebf5aa5980c7b7d4777648c8be65dd98103e57c6",
+      "second": "plantdoc:811b67e19b219d84f78f5b2d9e4c21620fdcdc7c",
+      "first_sha256": "8909bd2eaf63b0cd388d2e1fe230b63143559fb06351bd234856486eb4042dbe",
+      "second_sha256": "c1063a7a2fc3a62e77fc2ea93ac9dd63f71834d04bcbafe4394c214d60b2385c",
+      "first_tile": [
+        "plantdoc-septoria.jpg",
+        53
+      ],
+      "second_tile": [
+        "plantdoc-septoria.jpg",
+        61
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-10.jpg",
+      "review_sheet_sha256": "d4811b8a9960a98a27dd76c556be476b1647a10c25b171bed39d6b8b1a2c1da2"
+    },
+    {
+      "first": "plantdoc:28bdcecd7dabbe7e61c5bc27d263e2b568ffca3e",
+      "second": "plantdoc:3afed5680e4cba583f34546742a2cfe069ac12dd",
+      "first_sha256": "f1ede3912f70032173ebb896c3e9c8b58ba6b6bbaf9d2ce56750c01113163afe",
+      "second_sha256": "aa232349743dbaf811d19e952b01a883f79e2a701ff030fbce52f2a4d8ecc279",
+      "first_tile": [
+        "plantdoc-septoria.jpg",
+        6
+      ],
+      "second_tile": [
+        "plantdoc-septoria.jpg",
+        55
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-10.jpg",
+      "review_sheet_sha256": "d4811b8a9960a98a27dd76c556be476b1647a10c25b171bed39d6b8b1a2c1da2"
+    },
+    {
+      "first": "plantdoc:0be083bf40f4580c8748f090a80c1efeb1d459c6",
+      "second": "plantdoc:9b6e85f321015faacf9fd46c0df642c7163ee8c6",
+      "first_sha256": "46884e0ed799561eb222f9947328edb85bad1f147bf033db1c3dbe4cfb39302c",
+      "second_sha256": "94dddabc3c29835b9e2be96cf6a12440606c98ffa45aeb890369cd2434f6c287",
+      "first_tile": [
+        "plantdoc-septoria.jpg",
+        81
+      ],
+      "second_tile": [
+        "plantdoc-septoria.jpg",
+        82
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-10.jpg",
+      "review_sheet_sha256": "d4811b8a9960a98a27dd76c556be476b1647a10c25b171bed39d6b8b1a2c1da2"
+    },
+    {
+      "first": "plantdoc:38f9ba4956d54150d699edc14eb167217e0f894c",
+      "second": "plantdoc:632cf2cf922676de040395b920ba0d1e1714abdd",
+      "first_sha256": "5de1dbc9ed87ae6713ba606b8852c0ffa3a7093e5bc05dcc11e5787041ea7258",
+      "second_sha256": "3c0500015b9ee00e6c4a40038ae26e4e4fb2a50ba1e566103315983aaafabd41",
+      "first_tile": [
+        "plantdoc-septoria.jpg",
+        85
+      ],
+      "second_tile": [
+        "plantdoc-septoria.jpg",
+        86
+      ],
+      "status": "same_leaf_or_scene",
+      "cross_label": false,
+      "evidence": "Enlarged paired visual review: matching vein/lesion layout, leaf outline or overlapping scene features",
+      "review_sheet": "capture-10.jpg",
+      "review_sheet_sha256": "d4811b8a9960a98a27dd76c556be476b1647a10c25b171bed39d6b8b1a2c1da2"
+    },
+    {
+      "first": "plantdoc:199506271d3f467ceb52d12610005f7cfbd30688",
+      "second": "plantdoc:54bd3f01883c99ada12a41c934925ea7c14b9010",
+      "first_sha256": "9d371a6c63fb291698ee47aa1c65fb0d2abb751b44df44db1c7570bc3f7a1f05",
+      "second_sha256": "01acc19e714449444faa9159614e1a2e9af30ca52fa96060da06ac247de456bb",
+      "first_tile": [
+        "plantdoc-early_blight.jpg",
+        2
+      ],
+      "second_tile": [
+        "plantdoc-septoria.jpg",
+        37
+      ],
+      "status": "confirmed_same_scene_conflicting_labels",
+      "cross_label": true,
+      "evidence": "Matching leaf veins, lesions, stem and background; rotated view. Reviewed at up to 490x480 in cross-label-review.jpg."
+    },
+    {
+      "first": "plantdoc:83ea0c4f6e57915ea2b47f94cd8323ff5c895a6d",
+      "second": "plantdoc:4587ec47c30ea29da63fb023b7cbcbfd2d0d6b71",
+      "first_sha256": "7ed2e67e726be123b973849cea4620092f35573c5156c779c1c5fef87d9ccaec",
+      "second_sha256": "cac2ef0738add23eedf74b476e5483911d19d8035a9c076a4f92c8a8ea511362",
+      "first_tile": [
+        "plantdoc-healthy.jpg",
+        36
+      ],
+      "second_tile": [
+        "plantdoc-late_blight.jpg",
+        57
+      ],
+      "status": "different_photographs_identity_unresolved",
+      "cross_label": true
+    },
+    {
+      "first": "plantdoc:b9a626521add1c745721b3be875faa181ce17643",
+      "second": "plantdoc:26cb7d883bdfc90169494d2f00eda0ff444db474",
+      "first_sha256": "be84048ef0f394ed981c12d457700d1c24edc3b210fa3d0c8ebd1deb73f7fb3b",
+      "second_sha256": "f645b9bf98b04eb4b3b9eb676f0522b16717429d0e4ebd5837febd681bfdbd4c",
+      "first_tile": [
+        "plantdoc-early_blight.jpg",
+        13
+      ],
+      "second_tile": [
+        "plantdoc-septoria.jpg",
+        25
+      ],
+      "status": "different_photographs_identity_unresolved",
+      "cross_label": true
+    }
+  ],
+  "reviewed_date": "2026-11-06"
+}

@@ -1,0 +1,1287 @@
+{
+  "classes": [
+    "early_blight",
+    "healthy",
+    "late_blight",
+    "septoria"
+  ],
+  "model_sha256": "477fe388339fe99fc2a493a77961ea1a6b60c145c419d52f66ebdccf3bfe0ff1",
+  "temperature_rows": [
+    {
+      "id": "d6af4b4c1d38d1cfe52c616b582a0c14b34d3f65",
+      "group": "Tomato___healthy:::45.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -2.4043562412261963,
+        4.236966609954834,
+        -2.817777633666992,
+        -2.6058785915374756
+      ]
+    },
+    {
+      "id": "e1119e95054279883fa077f7c899e3974a9a1964",
+      "group": "Tomato___healthy:::9.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -2.155801296234131,
+        6.862256050109863,
+        -2.8059568405151367,
+        -5.689396381378174
+      ]
+    },
+    {
+      "id": "cb3d0b01b8af89cb09b079c79dc658abd5c4230f",
+      "group": "Tomato___healthy:::222.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -3.5468192100524902,
+        5.744256973266602,
+        -2.7383358478546143,
+        -4.077396869659424
+      ]
+    },
+    {
+      "id": "16a6bdca867c0a93519ffabcffc176f97c8f89a8",
+      "group": "Tomato___healthy:::236.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -3.809363603591919,
+        4.03977108001709,
+        -0.5966504216194153,
+        -4.11183500289917
+      ]
+    },
+    {
+      "id": "ea997ecd9334b3f6d13eb3404000a66c51d68d3a",
+      "group": "Tomato___healthy:::245.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -3.3699471950531006,
+        6.33889627456665,
+        -1.456125020980835,
+        -5.2886199951171875
+      ]
+    },
+    {
+      "id": "9f6a257bb9194443a0c76cab503cb93d48fd8dad",
+      "group": "Tomato___Early_blight:::77.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        6.623234748840332,
+        -10.0553560256958,
+        0.6965847611427307,
+        -0.5267279744148254
+      ]
+    },
+    {
+      "id": "6e2cec0b92a4f39f966d5655ac938d4245a9fabe",
+      "group": "Tomato___Early_blight:::106.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        3.1828324794769287,
+        -5.214783668518066,
+        0.9256045818328857,
+        -2.9955198764801025
+      ]
+    },
+    {
+      "id": "dc06b96ba3a371049a9d51ae9fb6447141c77e8f",
+      "group": "Tomato___Early_blight:::240.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        2.8683040142059326,
+        -6.290096282958984,
+        -1.731402039527893,
+        1.643470048904419
+      ]
+    },
+    {
+      "id": "ec2d8b9fc1731599b28199d22262ba11095f04bc",
+      "group": "Tomato___Early_blight:::62.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        3.0313313007354736,
+        -6.27472448348999,
+        3.0948214530944824,
+        -4.77308988571167
+      ]
+    },
+    {
+      "id": "3a249d363055fb74893fe6018a6eef5870f1d6eb",
+      "group": "Tomato___Early_blight:::89.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        4.10946798324585,
+        -9.455154418945312,
+        2.676003932952881,
+        -2.652322769165039
+      ]
+    },
+    {
+      "id": "6f9a38d1541565f80956d600ac4972605c3ad9c1",
+      "group": "Tomato___Early_blight:::94.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        4.841686725616455,
+        -5.932645320892334,
+        2.0332071781158447,
+        -4.093407154083252
+      ]
+    },
+    {
+      "id": "2c6653ca3bc89ee28d0edc413d4842588f9e20f9",
+      "group": "Tomato___Early_blight:::72.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        2.8399643898010254,
+        -5.76345682144165,
+        2.3046538829803467,
+        -2.163036346435547
+      ]
+    },
+    {
+      "id": "3f9e832a24289b911c1c758372e9699c7a18921a",
+      "group": "Tomato___Early_blight:::222.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        2.3509957790374756,
+        -9.532097816467285,
+        4.464651584625244,
+        -3.904470682144165
+      ]
+    },
+    {
+      "id": "835a435215f8eeb28f78873ce8d41b8de20ac5a5",
+      "group": "Tomato___Early_blight:::59.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        5.7414164543151855,
+        -9.10029125213623,
+        -0.2528710663318634,
+        0.1430927962064743
+      ]
+    },
+    {
+      "id": "f89f505d1b654faf97473d9256f35757ecb7eb39",
+      "group": "Tomato___Early_blight:::80.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        6.767576217651367,
+        -10.912708282470703,
+        0.9812621474266052,
+        -0.546895444393158
+      ]
+    },
+    {
+      "id": "0c5de17ffba5ac8cae56890cc750a2a615d0ea02",
+      "group": "Tomato___Early_blight:::30.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        0.968412458896637,
+        -4.78820276260376,
+        1.3504513502120972,
+        -1.6539236307144165
+      ]
+    },
+    {
+      "id": "759a6d06c83548e61bd22b9a336cf071891749eb",
+      "group": "Tomato___Late_blight:::133.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        -0.1638231724500656,
+        -4.959688186645508,
+        3.7093493938446045,
+        -3.2256555557250977
+      ]
+    },
+    {
+      "id": "798005d04dbf9cc46eefd78b6068c081aa180e62",
+      "group": "Tomato___Late_blight:::125.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        0.16157685220241547,
+        -4.184320449829102,
+        2.998962640762329,
+        -4.061868667602539
+      ]
+    },
+    {
+      "id": "3b2d40f6b32bd680c7a62e3aa784d9693b90ee9c",
+      "group": "Tomato___Late_blight:::160.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        1.2853699922561646,
+        -6.805972099304199,
+        6.847749710083008,
+        -5.653139114379883
+      ]
+    },
+    {
+      "id": "157a2e80b7e363b6375e42fcbfb39072cc555cf4",
+      "group": "Tomato___Late_blight:::202.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        1.4283132553100586,
+        -9.12795352935791,
+        4.726093769073486,
+        -2.6729214191436768
+      ]
+    },
+    {
+      "id": "96948901ddd10cd040faf460cbc7159eed0812d3",
+      "group": "Tomato___Late_blight:::152.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        0.7063546776771545,
+        -6.861441612243652,
+        6.840060710906982,
+        -5.400750160217285
+      ]
+    },
+    {
+      "id": "f080b4ca4baadb94f4265a47fa98bdee2c163327",
+      "group": "Tomato___Late_blight:::189.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        2.9171183109283447,
+        -10.14274787902832,
+        8.220866203308105,
+        -6.340200901031494
+      ]
+    },
+    {
+      "id": "80c1860fb30e83b4af7b7963e23760fc521f63e6",
+      "group": "Tomato___Septoria_leaf_spot:::73.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -0.1780700385570526,
+        -5.037880897521973,
+        -4.216164588928223,
+        5.728888511657715
+      ]
+    },
+    {
+      "id": "b9181fb6153364a38db7a7ee3025606dd56995e6",
+      "group": "Tomato___Septoria_leaf_spot:::246.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        1.9261863231658936,
+        -9.45711612701416,
+        0.5261887907981873,
+        3.050427198410034
+      ]
+    },
+    {
+      "id": "cc4612734db34e10c76630114ee2bae6506e971b",
+      "group": "Tomato___Septoria_leaf_spot:::21.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        0.13937827944755554,
+        -3.5314087867736816,
+        -6.1170172691345215,
+        5.957393646240234
+      ]
+    },
+    {
+      "id": "d4013a9812c05d90c2dba73bd8fc794b46e30a90",
+      "group": "Tomato___Septoria_leaf_spot:::71.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        1.4982272386550903,
+        -7.457605838775635,
+        -0.7259292006492615,
+        2.2999186515808105
+      ]
+    },
+    {
+      "id": "1b0bdc709f346f3d5afa087ae783130031097437",
+      "group": "Tomato___Septoria_leaf_spot:::58.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -1.3167883157730103,
+        -3.1190803050994873,
+        -3.8628900051116943,
+        3.988762617111206
+      ]
+    },
+    {
+      "id": "310b39b7574c4e4a895fa07d2457b40802ec9c37",
+      "group": "Tomato___Septoria_leaf_spot:::93.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        1.0446902513504028,
+        -7.506999969482422,
+        -3.9639711380004883,
+        5.704853057861328
+      ]
+    },
+    {
+      "id": "74475dde7540463032a0f4bfd2fb77d21ac717ad",
+      "group": "Tomato___Septoria_leaf_spot:::204.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -3.7369585037231445,
+        1.801509976387024,
+        -2.2345993518829346,
+        -0.23512907326221466
+      ]
+    },
+    {
+      "id": "31a7dfc4e7b126100bfe77987978e34a0c00c500",
+      "group": "Tomato___Septoria_leaf_spot:::245.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -2.9550507068634033,
+        -1.178335189819336,
+        -2.614185333251953,
+        1.8944721221923828
+      ]
+    },
+    {
+      "id": "d3cc482e0456b13d0945a2c791aeb2cfd981296e",
+      "group": "Tomato___Septoria_leaf_spot:::212.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        1.417938470840454,
+        -4.7169342041015625,
+        -1.8366249799728394,
+        2.275113105773926
+      ]
+    },
+    {
+      "id": "8d982748942ae05e1149d9e186a329dbe3b05d20",
+      "group": "Tomato___Septoria_leaf_spot:::103.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -2.070403575897217,
+        -7.057660102844238,
+        -0.2286900132894516,
+        3.0199618339538574
+      ]
+    }
+  ],
+  "conformal_rows": [
+    {
+      "id": "66867079a6312ec12f251fa6eb5158bd2c5b6ade",
+      "group": "Tomato___healthy:::224.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -3.7586190700531006,
+        6.148860454559326,
+        -3.787128210067749,
+        -2.346149444580078
+      ]
+    },
+    {
+      "id": "6715b0069c170856e2ddf2061dbff6e76fe0835c",
+      "group": "Tomato___Early_blight:::58.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        2.695192813873291,
+        -6.905796527862549,
+        -0.5149027109146118,
+        0.36276042461395264
+      ]
+    },
+    {
+      "id": "bd80a2e6982bc16c4e6f01caddfe5bdde0b6ec89",
+      "group": "Tomato___Early_blight:::19.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        4.680313587188721,
+        -10.755399703979492,
+        -1.5243552923202515,
+        3.6755261421203613
+      ]
+    },
+    {
+      "id": "80adef46f03a33081dae76d857d39e303fa193bb",
+      "group": "Tomato___Early_blight:::172.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        2.7313828468322754,
+        -8.353594779968262,
+        4.323835372924805,
+        -2.7242319583892822
+      ]
+    },
+    {
+      "id": "b264a70b88092c96bef2359faf7ea2ea5ac910f2",
+      "group": "Tomato___Early_blight:::13.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        3.8606934547424316,
+        -10.57079029083252,
+        3.1029157638549805,
+        0.08673767745494843
+      ]
+    },
+    {
+      "id": "b87dd0c4bf9ffdec58b34b9c4b60d80b617187b1",
+      "group": "Tomato___Early_blight:::186.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        -2.1524062156677246,
+        -1.9133211374282837,
+        3.4685251712799072,
+        -5.471392631530762
+      ]
+    },
+    {
+      "id": "02d95572e053e2bfe37ae6df796639e3cfaac76d",
+      "group": "Tomato___Early_blight:::232.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        2.8754193782806396,
+        -6.063152313232422,
+        1.6622076034545898,
+        -2.886627674102783
+      ]
+    },
+    {
+      "id": "6296837fe9e84e68a8cc045282a6758991ee2ce0",
+      "group": "Tomato___Early_blight:::233.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        4.307331562042236,
+        -12.224043846130371,
+        4.316155910491943,
+        -1.5635948181152344
+      ]
+    },
+    {
+      "id": "57b020a3e130c6444201e5c9551bc11fd32963c5",
+      "group": "Tomato___Early_blight:::198.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        3.734140157699585,
+        -7.772003173828125,
+        2.0300650596618652,
+        -2.4134013652801514
+      ]
+    },
+    {
+      "id": "d8b058afff6ea2102b92616aec3c6be42df10119",
+      "group": "Tomato___Early_blight:::208.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        3.7637228965759277,
+        -9.552302360534668,
+        2.4755899906158447,
+        -1.1786057949066162
+      ]
+    },
+    {
+      "id": "3231cb86ef8218b043e35e505b418e4906be61de",
+      "group": "Tomato___Early_blight:::12.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        2.6522607803344727,
+        -8.17065715789795,
+        -2.419617176055908,
+        3.5547783374786377
+      ]
+    },
+    {
+      "id": "4b44ba841917ecf5f709e28ba4d89de788cd752e",
+      "group": "Tomato___Early_blight:::138.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        1.4284213781356812,
+        0.4804180860519409,
+        -1.9648079872131348,
+        -2.5858004093170166
+      ]
+    },
+    {
+      "id": "02778ae3da37146b3b39cb2ffebf9718515a93aa",
+      "group": "Tomato___Early_blight:::250.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        4.63021993637085,
+        -10.271881103515625,
+        0.5292252898216248,
+        1.4551246166229248
+      ]
+    },
+    {
+      "id": "9afaf28fb2c6958ada254a287444bec2759ea3bc",
+      "group": "Tomato___Early_blight:::212.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        4.368781089782715,
+        -5.901927947998047,
+        0.6800528764724731,
+        -2.3278279304504395
+      ]
+    },
+    {
+      "id": "0284626e87d62e8cbcd84b1103fd82ee5d52baef",
+      "group": "Tomato___Late_blight:::60.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        -1.2118984460830688,
+        -2.306244134902954,
+        5.445672512054443,
+        -6.614875793457031
+      ]
+    },
+    {
+      "id": "07fa1af77232931538387cdf1657c39e1eafef2c",
+      "group": "Tomato___Late_blight:::129.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        -1.523413062095642,
+        -2.097198724746704,
+        4.399954795837402,
+        -5.895363807678223
+      ]
+    },
+    {
+      "id": "d6a15add96b857144f08f8dc424d80b041e3fc11",
+      "group": "Tomato___Late_blight:::87.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        -0.10265500098466873,
+        -3.9482059478759766,
+        4.322861194610596,
+        -4.4748992919921875
+      ]
+    },
+    {
+      "id": "7635b3b5d81331dd83b05322d303c00d1cd29d14",
+      "group": "Tomato___Late_blight:::6.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        1.4718104600906372,
+        -5.45053243637085,
+        5.28163480758667,
+        -5.172321319580078
+      ]
+    },
+    {
+      "id": "ffe976c4cc34fb8a4b07820002bf8272ad639a09",
+      "group": "Tomato___Late_blight:::151.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        -1.2077436447143555,
+        -4.87399435043335,
+        5.864340305328369,
+        -5.703028678894043
+      ]
+    },
+    {
+      "id": "ae686f1e904fecc6e47fcccc4824bac4786409c6",
+      "group": "Tomato___Late_blight:::33.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        1.7217211723327637,
+        -8.080838203430176,
+        7.796271800994873,
+        -6.916285991668701
+      ]
+    },
+    {
+      "id": "ea651e1939b49654ec324b6bfcdc01e658e00bd5",
+      "group": "Tomato___Septoria_leaf_spot:::92.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -0.27764275670051575,
+        -6.490479946136475,
+        -5.752767562866211,
+        7.139353275299072
+      ]
+    },
+    {
+      "id": "1bc928395b6754739e8a045402c6e474054cbdf8",
+      "group": "Tomato___Septoria_leaf_spot:::177.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        0.4357338547706604,
+        -4.505023002624512,
+        -4.3844099044799805,
+        3.2114124298095703
+      ]
+    },
+    {
+      "id": "444f5ba560c39655d91029c3774026fc6a1250c6",
+      "group": "Tomato___Septoria_leaf_spot:::190.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -2.875298023223877,
+        -0.47157278656959534,
+        -2.050804615020752,
+        1.697999358177185
+      ]
+    },
+    {
+      "id": "f4df5984d99e6283c7aed17d23380fe3f69fc2b6",
+      "group": "Tomato___Septoria_leaf_spot:::203.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -0.7354299426078796,
+        -5.610331058502197,
+        -3.165510892868042,
+        5.0337934494018555
+      ]
+    },
+    {
+      "id": "5e4e97a26e9bf9cb6c7e7decf24f3fa11dbee8ad",
+      "group": "Tomato___Septoria_leaf_spot:::10.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        1.6311430931091309,
+        -6.485568523406982,
+        -4.2088823318481445,
+        5.792468547821045
+      ]
+    }
+  ],
+  "test_rows": [
+    {
+      "id": "fa4db2e02c644603f5a66dafe0e249fd77ec4c56",
+      "group": "Tomato___healthy:::63.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -2.254469871520996,
+        5.304140090942383,
+        -2.5044198036193848,
+        -3.536001443862915
+      ]
+    },
+    {
+      "id": "18225a18196812e2358728b39f53174622af699d",
+      "group": "Tomato___healthy:::170.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -3.311307907104492,
+        4.9255781173706055,
+        -2.7602832317352295,
+        -3.262148857116699
+      ]
+    },
+    {
+      "id": "0b27b8d8515724db0db1c3017fc25d2e9701785b",
+      "group": "Tomato___healthy:::185.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -4.775354862213135,
+        9.266151428222656,
+        -4.979276657104492,
+        -2.850233316421509
+      ]
+    },
+    {
+      "id": "d584b511243fb731c387e4142951b167db79b7de",
+      "group": "Tomato___healthy:::210.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -3.665365695953369,
+        6.055032253265381,
+        -1.996220350265503,
+        -4.919724941253662
+      ]
+    },
+    {
+      "id": "c4cc23f42722476b2342b4a37e8ed8c84ae94832",
+      "group": "Tomato___healthy:::238.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -3.984311580657959,
+        4.29742956161499,
+        -2.955897331237793,
+        -2.134204387664795
+      ]
+    },
+    {
+      "id": "f5211f673e4ad2bbcd14f4e04d7d6790c10d9194",
+      "group": "Tomato___healthy:::191.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -4.188910961151123,
+        6.603152275085449,
+        -3.8083362579345703,
+        -3.0751194953918457
+      ]
+    },
+    {
+      "id": "d9fe742288e5ea2da9cf0d3584e19346985ee9a3",
+      "group": "Tomato___healthy:::55.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -4.682010650634766,
+        5.023658752441406,
+        -2.014458656311035,
+        -3.0332579612731934
+      ]
+    },
+    {
+      "id": "f93801ecde1be40b6c498a78cfa1855c53b39930",
+      "group": "Tomato___healthy:::160.0",
+      "label": "healthy",
+      "domain": "controlled",
+      "logits": [
+        -2.7235918045043945,
+        2.042797327041626,
+        1.1759297847747803,
+        -5.898361682891846
+      ]
+    },
+    {
+      "id": "2fa126503f633e61d5053672ed26656d3f13825d",
+      "group": "Tomato___Early_blight:::23.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        3.5535213947296143,
+        -7.40447473526001,
+        -2.27970290184021,
+        1.703911304473877
+      ]
+    },
+    {
+      "id": "9649320a20eb28220b009964d0c91a2311d49ce7",
+      "group": "Tomato___Early_blight:::142.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        1.263027548789978,
+        -1.393999457359314,
+        -1.6796427965164185,
+        -2.1421661376953125
+      ]
+    },
+    {
+      "id": "ddf48c579b347e7250261b521e60f2fd207764ab",
+      "group": "Tomato___Early_blight:::26.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        2.7906055450439453,
+        -9.012126922607422,
+        -3.0665669441223145,
+        5.330172538757324
+      ]
+    },
+    {
+      "id": "aa8bf74fdadf301eb3e68825548d81c4e3e0f72d",
+      "group": "Tomato___Early_blight:::71.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        3.154331684112549,
+        -8.9066801071167,
+        0.10834342241287231,
+        1.5044406652450562
+      ]
+    },
+    {
+      "id": "d7c3dbe7890dc7d3eed01fe083df3ceda8951a08",
+      "group": "Tomato___Early_blight:::116.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        1.8229106664657593,
+        -3.2604944705963135,
+        3.34220814704895,
+        -5.2848591804504395
+      ]
+    },
+    {
+      "id": "11d91975e4e74942f82a66a81842a8e5bf338dbc",
+      "group": "Tomato___Early_blight:::98.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        4.756528854370117,
+        -10.389547348022461,
+        3.3139307498931885,
+        -1.9345126152038574
+      ]
+    },
+    {
+      "id": "62306f946e2fb3b3e0e43516819c8e644ccc64b2",
+      "group": "Tomato___Early_blight:::34.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        1.7711101770401,
+        -1.3552367687225342,
+        -1.2193278074264526,
+        -3.245046615600586
+      ]
+    },
+    {
+      "id": "bc592b74d638426bc3c77912a9b2913e06bbe421",
+      "group": "Tomato___Early_blight:::166.0",
+      "label": "early_blight",
+      "domain": "controlled",
+      "logits": [
+        5.159079074859619,
+        -9.138107299804688,
+        3.227564573287964,
+        -2.6851322650909424
+      ]
+    },
+    {
+      "id": "46ce60e344f4ab73b0cdba696568f14009ae1518",
+      "group": "Tomato___Late_blight:::16.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        -0.29668185114860535,
+        -2.321037530899048,
+        6.38252592086792,
+        -8.441967964172363
+      ]
+    },
+    {
+      "id": "ac5004c0039f1c992b727bf6f7d547266f982577",
+      "group": "Tomato___Late_blight:::132.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        0.8679224848747253,
+        -4.132828235626221,
+        6.651125907897949,
+        -8.96692180633545
+      ]
+    },
+    {
+      "id": "42cd9eecb94c9af5670887858c6132c815cb43db",
+      "group": "Tomato___Late_blight:::75.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        1.4251636266708374,
+        -9.27684211730957,
+        5.719353675842285,
+        -4.459715843200684
+      ]
+    },
+    {
+      "id": "3b9063bd3be22f2ffb65f50c45e3d6446fc38e6d",
+      "group": "Tomato___Late_blight:::26.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        2.215224266052246,
+        -6.513515949249268,
+        4.9383769035339355,
+        -5.155274391174316
+      ]
+    },
+    {
+      "id": "379f1f378c8eadf87a1817fb6d6d45496d840e6a",
+      "group": "Tomato___Late_blight:::164.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        0.15914857387542725,
+        -6.8174214363098145,
+        8.042519569396973,
+        -5.64592981338501
+      ]
+    },
+    {
+      "id": "56c8bf07654f3634b53c21056abafa471e49eda3",
+      "group": "Tomato___Late_blight:::58.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        -0.39920780062675476,
+        -5.051145553588867,
+        5.157516002655029,
+        -5.604674339294434
+      ]
+    },
+    {
+      "id": "677e418527037e2ce9d3d26b8357e2ea28f4c70d",
+      "group": "Tomato___Late_blight:::95.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        2.774073839187622,
+        -7.392465591430664,
+        5.8223724365234375,
+        -6.289226531982422
+      ]
+    },
+    {
+      "id": "f6a6473bb8da56aa71fd034e919bbac7eda9da6d",
+      "group": "Tomato___Late_blight:::172.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        -0.9032838940620422,
+        -4.4620466232299805,
+        5.142548561096191,
+        -3.7389075756073
+      ]
+    },
+    {
+      "id": "10f43fd3abb333fa2bce1aada4a787fe5cf04955",
+      "group": "Tomato___Late_blight:::145.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        1.0015383958816528,
+        -2.9723522663116455,
+        4.561843395233154,
+        -7.14900016784668
+      ]
+    },
+    {
+      "id": "7abeb05e7bde964e9b4fce962f1ac14d9e4205e6",
+      "group": "Tomato___Late_blight:::36.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        1.2769720554351807,
+        -6.3138747215271,
+        6.145570278167725,
+        -5.899277687072754
+      ]
+    },
+    {
+      "id": "418ca84f3b962b0ac6cd6e2f19bcac294922fa94",
+      "group": "Tomato___Late_blight:::37.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        -0.5509928464889526,
+        -4.372721195220947,
+        6.193789958953857,
+        -5.496608734130859
+      ]
+    },
+    {
+      "id": "96154328c9cbeac0af6ee3302c96577c49713879",
+      "group": "Tomato___Late_blight:::112.0",
+      "label": "late_blight",
+      "domain": "controlled",
+      "logits": [
+        -0.9620784521102905,
+        -6.068661689758301,
+        4.440825462341309,
+        -2.446298122406006
+      ]
+    },
+    {
+      "id": "d22f1478a71ac409c00b4cf5495a313534723dca",
+      "group": "Tomato___Septoria_leaf_spot:::67.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        0.7921002507209778,
+        -4.888649940490723,
+        -3.133434534072876,
+        2.7645950317382812
+      ]
+    },
+    {
+      "id": "efeaef2fc439d6b1d12d42519bf79493a3acf494",
+      "group": "Tomato___Septoria_leaf_spot:::155.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -2.696502923965454,
+        -0.47481635212898254,
+        -2.2867019176483154,
+        1.1247197389602661
+      ]
+    },
+    {
+      "id": "75229e958be1317b89ce23ce58c1d6ced628b62b",
+      "group": "Tomato___Septoria_leaf_spot:::43.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        1.1623951196670532,
+        -6.346392631530762,
+        -2.9160141944885254,
+        3.6072123050689697
+      ]
+    },
+    {
+      "id": "e8c7330ebcace74ab113bb74601129b4d09937b3",
+      "group": "Tomato___Septoria_leaf_spot:::157.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -0.7284219264984131,
+        -6.951517581939697,
+        -4.097081661224365,
+        6.104931831359863
+      ]
+    },
+    {
+      "id": "65676b2618e3971da3f17367d77f631507659309",
+      "group": "Tomato___Septoria_leaf_spot:::145.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -2.2921535968780518,
+        -2.5016064643859863,
+        -3.461207866668701,
+        4.035576820373535
+      ]
+    },
+    {
+      "id": "ca7bdc9d06d6f3f5660a4a6e3e9a883d0cddee82",
+      "group": "Tomato___Septoria_leaf_spot:::141.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -1.1665385961532593,
+        -3.6456797122955322,
+        -4.876182556152344,
+        5.401598930358887
+      ]
+    },
+    {
+      "id": "c5e6dfd602569685b29c404e902d35b71193c4d0",
+      "group": "Tomato___Septoria_leaf_spot:::116.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        2.1476235389709473,
+        -7.768836975097656,
+        -4.09857702255249,
+        5.0951361656188965
+      ]
+    },
+    {
+      "id": "2f22d57946004f70991988e3884c951cd7a6e9f5",
+      "group": "Tomato___Septoria_leaf_spot:::89.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -1.1245347261428833,
+        -6.812132835388184,
+        -0.47604289650917053,
+        3.507782220840454
+      ]
+    },
+    {
+      "id": "3ea410f0ab26d546e8cdc0e356a37f7924e60b61",
+      "group": "Tomato___Septoria_leaf_spot:::241.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -1.3897713422775269,
+        -3.0502657890319824,
+        0.22605273127555847,
+        0.2208840399980545
+      ]
+    },
+    {
+      "id": "53bb38ad868e7b47fd62fdc2c7c3c606319e7af3",
+      "group": "Tomato___Septoria_leaf_spot:::16.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        1.1969664096832275,
+        -7.903293609619141,
+        -4.6279449462890625,
+        7.589982509613037
+      ]
+    },
+    {
+      "id": "1a993f851ce722c03faeefdbbd181fd79f71eb6a",
+      "group": "Tomato___Septoria_leaf_spot:::247.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        0.9544403553009033,
+        -8.643507957458496,
+        -1.7075453996658325,
+        4.394248962402344
+      ]
+    },
+    {
+      "id": "7a6df30848ec4503aa373a733a22f69517496d82",
+      "group": "Tomato___Septoria_leaf_spot:::169.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        0.24543900787830353,
+        -6.735761642456055,
+        -2.5873570442199707,
+        3.157381772994995
+      ]
+    },
+    {
+      "id": "7df48d1e7811227fe8873bd10cddf1ec2ba614fe",
+      "group": "Tomato___Septoria_leaf_spot:::149.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        0.14479036629199982,
+        -1.0760022401809692,
+        -3.332008123397827,
+        0.2932349741458893
+      ]
+    },
+    {
+      "id": "d3a4ad5a13e2aa3796bff34002351be9205585ae",
+      "group": "Tomato___Septoria_leaf_spot:::121.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -0.5390798449516296,
+        -4.268922805786133,
+        -5.666053771972656,
+        5.858397960662842
+      ]
+    },
+    {
+      "id": "ffe0ce80feb43361628ddda778de138d463a7fba",
+      "group": "Tomato___Septoria_leaf_spot:::17.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        0.6692988872528076,
+        -6.5221943855285645,
+        -2.9792377948760986,
+        4.9599609375
+      ]
+    },
+    {
+      "id": "d287aafa66fd364b78a4e52dd9886f958d4a9de1",
+      "group": "Tomato___Septoria_leaf_spot:::84.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -0.06263204663991928,
+        -8.003520011901855,
+        -1.582903265953064,
+        5.430206298828125
+      ]
+    },
+    {
+      "id": "d703052dbce688b242979ef21ff52d41e862c22f",
+      "group": "Tomato___Septoria_leaf_spot:::106.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        0.7046177387237549,
+        -4.5129241943359375,
+        -1.6609909534454346,
+        1.3027987480163574
+      ]
+    },
+    {
+      "id": "11ea448e0bac240bf3b70ade68ede85ab741f12a",
+      "group": "Tomato___Septoria_leaf_spot:::231.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        2.804130792617798,
+        -12.618526458740234,
+        0.193026602268219,
+        4.1028618812561035
+      ]
+    },
+    {
+      "id": "f6a9015dbd3a3c143346c10be80e4159c1508e65",
+      "group": "Tomato___Septoria_leaf_spot:::174.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -3.458820104598999,
+        2.365494966506958,
+        -4.127054691314697,
+        0.6399592161178589
+      ]
+    },
+    {
+      "id": "f2ad60bde0628e744117e33e57fb315dbc0558a7",
+      "group": "Tomato___Septoria_leaf_spot:::142.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -2.50888729095459,
+        -3.645653486251831,
+        -2.639963150024414,
+        4.149394512176514
+      ]
+    },
+    {
+      "id": "0acd65434af35a15b933def46f458f3bba777aa7",
+      "group": "Tomato___Septoria_leaf_spot:::200.0",
+      "label": "septoria",
+      "domain": "controlled",
+      "logits": [
+        -2.376748561859131,
+        -1.0649523735046387,
+        -4.431919097900391,
+        3.522840738296509
+      ]
+    }
+  ]
+}

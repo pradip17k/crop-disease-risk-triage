@@ -1,0 +1,21 @@
+[
+  {
+    "id": "bwh3zbpkpv:6a35dfc2-ceb3-4447-be8f-616f9582c10c",
+    "filename": "healthy443_.jpg",
+    "expected_sha256": "489ee1b64ab6cc1b2c13d5dc98e47c4c6373764460d1c3f4a76ca6601d3bac00",
+    "fresh_sha256": "489ee1b64ab6cc1b2c13d5dc98e47c4c6373764460d1c3f4a76ca6601d3bac00",
+    "checksum_matches": true,
+    "decodes": false,
+    "error": "Truncated File Read",
+    "eligible": false
+  },
+  {
+    "id": "jttrv2w27r:de1b123d-2bea-40dc-9678-4c4bd0ffda5f",
+    "filename": "Healthy_62.jpg",
+    "expected_sha256": "259b41b639f207ec9833c0e66fed2149b921128b733242d13aeb8ce4b1ef00ee",
+    "fresh_sha256": "259b41b639f207ec9833c0e66fed2149b921128b733242d13aeb8ce4b1ef00ee",
+    "checksum_matches": true,
+    "decodes": true,
+    "eligible": true
+  }
+]

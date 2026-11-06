@@ -1,0 +1,62 @@
+[
+  {
+    "id": "plantdoc:b0e998a4c1b7533687194a1de885d9f84ff3d69e",
+    "sha256": "d1b2bfca29dfba94c27127b2f7f0dc7ef73a753d36d565ca6c55d49d21ca2364",
+    "filename": "Bacterial-leaf-spot-transplants1.jpg",
+    "reason": "Visible symptoms, possible species ambiguity, or suspicious source naming; requires independent label review, not automatic relabeling."
+  },
+  {
+    "id": "plantdoc:a8b52a9d9c5df5d27ed4c3eac11ec47070fce58b",
+    "sha256": "9b0207d6b0db32bf77b33ad7efdd5f9cbed2f4e085d8ad86f335e5485543e08f",
+    "filename": "Basil%2Binfected%2Bby%2BTomato%2BSpotted%2BWilt%2BVirus.jpg",
+    "reason": "Visible symptoms, possible species ambiguity, or suspicious source naming; requires independent label review, not automatic relabeling."
+  },
+  {
+    "id": "plantdoc:31a977cc2f9be946532be51bd6997072a2e53de0",
+    "sha256": "8d84fa7ef2daea720ba5121a277f493208167bdd76e2dc0718968be6d9b7dfb0",
+    "filename": "DSCN1016.JPG.jpg",
+    "reason": "Visible symptoms, possible species ambiguity, or suspicious source naming; requires independent label review, not automatic relabeling."
+  },
+  {
+    "id": "plantdoc:8c204774ba5a7b941c2c428c3737b1c8c0f0a581",
+    "sha256": "75bcfcb736bcdabbf38a590620688985893c366548978ce1cee9e77d62e881a9",
+    "filename": "Fig-2.jpg",
+    "reason": "Visible symptoms, possible species ambiguity, or suspicious source naming; requires independent label review, not automatic relabeling."
+  },
+  {
+    "id": "plantdoc:d93cb82dc4291549b07b13795de842077147a3bf",
+    "sha256": "d052c3663489cf27b32d2e62284f5200afa43c42c67f3d3517e1e792c6612a73",
+    "filename": "Tomato%2Bleaf.jpg",
+    "reason": "Visible symptoms, possible species ambiguity, or suspicious source naming; requires independent label review, not automatic relabeling."
+  },
+  {
+    "id": "plantdoc:c59c685368cce28fe0ee0f50270fd654e33b5110",
+    "sha256": "3497d19ccb856dd22150a590b6ea43bb3eba0207243e1893bd1e704ffc27aeb0",
+    "filename": "curling-issues.jpg",
+    "reason": "Visible symptoms, possible species ambiguity, or suspicious source naming; requires independent label review, not automatic relabeling."
+  },
+  {
+    "id": "plantdoc:83ea0c4f6e57915ea2b47f94cd8323ff5c895a6d",
+    "sha256": "7ed2e67e726be123b973849cea4620092f35573c5156c779c1c5fef87d9ccaec",
+    "filename": "late_blight_tomato_leaf4x1200.jpg",
+    "reason": "Visible symptoms, possible species ambiguity, or suspicious source naming; requires independent label review, not automatic relabeling."
+  },
+  {
+    "id": "plantdoc:311ec938f671014cfdc91fba84a205e3e2e79eb3",
+    "sha256": "a45ec8de626e95baf390eff6b2e5ccb14d4491bbe09dab53311ceb6150d7fe30",
+    "filename": "mortgage-lifter-yellow-leaves-2.jpg",
+    "reason": "Visible symptoms, possible species ambiguity, or suspicious source naming; requires independent label review, not automatic relabeling."
+  },
+  {
+    "id": "plantdoc:b34ded7390e8479088b67f4fac11060ec68021fd",
+    "sha256": "5ef0155f9cf25443d13bc35d71c659d0c7dbdfdad02d1d12573142dc2ce95c67",
+    "filename": "p1011399.jpg",
+    "reason": "Visible symptoms, possible species ambiguity, or suspicious source naming; requires independent label review, not automatic relabeling."
+  },
+  {
+    "id": "plantdoc:4b5a1b80c43a13ea0fceb122e4f6b5c58a7a75de",
+    "sha256": "83ba49f39d83eb903b9fdec333503d8f1fee102ba20da4e6c931990517f39a05",
+    "filename": "tomato-leaf-close-up.jpg",
+    "reason": "Visible symptoms, possible species ambiguity, or suspicious source naming; requires independent label review, not automatic relabeling."
+  }
+]

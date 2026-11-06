@@ -1,0 +1,882 @@
+[
+  {
+    "name": "003.JPG.jpg",
+    "path": "train/Tomato leaf/003.JPG.jpg",
+    "sha": "77cb7e754fa0e13005cd3d7081da8df271cf8e8b",
+    "size": 317946,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/003.JPG.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/003.JPG.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/77cb7e754fa0e13005cd3d7081da8df271cf8e8b",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/003.JPG.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/003.JPG.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/77cb7e754fa0e13005cd3d7081da8df271cf8e8b",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/003.JPG.jpg"
+    }
+  },
+  {
+    "name": "009-e1373768789869.jpg",
+    "path": "train/Tomato leaf/009-e1373768789869.jpg",
+    "sha": "6cfd67e8423de5cd018846b4ad1305244e114b12",
+    "size": 219260,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/009-e1373768789869.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/009-e1373768789869.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/6cfd67e8423de5cd018846b4ad1305244e114b12",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/009-e1373768789869.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/009-e1373768789869.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/6cfd67e8423de5cd018846b4ad1305244e114b12",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/009-e1373768789869.jpg"
+    }
+  },
+  {
+    "name": "100_8283.jpg",
+    "path": "train/Tomato leaf/100_8283.jpg",
+    "sha": "38d42db744f0c6eb1e33fcfdc29e6c5caeef4373",
+    "size": 1816775,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/100_8283.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/100_8283.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/38d42db744f0c6eb1e33fcfdc29e6c5caeef4373",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/100_8283.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/100_8283.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/38d42db744f0c6eb1e33fcfdc29e6c5caeef4373",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/100_8283.jpg"
+    }
+  },
+  {
+    "name": "15481477375.jpg",
+    "path": "train/Tomato leaf/15481477375.jpg",
+    "sha": "f143cf9eb669a031740b96907d0e2a0cec7d09a7",
+    "size": 173046,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/15481477375.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/15481477375.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/f143cf9eb669a031740b96907d0e2a0cec7d09a7",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/15481477375.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/15481477375.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/f143cf9eb669a031740b96907d0e2a0cec7d09a7",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/15481477375.jpg"
+    }
+  },
+  {
+    "name": "1686.jpg",
+    "path": "train/Tomato leaf/1686.jpg",
+    "sha": "d2ba8e5e3ff5c72045be2f95bc514433993995ae",
+    "size": 293399,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/1686.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/1686.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/d2ba8e5e3ff5c72045be2f95bc514433993995ae",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/1686.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/1686.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/d2ba8e5e3ff5c72045be2f95bc514433993995ae",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/1686.jpg"
+    }
+  },
+  {
+    "name": "1688.jpg",
+    "path": "train/Tomato leaf/1688.jpg",
+    "sha": "e19f0a2b96bbc5aa091903d17b6c3c47b8aeab9e",
+    "size": 139906,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/1688.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/1688.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/e19f0a2b96bbc5aa091903d17b6c3c47b8aeab9e",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/1688.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/1688.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/e19f0a2b96bbc5aa091903d17b6c3c47b8aeab9e",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/1688.jpg"
+    }
+  },
+  {
+    "name": "17371378-tomato-leaf.jpg",
+    "path": "train/Tomato leaf/17371378-tomato-leaf.jpg",
+    "sha": "ab7d2aa22c0b1a4fef2c92fde787f52eeb47afc5",
+    "size": 71699,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/17371378-tomato-leaf.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/17371378-tomato-leaf.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/ab7d2aa22c0b1a4fef2c92fde787f52eeb47afc5",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/17371378-tomato-leaf.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/17371378-tomato-leaf.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/ab7d2aa22c0b1a4fef2c92fde787f52eeb47afc5",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/17371378-tomato-leaf.jpg"
+    }
+  },
+  {
+    "name": "2013-08-20-03.jpg",
+    "path": "train/Tomato leaf/2013-08-20-03.jpg",
+    "sha": "4c7d3352a6f3fb18a7ae93bf17b70fa8e1ad2ab4",
+    "size": 163165,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/2013-08-20-03.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/2013-08-20-03.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/4c7d3352a6f3fb18a7ae93bf17b70fa8e1ad2ab4",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/2013-08-20-03.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/2013-08-20-03.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/4c7d3352a6f3fb18a7ae93bf17b70fa8e1ad2ab4",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/2013-08-20-03.jpg"
+    }
+  },
+  {
+    "name": "2013-08-20-04.jpg",
+    "path": "train/Tomato leaf/2013-08-20-04.jpg",
+    "sha": "9af552eee74db43f1963b1f60a199b819209f98c",
+    "size": 205485,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/2013-08-20-04.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/2013-08-20-04.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/9af552eee74db43f1963b1f60a199b819209f98c",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/2013-08-20-04.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/2013-08-20-04.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/9af552eee74db43f1963b1f60a199b819209f98c",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/2013-08-20-04.jpg"
+    }
+  },
+  {
+    "name": "20130609_151253_zpsc7d93f62.jpg",
+    "path": "train/Tomato leaf/20130609_151253_zpsc7d93f62.jpg",
+    "sha": "15d414d97c25e19947d245055f79e920e0eba3f2",
+    "size": 267742,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/20130609_151253_zpsc7d93f62.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/20130609_151253_zpsc7d93f62.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/15d414d97c25e19947d245055f79e920e0eba3f2",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/20130609_151253_zpsc7d93f62.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/20130609_151253_zpsc7d93f62.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/15d414d97c25e19947d245055f79e920e0eba3f2",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/20130609_151253_zpsc7d93f62.jpg"
+    }
+  },
+  {
+    "name": "20140818-tomato-sauce-vicky-wasik-1.jpg",
+    "path": "train/Tomato leaf/20140818-tomato-sauce-vicky-wasik-1.jpg",
+    "sha": "4f4375a5872dd05a23dfefad35cd1fb0d6b884ed",
+    "size": 153154,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/20140818-tomato-sauce-vicky-wasik-1.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/20140818-tomato-sauce-vicky-wasik-1.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/4f4375a5872dd05a23dfefad35cd1fb0d6b884ed",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/20140818-tomato-sauce-vicky-wasik-1.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/20140818-tomato-sauce-vicky-wasik-1.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/4f4375a5872dd05a23dfefad35cd1fb0d6b884ed",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/20140818-tomato-sauce-vicky-wasik-1.jpg"
+    }
+  },
+  {
+    "name": "2015-09-17-01.jpg",
+    "path": "train/Tomato leaf/2015-09-17-01.jpg",
+    "sha": "923e354fa1c27754ccf2e19bb37b097eedf0dfbc",
+    "size": 176737,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/2015-09-17-01.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/2015-09-17-01.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/923e354fa1c27754ccf2e19bb37b097eedf0dfbc",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/2015-09-17-01.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/2015-09-17-01.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/923e354fa1c27754ccf2e19bb37b097eedf0dfbc",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/2015-09-17-01.jpg"
+    }
+  },
+  {
+    "name": "20160428_080421.jpg",
+    "path": "train/Tomato leaf/20160428_080421.jpg",
+    "sha": "fa5100bf7ef9b72251aae4820f253717d57ba825",
+    "size": 224251,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/20160428_080421.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/20160428_080421.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/fa5100bf7ef9b72251aae4820f253717d57ba825",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/20160428_080421.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/20160428_080421.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/fa5100bf7ef9b72251aae4820f253717d57ba825",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/20160428_080421.jpg"
+    }
+  },
+  {
+    "name": "9bfac1dea7f401e3b379dab33f535bb4.jpg",
+    "path": "train/Tomato leaf/9bfac1dea7f401e3b379dab33f535bb4.jpg",
+    "sha": "ac4724d27339ebc1fe1fc27d219dc3d45f9f3884",
+    "size": 126198,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/9bfac1dea7f401e3b379dab33f535bb4.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/9bfac1dea7f401e3b379dab33f535bb4.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/ac4724d27339ebc1fe1fc27d219dc3d45f9f3884",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/9bfac1dea7f401e3b379dab33f535bb4.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/9bfac1dea7f401e3b379dab33f535bb4.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/ac4724d27339ebc1fe1fc27d219dc3d45f9f3884",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/9bfac1dea7f401e3b379dab33f535bb4.jpg"
+    }
+  },
+  {
+    "name": "Bacterial-leaf-spot-transplants1.jpg",
+    "path": "train/Tomato leaf/Bacterial-leaf-spot-transplants1.jpg",
+    "sha": "b0e998a4c1b7533687194a1de885d9f84ff3d69e",
+    "size": 82917,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/Bacterial-leaf-spot-transplants1.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Bacterial-leaf-spot-transplants1.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/b0e998a4c1b7533687194a1de885d9f84ff3d69e",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Bacterial-leaf-spot-transplants1.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/Bacterial-leaf-spot-transplants1.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/b0e998a4c1b7533687194a1de885d9f84ff3d69e",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Bacterial-leaf-spot-transplants1.jpg"
+    }
+  },
+  {
+    "name": "Basil%2Binfected%2Bby%2BTomato%2BSpotted%2BWilt%2BVirus.jpg",
+    "path": "train/Tomato leaf/Basil%2Binfected%2Bby%2BTomato%2BSpotted%2BWilt%2BVirus.jpg",
+    "sha": "a8b52a9d9c5df5d27ed4c3eac11ec47070fce58b",
+    "size": 136107,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/Basil%252Binfected%252Bby%252BTomato%252BSpotted%252BWilt%252BVirus.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Basil%252Binfected%252Bby%252BTomato%252BSpotted%252BWilt%252BVirus.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/a8b52a9d9c5df5d27ed4c3eac11ec47070fce58b",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Basil%2Binfected%2Bby%2BTomato%2BSpotted%2BWilt%2BVirus.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/Basil%252Binfected%252Bby%252BTomato%252BSpotted%252BWilt%252BVirus.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/a8b52a9d9c5df5d27ed4c3eac11ec47070fce58b",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Basil%252Binfected%252Bby%252BTomato%252BSpotted%252BWilt%252BVirus.jpg"
+    }
+  },
+  {
+    "name": "CTG514794.jpg",
+    "path": "train/Tomato leaf/CTG514794.jpg",
+    "sha": "559e9601d830421a11b0f1bc3a517732381bfd35",
+    "size": 144020,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/CTG514794.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/CTG514794.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/559e9601d830421a11b0f1bc3a517732381bfd35",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/CTG514794.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/CTG514794.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/559e9601d830421a11b0f1bc3a517732381bfd35",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/CTG514794.jpg"
+    }
+  },
+  {
+    "name": "DSCN1016.JPG.jpg",
+    "path": "train/Tomato leaf/DSCN1016.JPG.jpg",
+    "sha": "31a977cc2f9be946532be51bd6997072a2e53de0",
+    "size": 251834,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/DSCN1016.JPG.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/DSCN1016.JPG.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/31a977cc2f9be946532be51bd6997072a2e53de0",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/DSCN1016.JPG.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/DSCN1016.JPG.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/31a977cc2f9be946532be51bd6997072a2e53de0",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/DSCN1016.JPG.jpg"
+    }
+  },
+  {
+    "name": "Fig-2.jpg",
+    "path": "train/Tomato leaf/Fig-2.jpg",
+    "sha": "8c204774ba5a7b941c2c428c3737b1c8c0f0a581",
+    "size": 779321,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/Fig-2.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Fig-2.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/8c204774ba5a7b941c2c428c3737b1c8c0f0a581",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Fig-2.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/Fig-2.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/8c204774ba5a7b941c2c428c3737b1c8c0f0a581",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Fig-2.jpg"
+    }
+  },
+  {
+    "name": "IMG_2061.JPG.jpg",
+    "path": "train/Tomato leaf/IMG_2061.JPG.jpg",
+    "sha": "5206b47be16c5f085b9592be41796b6781c2d6ba",
+    "size": 316343,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/IMG_2061.JPG.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/IMG_2061.JPG.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/5206b47be16c5f085b9592be41796b6781c2d6ba",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/IMG_2061.JPG.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/IMG_2061.JPG.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/5206b47be16c5f085b9592be41796b6781c2d6ba",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/IMG_2061.JPG.jpg"
+    }
+  },
+  {
+    "name": "IMG_3011.jpg",
+    "path": "train/Tomato leaf/IMG_3011.jpg",
+    "sha": "2a64ff2b6f339d517e02663b79d00a897d18d754",
+    "size": 614011,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/IMG_3011.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/IMG_3011.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/2a64ff2b6f339d517e02663b79d00a897d18d754",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/IMG_3011.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/IMG_3011.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/2a64ff2b6f339d517e02663b79d00a897d18d754",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/IMG_3011.jpg"
+    }
+  },
+  {
+    "name": "IMG_3192.JPG.jpg",
+    "path": "train/Tomato leaf/IMG_3192.JPG.jpg",
+    "sha": "1579e0763be3d3e822a565f1ff74161cc7c4a5bd",
+    "size": 568283,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/IMG_3192.JPG.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/IMG_3192.JPG.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/1579e0763be3d3e822a565f1ff74161cc7c4a5bd",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/IMG_3192.JPG.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/IMG_3192.JPG.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/1579e0763be3d3e822a565f1ff74161cc7c4a5bd",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/IMG_3192.JPG.jpg"
+    }
+  },
+  {
+    "name": "L.peruv-assort.jpg",
+    "path": "train/Tomato leaf/L.peruv-assort.jpg",
+    "sha": "d0c4d9164dc18fa799134d8d4ca742872ef173ea",
+    "size": 37185,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/L.peruv-assort.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/L.peruv-assort.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/d0c4d9164dc18fa799134d8d4ca742872ef173ea",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/L.peruv-assort.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/L.peruv-assort.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/d0c4d9164dc18fa799134d8d4ca742872ef173ea",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/L.peruv-assort.jpg"
+    }
+  },
+  {
+    "name": "Leaves-of-Tomato.jpg",
+    "path": "train/Tomato leaf/Leaves-of-Tomato.jpg",
+    "sha": "28131beab51a2907ccf8c8c08cf92311b18f51ed",
+    "size": 246457,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/Leaves-of-Tomato.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Leaves-of-Tomato.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/28131beab51a2907ccf8c8c08cf92311b18f51ed",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Leaves-of-Tomato.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/Leaves-of-Tomato.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/28131beab51a2907ccf8c8c08cf92311b18f51ed",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Leaves-of-Tomato.jpg"
+    }
+  },
+  {
+    "name": "PxWBE.jpg",
+    "path": "train/Tomato leaf/PxWBE.jpg",
+    "sha": "3bc74a4908a6f58087c594850fc6885a8c8547fe",
+    "size": 695837,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/PxWBE.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/PxWBE.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/3bc74a4908a6f58087c594850fc6885a8c8547fe",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/PxWBE.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/PxWBE.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/3bc74a4908a6f58087c594850fc6885a8c8547fe",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/PxWBE.jpg"
+    }
+  },
+  {
+    "name": "Tomato%2Bleaf.jpg",
+    "path": "train/Tomato leaf/Tomato%2Bleaf.jpg",
+    "sha": "d93cb82dc4291549b07b13795de842077147a3bf",
+    "size": 44060,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/Tomato%252Bleaf.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Tomato%252Bleaf.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/d93cb82dc4291549b07b13795de842077147a3bf",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Tomato%2Bleaf.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/Tomato%252Bleaf.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/d93cb82dc4291549b07b13795de842077147a3bf",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/Tomato%252Bleaf.jpg"
+    }
+  },
+  {
+    "name": "curling-issues.jpg",
+    "path": "train/Tomato leaf/curling-issues.jpg",
+    "sha": "c59c685368cce28fe0ee0f50270fd654e33b5110",
+    "size": 2468465,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/curling-issues.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/curling-issues.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/c59c685368cce28fe0ee0f50270fd654e33b5110",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/curling-issues.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/curling-issues.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/c59c685368cce28fe0ee0f50270fd654e33b5110",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/curling-issues.jpg"
+    }
+  },
+  {
+    "name": "depositphotos_120361722-stock-photo-tomato-leaf-closeup.jpg",
+    "path": "train/Tomato leaf/depositphotos_120361722-stock-photo-tomato-leaf-closeup.jpg",
+    "sha": "d42e7a25042216786eb95dc10d81615505b30008",
+    "size": 76344,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/depositphotos_120361722-stock-photo-tomato-leaf-closeup.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/depositphotos_120361722-stock-photo-tomato-leaf-closeup.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/d42e7a25042216786eb95dc10d81615505b30008",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/depositphotos_120361722-stock-photo-tomato-leaf-closeup.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/depositphotos_120361722-stock-photo-tomato-leaf-closeup.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/d42e7a25042216786eb95dc10d81615505b30008",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/depositphotos_120361722-stock-photo-tomato-leaf-closeup.jpg"
+    }
+  },
+  {
+    "name": "depositphotos_143371585-stock-photo-tomato-leaf-closeup-isolated-on.jpg",
+    "path": "train/Tomato leaf/depositphotos_143371585-stock-photo-tomato-leaf-closeup-isolated-on.jpg",
+    "sha": "65367cc2ad4eb64c3ee3ce0474b3438a4881cf0e",
+    "size": 162791,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/depositphotos_143371585-stock-photo-tomato-leaf-closeup-isolated-on.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/depositphotos_143371585-stock-photo-tomato-leaf-closeup-isolated-on.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/65367cc2ad4eb64c3ee3ce0474b3438a4881cf0e",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/depositphotos_143371585-stock-photo-tomato-leaf-closeup-isolated-on.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/depositphotos_143371585-stock-photo-tomato-leaf-closeup-isolated-on.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/65367cc2ad4eb64c3ee3ce0474b3438a4881cf0e",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/depositphotos_143371585-stock-photo-tomato-leaf-closeup-isolated-on.jpg"
+    }
+  },
+  {
+    "name": "depositphotos_7182856-stock-photo-tomato-leaf.jpg",
+    "path": "train/Tomato leaf/depositphotos_7182856-stock-photo-tomato-leaf.jpg",
+    "sha": "15488fd294d722465eb183751e8e05f0615edc0c",
+    "size": 76313,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/depositphotos_7182856-stock-photo-tomato-leaf.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/depositphotos_7182856-stock-photo-tomato-leaf.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/15488fd294d722465eb183751e8e05f0615edc0c",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/depositphotos_7182856-stock-photo-tomato-leaf.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/depositphotos_7182856-stock-photo-tomato-leaf.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/15488fd294d722465eb183751e8e05f0615edc0c",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/depositphotos_7182856-stock-photo-tomato-leaf.jpg"
+    }
+  },
+  {
+    "name": "flies.jpg",
+    "path": "train/Tomato leaf/flies.jpg",
+    "sha": "5fdc5d2a96e18a8450320478d5416c5a6d9af634",
+    "size": 3234767,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/flies.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/flies.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/5fdc5d2a96e18a8450320478d5416c5a6d9af634",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/flies.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/flies.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/5fdc5d2a96e18a8450320478d5416c5a6d9af634",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/flies.jpg"
+    }
+  },
+  {
+    "name": "fpls-08-01602-g001.jpg",
+    "path": "train/Tomato leaf/fpls-08-01602-g001.jpg",
+    "sha": "7e7e59b0f6dd82bae0370fc085922503dc57e1fd",
+    "size": 59728,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/fpls-08-01602-g001.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/fpls-08-01602-g001.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/7e7e59b0f6dd82bae0370fc085922503dc57e1fd",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/fpls-08-01602-g001.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/fpls-08-01602-g001.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/7e7e59b0f6dd82bae0370fc085922503dc57e1fd",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/fpls-08-01602-g001.jpg"
+    }
+  },
+  {
+    "name": "happier-inside.jpg",
+    "path": "train/Tomato leaf/happier-inside.jpg",
+    "sha": "7268f481553ce8239879d4aff671ff02c565a911",
+    "size": 4667346,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/happier-inside.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/happier-inside.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/7268f481553ce8239879d4aff671ff02c565a911",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/happier-inside.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/happier-inside.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/7268f481553ce8239879d4aff671ff02c565a911",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/happier-inside.jpg"
+    }
+  },
+  {
+    "name": "img_1028.jpg",
+    "path": "train/Tomato leaf/img_1028.jpg",
+    "sha": "b78ce3690b6e90f5018302a51f75487083766b10",
+    "size": 1502957,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/img_1028.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/img_1028.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/b78ce3690b6e90f5018302a51f75487083766b10",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/img_1028.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/img_1028.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/b78ce3690b6e90f5018302a51f75487083766b10",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/img_1028.jpg"
+    }
+  },
+  {
+    "name": "img_6635.jpg",
+    "path": "train/Tomato leaf/img_6635.jpg",
+    "sha": "5c2a3dec8433c98ec5cd9e3576ba97ce080d2d52",
+    "size": 4450384,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/img_6635.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/img_6635.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/5c2a3dec8433c98ec5cd9e3576ba97ce080d2d52",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/img_6635.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/img_6635.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/5c2a3dec8433c98ec5cd9e3576ba97ce080d2d52",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/img_6635.jpg"
+    }
+  },
+  {
+    "name": "late_blight_tomato_leaf4x1200.jpg",
+    "path": "train/Tomato leaf/late_blight_tomato_leaf4x1200.jpg",
+    "sha": "83ea0c4f6e57915ea2b47f94cd8323ff5c895a6d",
+    "size": 372237,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/late_blight_tomato_leaf4x1200.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/late_blight_tomato_leaf4x1200.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/83ea0c4f6e57915ea2b47f94cd8323ff5c895a6d",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/late_blight_tomato_leaf4x1200.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/late_blight_tomato_leaf4x1200.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/83ea0c4f6e57915ea2b47f94cd8323ff5c895a6d",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/late_blight_tomato_leaf4x1200.jpg"
+    }
+  },
+  {
+    "name": "mortgage-lifter-yellow-leaves-2.jpg",
+    "path": "train/Tomato leaf/mortgage-lifter-yellow-leaves-2.jpg",
+    "sha": "311ec938f671014cfdc91fba84a205e3e2e79eb3",
+    "size": 1248157,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/mortgage-lifter-yellow-leaves-2.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/mortgage-lifter-yellow-leaves-2.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/311ec938f671014cfdc91fba84a205e3e2e79eb3",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/mortgage-lifter-yellow-leaves-2.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/mortgage-lifter-yellow-leaves-2.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/311ec938f671014cfdc91fba84a205e3e2e79eb3",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/mortgage-lifter-yellow-leaves-2.jpg"
+    }
+  },
+  {
+    "name": "p1011399.jpg",
+    "path": "train/Tomato leaf/p1011399.jpg",
+    "sha": "b34ded7390e8479088b67f4fac11060ec68021fd",
+    "size": 1971822,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/p1011399.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/p1011399.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/b34ded7390e8479088b67f4fac11060ec68021fd",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/p1011399.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/p1011399.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/b34ded7390e8479088b67f4fac11060ec68021fd",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/p1011399.jpg"
+    }
+  },
+  {
+    "name": "russian-2-319-dt-2010-leaves-high-tunnel-9-29-2014-c.jpg",
+    "path": "train/Tomato leaf/russian-2-319-dt-2010-leaves-high-tunnel-9-29-2014-c.jpg",
+    "sha": "ca68fc44c67873e7560a1d11ff5029cb8ff2124e",
+    "size": 2419933,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/russian-2-319-dt-2010-leaves-high-tunnel-9-29-2014-c.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/russian-2-319-dt-2010-leaves-high-tunnel-9-29-2014-c.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/ca68fc44c67873e7560a1d11ff5029cb8ff2124e",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/russian-2-319-dt-2010-leaves-high-tunnel-9-29-2014-c.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/russian-2-319-dt-2010-leaves-high-tunnel-9-29-2014-c.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/ca68fc44c67873e7560a1d11ff5029cb8ff2124e",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/russian-2-319-dt-2010-leaves-high-tunnel-9-29-2014-c.jpg"
+    }
+  },
+  {
+    "name": "single-a-green-leaf-of-tomato-picture-id496662675?k=6&m=496662675&s=612x612&w=0&h=6zKfv022H_9cLQSIR_kpcOAlTeg1eIVtLBbc80PQA7Y=.jpg",
+    "path": "train/Tomato leaf/single-a-green-leaf-of-tomato-picture-id496662675?k=6&m=496662675&s=612x612&w=0&h=6zKfv022H_9cLQSIR_kpcOAlTeg1eIVtLBbc80PQA7Y=.jpg",
+    "sha": "e77ef931afc4871fe13eb3171f9b60d8215a9ebd",
+    "size": 39972,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/single-a-green-leaf-of-tomato-picture-id496662675%3Fk=6&m=496662675&s=612x612&w=0&h=6zKfv022H_9cLQSIR_kpcOAlTeg1eIVtLBbc80PQA7Y=.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/single-a-green-leaf-of-tomato-picture-id496662675%3Fk=6&m=496662675&s=612x612&w=0&h=6zKfv022H_9cLQSIR_kpcOAlTeg1eIVtLBbc80PQA7Y=.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/e77ef931afc4871fe13eb3171f9b60d8215a9ebd",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/single-a-green-leaf-of-tomato-picture-id496662675%3Fk%3D6%26m%3D496662675%26s%3D612x612%26w%3D0%26h%3D6zKfv022H_9cLQSIR_kpcOAlTeg1eIVtLBbc80PQA7Y%3D.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/single-a-green-leaf-of-tomato-picture-id496662675%3Fk=6&m=496662675&s=612x612&w=0&h=6zKfv022H_9cLQSIR_kpcOAlTeg1eIVtLBbc80PQA7Y=.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/e77ef931afc4871fe13eb3171f9b60d8215a9ebd",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/single-a-green-leaf-of-tomato-picture-id496662675%3Fk=6&m=496662675&s=612x612&w=0&h=6zKfv022H_9cLQSIR_kpcOAlTeg1eIVtLBbc80PQA7Y=.jpg"
+    }
+  },
+  {
+    "name": "stock-photo-leaves-of-tomato-plant-isolated-on-white-12085288.jpg",
+    "path": "train/Tomato leaf/stock-photo-leaves-of-tomato-plant-isolated-on-white-12085288.jpg",
+    "sha": "1149346a060cf832aa43f7a3472cd47fc854d4c0",
+    "size": 410719,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/stock-photo-leaves-of-tomato-plant-isolated-on-white-12085288.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/stock-photo-leaves-of-tomato-plant-isolated-on-white-12085288.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/1149346a060cf832aa43f7a3472cd47fc854d4c0",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/stock-photo-leaves-of-tomato-plant-isolated-on-white-12085288.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/stock-photo-leaves-of-tomato-plant-isolated-on-white-12085288.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/1149346a060cf832aa43f7a3472cd47fc854d4c0",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/stock-photo-leaves-of-tomato-plant-isolated-on-white-12085288.jpg"
+    }
+  },
+  {
+    "name": "stock-photo-tomato-leaf-isolated-on-white-background-580281301.jpg",
+    "path": "train/Tomato leaf/stock-photo-tomato-leaf-isolated-on-white-background-580281301.jpg",
+    "sha": "00b08b092954cda43b8527cfd7325fd72fb561a7",
+    "size": 21773,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/stock-photo-tomato-leaf-isolated-on-white-background-580281301.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/stock-photo-tomato-leaf-isolated-on-white-background-580281301.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/00b08b092954cda43b8527cfd7325fd72fb561a7",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/stock-photo-tomato-leaf-isolated-on-white-background-580281301.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/stock-photo-tomato-leaf-isolated-on-white-background-580281301.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/00b08b092954cda43b8527cfd7325fd72fb561a7",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/stock-photo-tomato-leaf-isolated-on-white-background-580281301.jpg"
+    }
+  },
+  {
+    "name": "stock-photo-tomato-leaves-close-up-macro-shot-isolated-on-white-background-78796204.jpg",
+    "path": "train/Tomato leaf/stock-photo-tomato-leaves-close-up-macro-shot-isolated-on-white-background-78796204.jpg",
+    "sha": "00384c4f118c106bda03001636f55a5b92a75503",
+    "size": 46339,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/stock-photo-tomato-leaves-close-up-macro-shot-isolated-on-white-background-78796204.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/stock-photo-tomato-leaves-close-up-macro-shot-isolated-on-white-background-78796204.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/00384c4f118c106bda03001636f55a5b92a75503",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/stock-photo-tomato-leaves-close-up-macro-shot-isolated-on-white-background-78796204.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/stock-photo-tomato-leaves-close-up-macro-shot-isolated-on-white-background-78796204.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/00384c4f118c106bda03001636f55a5b92a75503",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/stock-photo-tomato-leaves-close-up-macro-shot-isolated-on-white-background-78796204.jpg"
+    }
+  },
+  {
+    "name": "stock-vector-set-of-vector-elements-for-your-design-red-ripe-tomatoes-with-water-drops-tomato-leaves-and-tomato-203297116.jpg",
+    "path": "train/Tomato leaf/stock-vector-set-of-vector-elements-for-your-design-red-ripe-tomatoes-with-water-drops-tomato-leaves-and-tomato-203297116.jpg",
+    "sha": "bd0a42138fa0e70a2bfa761cddd94ebf424a8910",
+    "size": 53307,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/stock-vector-set-of-vector-elements-for-your-design-red-ripe-tomatoes-with-water-drops-tomato-leaves-and-tomato-203297116.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/stock-vector-set-of-vector-elements-for-your-design-red-ripe-tomatoes-with-water-drops-tomato-leaves-and-tomato-203297116.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/bd0a42138fa0e70a2bfa761cddd94ebf424a8910",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/stock-vector-set-of-vector-elements-for-your-design-red-ripe-tomatoes-with-water-drops-tomato-leaves-and-tomato-203297116.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/stock-vector-set-of-vector-elements-for-your-design-red-ripe-tomatoes-with-water-drops-tomato-leaves-and-tomato-203297116.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/bd0a42138fa0e70a2bfa761cddd94ebf424a8910",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/stock-vector-set-of-vector-elements-for-your-design-red-ripe-tomatoes-with-water-drops-tomato-leaves-and-tomato-203297116.jpg"
+    }
+  },
+  {
+    "name": "tomato-leaf-20728368.jpg",
+    "path": "train/Tomato leaf/tomato-leaf-20728368.jpg",
+    "sha": "3950765cc3836864276e9b380e0dfc4ab897f18b",
+    "size": 125011,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf-20728368.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-20728368.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/3950765cc3836864276e9b380e0dfc4ab897f18b",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-20728368.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf-20728368.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/3950765cc3836864276e9b380e0dfc4ab897f18b",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-20728368.jpg"
+    }
+  },
+  {
+    "name": "tomato-leaf-26180166.jpg",
+    "path": "train/Tomato leaf/tomato-leaf-26180166.jpg",
+    "sha": "c5b08a6a3288e66652270f4dd270917eb7384f0f",
+    "size": 93598,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf-26180166.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-26180166.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/c5b08a6a3288e66652270f4dd270917eb7384f0f",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-26180166.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf-26180166.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/c5b08a6a3288e66652270f4dd270917eb7384f0f",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-26180166.jpg"
+    }
+  },
+  {
+    "name": "tomato-leaf-6291945.jpg",
+    "path": "train/Tomato leaf/tomato-leaf-6291945.jpg",
+    "sha": "16b816e6c46467f94adff9a2f510f585a3d1c6aa",
+    "size": 97213,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf-6291945.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-6291945.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/16b816e6c46467f94adff9a2f510f585a3d1c6aa",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-6291945.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf-6291945.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/16b816e6c46467f94adff9a2f510f585a3d1c6aa",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-6291945.jpg"
+    }
+  },
+  {
+    "name": "tomato-leaf-6424287.jpg",
+    "path": "train/Tomato leaf/tomato-leaf-6424287.jpg",
+    "sha": "866f18fb9e691e97b8de5725950923be6f126aa1",
+    "size": 87129,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf-6424287.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-6424287.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/866f18fb9e691e97b8de5725950923be6f126aa1",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-6424287.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf-6424287.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/866f18fb9e691e97b8de5725950923be6f126aa1",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-6424287.jpg"
+    }
+  },
+  {
+    "name": "tomato-leaf-close-up.jpg",
+    "path": "train/Tomato leaf/tomato-leaf-close-up.jpg",
+    "sha": "4b5a1b80c43a13ea0fceb122e4f6b5c58a7a75de",
+    "size": 2294298,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf-close-up.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-close-up.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/4b5a1b80c43a13ea0fceb122e4f6b5c58a7a75de",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-close-up.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf-close-up.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/4b5a1b80c43a13ea0fceb122e4f6b5c58a7a75de",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-close-up.jpg"
+    }
+  },
+  {
+    "name": "tomato-leaf-isolated-white-34309524.jpg",
+    "path": "train/Tomato leaf/tomato-leaf-isolated-white-34309524.jpg",
+    "sha": "c247f1179f97405d473345d8ba767a74a071f564",
+    "size": 82922,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf-isolated-white-34309524.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-isolated-white-34309524.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/c247f1179f97405d473345d8ba767a74a071f564",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-isolated-white-34309524.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf-isolated-white-34309524.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/c247f1179f97405d473345d8ba767a74a071f564",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf-isolated-white-34309524.jpg"
+    }
+  },
+  {
+    "name": "tomato-leaf.jpg",
+    "path": "train/Tomato leaf/tomato-leaf.jpg",
+    "sha": "79ec6aee46d1e313f81281b2f8fe0726268a4548",
+    "size": 91103,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/79ec6aee46d1e313f81281b2f8fe0726268a4548",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaf.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/79ec6aee46d1e313f81281b2f8fe0726268a4548",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaf.jpg"
+    }
+  },
+  {
+    "name": "tomato-leaves-17427786.jpg",
+    "path": "train/Tomato leaf/tomato-leaves-17427786.jpg",
+    "sha": "f80e7798887ff1b2e8c0796fef3747bfcaf7d39b",
+    "size": 162895,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaves-17427786.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaves-17427786.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/f80e7798887ff1b2e8c0796fef3747bfcaf7d39b",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaves-17427786.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaves-17427786.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/f80e7798887ff1b2e8c0796fef3747bfcaf7d39b",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaves-17427786.jpg"
+    }
+  },
+  {
+    "name": "tomato-leaves-9025906.jpg",
+    "path": "train/Tomato leaf/tomato-leaves-9025906.jpg",
+    "sha": "555629cf4e7ff2ad0a0e12652ded94da37ffdc8e",
+    "size": 98881,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaves-9025906.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaves-9025906.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/555629cf4e7ff2ad0a0e12652ded94da37ffdc8e",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaves-9025906.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaves-9025906.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/555629cf4e7ff2ad0a0e12652ded94da37ffdc8e",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaves-9025906.jpg"
+    }
+  },
+  {
+    "name": "tomato-leaves.jpg",
+    "path": "train/Tomato leaf/tomato-leaves.jpg",
+    "sha": "646072a7bf9386d736fe4f95ec97bf7f11e14438",
+    "size": 3587732,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaves.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaves.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/646072a7bf9386d736fe4f95ec97bf7f11e14438",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaves.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-leaves.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/646072a7bf9386d736fe4f95ec97bf7f11e14438",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-leaves.jpg"
+    }
+  },
+  {
+    "name": "tomato-vine-ripe-leaves-isolated-against-white-34863029.jpg",
+    "path": "train/Tomato leaf/tomato-vine-ripe-leaves-isolated-against-white-34863029.jpg",
+    "sha": "f776547c47e60d81ca555cd75ea4c965402d5e51",
+    "size": 99079,
+    "url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-vine-ripe-leaves-isolated-against-white-34863029.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+    "html_url": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-vine-ripe-leaves-isolated-against-white-34863029.jpg",
+    "git_url": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/f776547c47e60d81ca555cd75ea4c965402d5e51",
+    "download_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-vine-ripe-leaves-isolated-against-white-34863029.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/contents/train/Tomato%20leaf/tomato-vine-ripe-leaves-isolated-against-white-34863029.jpg?ref=5467f6012d78d1c446145d5f582da6096f852ae8",
+      "git": "https://api.github.com/repos/pratikkayal/PlantDoc-Dataset/git/blobs/f776547c47e60d81ca555cd75ea4c965402d5e51",
+      "html": "https://github.com/pratikkayal/PlantDoc-Dataset/blob/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf/tomato-vine-ripe-leaves-isolated-against-white-34863029.jpg"
+    }
+  }
+]

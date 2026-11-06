@@ -1,0 +1,22 @@
+{
+  "model_name": "MobileNetV3-Small \u00b7 tomato pilot",
+  "model_sha256": "432913b461e4f4de5afa91a274c8101fbe71ff8482bd4808f71221b4d45bdca3",
+  "classes": [
+    "early_blight",
+    "healthy",
+    "late_blight",
+    "septoria"
+  ],
+  "temperature": 0.5956621435290107,
+  "method": "LAC",
+  "alpha": 0.1,
+  "qhat": 0.43548172293677057,
+  "independently_evaluated": false,
+  "guidance_enabled": false,
+  "energy_cutoff": null,
+  "version": "pilot-v1",
+  "limitations": [
+    "Small controlled-image pilot; field accuracy 42.1% on 38 images.",
+    "No evaluated live unknown-input cutoff. Guidance disabled."
+  ]
+}

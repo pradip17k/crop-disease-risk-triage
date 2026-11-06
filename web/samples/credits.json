@@ -1,0 +1,35 @@
+[
+  {
+    "license": "CC BY-SA 3.0",
+    "credit": "PlantVillage \u2014 Mohanty, Hughes and Salath\u00e9",
+    "key": "healthy",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "modifications": "None; displayed at different sizes",
+    "download": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Tomato___healthy/000146ff-92a4-4db6-90ad-8fce2ae4fddd___GH_HL%20Leaf%20259.1.JPG",
+    "source": "https://github.com/spMohanty/PlantVillage-Dataset/blob/master/raw/color/Tomato___healthy/000146ff-92a4-4db6-90ad-8fce2ae4fddd___GH_HL%20Leaf%20259.1.JPG",
+    "sha256": "a294299b0518a50ebc275c0ec4519b022cab8b34735039f6c2a089a911f6964e",
+    "local_provenance": "Existing attributed PlantVillage reference asset; no model weights or results reused."
+  },
+  {
+    "license": "CC BY-SA 3.0",
+    "credit": "PlantVillage \u2014 Mohanty, Hughes and Salath\u00e9",
+    "key": "early",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "modifications": "None; displayed at different sizes",
+    "download": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Tomato___Early_blight/0012b9d2-2130-4a06-a834-b1f3af34f57e___RS_Erly.B%208389.JPG",
+    "source": "https://github.com/spMohanty/PlantVillage-Dataset/blob/master/raw/color/Tomato___Early_blight/0012b9d2-2130-4a06-a834-b1f3af34f57e___RS_Erly.B%208389.JPG",
+    "sha256": "29b79036b67724f6a76895d17ef1b863ad7a7134e03141b1feb601a591336123",
+    "local_provenance": "Existing attributed PlantVillage reference asset; no model weights or results reused."
+  },
+  {
+    "license": "CC BY-SA 3.0",
+    "credit": "PlantVillage \u2014 Mohanty, Hughes and Salath\u00e9",
+    "key": "septoria",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "modifications": "None; displayed at different sizes",
+    "download": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Tomato___Septoria_leaf_spot/002533c1-722b-44e5-9d2e-91f7747b2543___Keller.St_CG%201831.JPG",
+    "source": "https://github.com/spMohanty/PlantVillage-Dataset/blob/master/raw/color/Tomato___Septoria_leaf_spot/002533c1-722b-44e5-9d2e-91f7747b2543___Keller.St_CG%201831.JPG",
+    "sha256": "8e7a02dc0443207b328b1fb797515de3970eef70a9df7e398bfdc9dcc2e69f71",
+    "local_provenance": "Existing attributed PlantVillage reference asset; no model weights or results reused."
+  }
+]

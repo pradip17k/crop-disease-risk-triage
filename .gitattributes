@@ -1,0 +1,6 @@
+# Preserve byte hashes used by saved dataset/review provenance.
+*.csv -text whitespace=cr-at-eol
+*.json -text
+*.onnx binary
+*.pt binary
+*.jpg binary

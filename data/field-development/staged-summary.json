@@ -1,0 +1,13 @@
+{
+  "rows": 834,
+  "counts": {
+    "pending_capture_and_background_review": 805,
+    "excluded_bad_file": 1,
+    "duplicate_copy": 21,
+    "excluded_label_conflict": 4,
+    "excluded_prior_scene": 3
+  },
+  "physical_grouping_complete": false,
+  "training_ready": false,
+  "note": "Scene links reflect reviewed duplicates only; singleton scene IDs do not establish independent leaves. Background/label/capture review still required."
+}

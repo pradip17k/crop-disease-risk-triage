@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "36e06bf32954affb3a63b6329b33ea6d9e85467e",
+    "label": "early_blight",
+    "source_class": "Tomato Early blight leaf",
+    "path": "data/field/36e06bf32954affb3a63b6329b33ea6d9e85467e",
+    "sha256": "7d9c5c6947554d5fc6e98df5fbc1beb6363255128bd56446960e29a73242c02e",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Early%20blight%20leaf/039b47d574bc4bb8a14259a1cd96a741.jpg",
+    "logits": [
+      3.4526448249816895,
+      -6.786815166473389,
+      0.12591758370399475,
+      1.4243749380111694
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.8398501779784127,
+    "energy": -3.6075173422992117,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "9fad53252faf5a34a721f95bda9fb55b553d2883",
+    "label": "early_blight",
+    "source_class": "Tomato Early blight leaf",
+    "path": "data/field/9fad53252faf5a34a721f95bda9fb55b553d2883",
+    "sha256": "98d52f733e1e23c5f5059f3ce57c762a1e0fc26028abf8750105d0250c29f670",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Early%20blight%20leaf/100983448.jpg",
+    "logits": [
+      5.182801246643066,
+      -9.285042762756348,
+      1.1767605543136597,
+      0.17934751510620117
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9693088341040569,
+    "energy": -5.207416363697935,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "bb05e5238a47c9a09ee171fd16ef17b862f079ee",
+    "label": "early_blight",
+    "source_class": "Tomato Early blight leaf",
+    "path": "data/field/bb05e5238a47c9a09ee171fd16ef17b862f079ee",
+    "sha256": "236d96cdae7b29039c3d93147f447394c78a077fec42ce5aadbd0506a0aca0cb",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Early%20blight%20leaf/1234080-Early-Blight.jpg",
+    "logits": [
+      3.6746227741241455,
+      -5.273743152618408,
+      -0.31536510586738586,
+      0.25402364134788513
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9407978990529847,
+    "energy": -3.7246718877586598,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "a9f42c425793526f690b60cfc0af58c0330090e0",
+    "label": "early_blight",
+    "source_class": "Tomato Early blight leaf",
+    "path": "data/field/a9f42c425793526f690b60cfc0af58c0330090e0",
+    "sha256": "7885910ac8d584a706d6448390c24f77e4e36ada4a75ae58b354a5642d0448b4",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Early%20blight%20leaf/Shoemaker_7068.JPG.jpg",
+    "logits": [
+      3.4721319675445557,
+      -6.475708961486816,
+      0.8548855781555176,
+      0.018119890242815018
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.8905075747004604,
+    "energy": -3.5716785847884625,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "6e40776e2e474e22ef6b86a3c6afee6b5ed38711",
+    "label": "early_blight",
+    "source_class": "Tomato Early blight leaf",
+    "path": "data/field/6e40776e2e474e22ef6b86a3c6afee6b5ed38711",
+    "sha256": "55570c32bf51ea713ee2dc293078ce3008986ad281a8cce626fbb264e0b44679",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Early%20blight%20leaf/bugs-and-blight-061.jpg",
+    "logits": [
+      2.9487035274505615,
+      -3.879826545715332,
+      -1.6989175081253052,
+      1.4091310501098633
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.8014243338594891,
+    "energy": -3.1517583221693566,
+    "candidates": [
+      "early_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "a1014b817b176fcc7ae90cf5981ca3f65da76659",
+    "label": "early_blight",
+    "source_class": "Tomato Early blight leaf",
+    "path": "data/field/a1014b817b176fcc7ae90cf5981ca3f65da76659",
+    "sha256": "375244fd47978c73c1c7da2afb50df359e8b496cb20500f09ed02fa984e3ad62",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Early%20blight%20leaf/dscn3175.jpg",
+    "logits": [
+      3.7830421924591064,
+      -7.771109104156494,
+      0.5836092829704285,
+      0.03916723281145096
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9276678491265604,
+    "energy": -3.8455071504667773,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "002549d1bcf81f34d9c28617ac4968d7c25d23ad",
+    "label": "early_blight",
+    "source_class": "Tomato Early blight leaf",
+    "path": "data/field/002549d1bcf81f34d9c28617ac4968d7c25d23ad",
+    "sha256": "9650bd867d436b35710a6c8e5142baf3744910eee250372efe547f23d514980a",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Early%20blight%20leaf/early_blight1-150x150.jpg",
+    "logits": [
+      2.677597761154175,
+      -8.177870750427246,
+      0.707062840461731,
+      1.3849561214447021
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.6892783802140302,
+    "energy": -3.0239822466144775,
+    "candidates": [
+      "early_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "67bdf47c405d8f02e47a2de1216b845cee4110d7",
+    "label": "early_blight",
+    "source_class": "Tomato Early blight leaf",
+    "path": "data/field/67bdf47c405d8f02e47a2de1216b845cee4110d7",
+    "sha256": "33051105a7999fd6346911a9de67485f5678af4af738076308b1edafada1bfe7",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Early%20blight%20leaf/earlyblight21_.jpg",
+    "logits": [
+      3.4182817935943604,
+      -9.984951972961426,
+      0.4575055241584778,
+      1.0540297031402588
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.8558547722094993,
+    "energy": -3.5543847106084487,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "cd683f6ade6e2e39562c6e569c3c94dafc7be20e",
+    "label": "early_blight",
+    "source_class": "Tomato Early blight leaf",
+    "path": "data/field/cd683f6ade6e2e39562c6e569c3c94dafc7be20e",
+    "sha256": "7571d72639461cc8de512dd2087c63cc1877322ae1954f7b4521756789c362c9",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Early%20blight%20leaf/tomato_early-blight_01_zoom.jpg",
+    "logits": [
+      3.84879207611084,
+      -5.597469329833984,
+      -0.9350987672805786,
+      1.9276313781738281
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.8517057110631531,
+    "energy": -3.992787889663839,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "c0162f3af8fe649e03de33aadf5e51ad9cf4c3c0",
+    "label": "septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "path": "data/field/c0162f3af8fe649e03de33aadf5e51ad9cf4c3c0",
+    "sha256": "c7e82b8ce320acec30c35a89e73490618e425c76d3c80d2d88a3053d39e9709e",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Septoria%20leaf%20spot/0.jpg",
+    "logits": [
+      0.6264930367469788,
+      -4.452674865722656,
+      -1.377667784690857,
+      2.1077325344085693
+    ],
+    "predicted": "septoria",
+    "confidence": 0.7774373005073231,
+    "energy": -2.3383778810737996,
+    "candidates": [
+      "early_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "9b2e897c15edd6b46e771cb5ce36f8aa1f275f12",
+    "label": "septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "path": "data/field/9b2e897c15edd6b46e771cb5ce36f8aa1f275f12",
+    "sha256": "a8844aed418d61e8db0e2ef68c9da1ede9c0e3800e0756b6fbf02e0247ad1b7c",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Septoria%20leaf%20spot/2STEM.jpg",
+    "logits": [
+      1.8532469272613525,
+      -5.4822096824646,
+      -5.497992992401123,
+      5.474758148193359
+    ],
+    "predicted": "septoria",
+    "confidence": 0.9682309444537007,
+    "energy": -5.501182754337028,
+    "candidates": [
+      "septoria"
+    ]
+  },
+  {
+    "id": "f895ada2103d7c46d1bd71ebe81c1a7b41759d9f",
+    "label": "septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "path": "data/field/f895ada2103d7c46d1bd71ebe81c1a7b41759d9f",
+    "sha256": "b3404b141d9bda7cea19fa8dff6cef38da2a6e3f0a38fb6778713118578c13fc",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Septoria%20leaf%20spot/2septoria-tomato.jpg",
+    "logits": [
+      -1.0324108600616455,
+      -2.2965168952941895,
+      -3.1424596309661865,
+      3.412705659866333
+    ],
+    "predicted": "septoria",
+    "confidence": 0.9787950490860727,
+    "energy": -3.4290451751049984,
+    "candidates": [
+      "septoria"
+    ]
+  },
+  {
+    "id": "ce31e14fd5d5ec4b15803c5b39789e67d5ca252a",
+    "label": "septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "path": "data/field/ce31e14fd5d5ec4b15803c5b39789e67d5ca252a",
+    "sha256": "9dbcc935858b4fcc4b4f6c895c48045735b1f577959e995f2941bf761e42390a",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Septoria%20leaf%20spot/55830b60a7cf2.image.jpg",
+    "logits": [
+      3.1303281784057617,
+      -7.245152473449707,
+      -2.025408983230591,
+      3.8619320392608643
+    ],
+    "predicted": "septoria",
+    "confidence": 0.6643987614903253,
+    "energy": -4.256623347233674,
+    "candidates": [
+      "early_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "e98245bbb0becbb6a0ac34dc58478a1acccf985b",
+    "label": "septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "path": "data/field/e98245bbb0becbb6a0ac34dc58478a1acccf985b",
+    "sha256": "5fc6710f54773260cd3d3f1444e1a3aa29a9b55c64065ab8eb12851bd4b9b9c5",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Septoria%20leaf%20spot/6134794031202304.jpeg.jpg",
+    "logits": [
+      3.3158061504364014,
+      -6.899164199829102,
+      1.1056699752807617,
+      0.012549329549074173
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.8558641031347375,
+    "energy": -3.4525073875124614,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "9d6ed52067cad095092d08d28d380c047583a524",
+    "label": "septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "path": "data/field/9d6ed52067cad095092d08d28d380c047583a524",
+    "sha256": "519210b5c98e67f1ec0a0705b12ed0b28625e2e514b472c86d8d3d1ba7256365",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Septoria%20leaf%20spot/636227737977191231-septoria-leaf-spot-VT.jpg",
+    "logits": [
+      3.0684704780578613,
+      -4.894479274749756,
+      0.16887331008911133,
+      -0.06537758558988571
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.895113604203557,
+    "energy": -3.162819656253287,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "5b3246319b4b4728649d2445f202b9da52e3fd41",
+    "label": "septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "path": "data/field/5b3246319b4b4728649d2445f202b9da52e3fd41",
+    "sha256": "2d87a16ce8325e687e246afc29a9b6468cddc7841d113ac7d4948b0fefee6197",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Septoria%20leaf%20spot/6447731_orig.jpg",
+    "logits": [
+      2.16404390335083,
+      -6.432613372802734,
+      -0.07747798413038254,
+      1.984780192375183
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.5088786060076717,
+    "energy": -2.827951117458424,
+    "candidates": [
+      "early_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "64f8069093f27b79cdc738a12d5529709b9c9b4a",
+    "label": "septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "path": "data/field/64f8069093f27b79cdc738a12d5529709b9c9b4a",
+    "sha256": "c80add2c370abf75ee50396e7dec72b686732c7474df5bbba02343ae504751c9",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Septoria%20leaf%20spot/7-17-Photo3_Septoria-MARY.jpg",
+    "logits": [
+      2.846817970275879,
+      -4.371374607086182,
+      -1.1570408344268799,
+      -0.6457363963127136
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9425867583308186,
+    "energy": -2.8950377680822696,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "ea977e064ffbe82fa9cfb013d5f78a1ce173bacd",
+    "label": "septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "path": "data/field/ea977e064ffbe82fa9cfb013d5f78a1ce173bacd",
+    "sha256": "2005cb2706dc299ac16e5be8b42e705da41d4aae2d6fe17f24e87466a6a856fa",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Septoria%20leaf%20spot/RARZ4.jpg",
+    "logits": [
+      2.479978084564209,
+      -4.9479570388793945,
+      0.7650641202926636,
+      -0.0832711011171341
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.7764370433336268,
+    "energy": -2.7092051647807014,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "c7a35ed2180c3caa49af1bc00f9a3a773bc82201",
+    "label": "septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "path": "data/field/c7a35ed2180c3caa49af1bc00f9a3a773bc82201",
+    "sha256": "93c989d8551209bf34d4002ee9fae48ddbf6ab66fc3c27466c0473bcc7c0a2b7",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Septoria%20leaf%20spot/early-blight-septoria-ls-fig-3.jpg",
+    "logits": [
+      4.616131782531738,
+      -9.31605339050293,
+      -0.12704357504844666,
+      1.6066029071807861
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9348270005106701,
+    "energy": -4.672537388331986,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "43c578d73fad73a8e460fc2b856a7e89438e8914",
+    "label": "septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "path": "data/field/43c578d73fad73a8e460fc2b856a7e89438e8914",
+    "sha256": "3398df03c7b73de34b61da8df99de69a7f2448b800356be6809fa9edddc6abce",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20Septoria%20leaf%20spot/sept4disease-019.jpg",
+    "logits": [
+      2.280712604522705,
+      -8.411705017089844,
+      -1.0918824672698975,
+      4.503775119781494
+    ],
+    "predicted": "septoria",
+    "confidence": 0.8867614416574051,
+    "energy": -4.609929395210615,
+    "candidates": [
+      "septoria"
+    ]
+  },
+  {
+    "id": "cddbd47c18af0b4671578f4b4972e3a56c60d717",
+    "label": "late_blight",
+    "source_class": "Tomato leaf late blight",
+    "path": "data/field/cddbd47c18af0b4671578f4b4972e3a56c60d717",
+    "sha256": "fd87cea75ee543ab40c76fb94cbc40e42d1c848e5f5dd7756e56f44d0367c734",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20late%20blight/110822-206-Tomato-blight.jpg",
+    "logits": [
+      3.6106748580932617,
+      -9.97771167755127,
+      7.461065769195557,
+      -4.994193077087402
+    ],
+    "predicted": "late_blight",
+    "confidence": 0.9742868765991661,
+    "energy": -7.482117952185762,
+    "candidates": [
+      "late_blight"
+    ]
+  },
+  {
+    "id": "f0594915b9a7dbca41c8603a6f41f0ce673a1f8c",
+    "label": "late_blight",
+    "source_class": "Tomato leaf late blight",
+    "path": "data/field/f0594915b9a7dbca41c8603a6f41f0ce673a1f8c",
+    "sha256": "1a33cccc63bbb630a1c07cc04a1caa2ee0bbfb8f855529328076b3e725950afc",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20late%20blight/18c.jpg",
+    "logits": [
+      3.261486768722534,
+      -6.860973834991455,
+      5.175944805145264,
+      -5.430544853210449
+    ],
+    "predicted": "late_blight",
+    "confidence": 0.8590014698755558,
+    "energy": -5.313488972234838,
+    "candidates": [
+      "late_blight"
+    ]
+  },
+  {
+    "id": "8096cd5990b9df32c3f067d35e825ed435acd50a",
+    "label": "late_blight",
+    "source_class": "Tomato leaf late blight",
+    "path": "data/field/8096cd5990b9df32c3f067d35e825ed435acd50a",
+    "sha256": "d306bef21e5a4d9ddd57401a7b047a74a260f92096f443c786986cebf0402159",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20late%20blight/636368370164094909-late-blight-15-.jpg",
+    "logits": [
+      2.642030715942383,
+      -5.676114559173584,
+      5.517040729522705,
+      -6.557708740234375
+    ],
+    "predicted": "late_blight",
+    "confidence": 0.9378259633177787,
+    "energy": -5.571940803807259,
+    "candidates": [
+      "late_blight"
+    ]
+  },
+  {
+    "id": "bc05bf895bf7b74270004f8e095fdde22b38434c",
+    "label": "late_blight",
+    "source_class": "Tomato leaf late blight",
+    "path": "data/field/bc05bf895bf7b74270004f8e095fdde22b38434c",
+    "sha256": "26eb8199defc993cacb48533b22628d8eb5cfd092b5dbc10b8d9db509aad848a",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20late%20blight/70.jpg",
+    "logits": [
+      3.144052505493164,
+      -6.5769476890563965,
+      1.693480134010315,
+      -1.372653841972351
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.7883818736368117,
+    "energy": -3.3635261489836714,
+    "candidates": [
+      "early_blight",
+      "late_blight"
+    ]
+  },
+  {
+    "id": "ed49ac6301d69db27f6a7f0e300e54b997071fcd",
+    "label": "late_blight",
+    "source_class": "Tomato leaf late blight",
+    "path": "data/field/ed49ac6301d69db27f6a7f0e300e54b997071fcd",
+    "sha256": "1146802ff74c97a511dedcb6bf204d3029e13734bb2d0fcc9a44bce50d2311f2",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20late%20blight/E%2529Tomato-late-blight-foliar.jpg",
+    "logits": [
+      1.1693682670593262,
+      -3.713247776031494,
+      -0.39460068941116333,
+      0.46784400939941406
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.5701025763081391,
+    "energy": -1.7074450765436149,
+    "candidates": [
+      "early_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "2e3626afbdc9dc6702908a26ed9d9ffa0518e4fb",
+    "label": "late_blight",
+    "source_class": "Tomato leaf late blight",
+    "path": "data/field/2e3626afbdc9dc6702908a26ed9d9ffa0518e4fb",
+    "sha256": "f77f5a7245b8a2ff0e3640693e679ac52b036ab639bbfef405d7de4ed4768536",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20late%20blight/IMG_5808.jpg",
+    "logits": [
+      4.347383499145508,
+      -9.62360668182373,
+      0.6785427331924438,
+      1.2954127788543701
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9196389507580883,
+    "energy": -4.417629975153349,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "5f6e6cab954b139153489dc7844ce4cd0e717455",
+    "label": "late_blight",
+    "source_class": "Tomato leaf late blight",
+    "path": "data/field/5f6e6cab954b139153489dc7844ce4cd0e717455",
+    "sha256": "69526a0f4413d8f8e786650a8264e460496e41e0a794747b8358c7d4074dfee6",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20late%20blight/LateBlt09_06.jpg",
+    "logits": [
+      3.39524245262146,
+      -4.179140090942383,
+      -0.15933915972709656,
+      -0.5973842740058899
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9445221381818828,
+    "energy": -3.4417041528359316,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "f7accdfc7eb594fc9ecee77e4383e1b0a50d90f6",
+    "label": "late_blight",
+    "source_class": "Tomato leaf late blight",
+    "path": "data/field/f7accdfc7eb594fc9ecee77e4383e1b0a50d90f6",
+    "sha256": "0024d2b0e3bd578375ffb676d5c5a20c3f6d82d335f8758a215a539ac3a27ff6",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20late%20blight/dsc_8148cs.jpg",
+    "logits": [
+      1.9358221292495728,
+      -7.172379493713379,
+      6.2206220626831055,
+      -4.470075607299805
+    ],
+    "predicted": "late_blight",
+    "confidence": 0.9827504174566423,
+    "energy": -6.234328359630435,
+    "candidates": [
+      "late_blight"
+    ]
+  },
+  {
+    "id": "7777c066549b895376f45f9ba14e4aa1bf8ba49e",
+    "label": "late_blight",
+    "source_class": "Tomato leaf late blight",
+    "path": "data/field/7777c066549b895376f45f9ba14e4aa1bf8ba49e",
+    "sha256": "85f650d777a583a5a3f528fa7c356d8b673bc8c76f635cbf9dfdae773ea446a8",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20late%20blight/image.jpg",
+    "logits": [
+      3.8365478515625,
+      -8.515127182006836,
+      1.2107632160186768,
+      -0.7116045951843262
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9111635267038404,
+    "energy": -3.916258820151286,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "d3a60e43f76817969bf51a80723155584a86f98b",
+    "label": "late_blight",
+    "source_class": "Tomato leaf late blight",
+    "path": "data/field/d3a60e43f76817969bf51a80723155584a86f98b",
+    "sha256": "3d2fdce4dd866c8db1a76996e0115dec623b25cfa90a98e8259d6fabc038b3d2",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20late%20blight/late_blight_tomato_leaf_spore1x1200.jpg",
+    "logits": [
+      -1.6684541702270508,
+      -2.1511595249176025,
+      3.7407870292663574,
+      -2.740231513977051
+    ],
+    "predicted": "late_blight",
+    "confidence": 0.9880467614832495,
+    "energy": -3.7495176855986827,
+    "candidates": [
+      "late_blight"
+    ]
+  },
+  {
+    "id": "180225bd8b16df5b2dacd336a4791305d7467204",
+    "label": "healthy",
+    "source_class": "Tomato leaf",
+    "path": "data/field/180225bd8b16df5b2dacd336a4791305d7467204",
+    "sha256": "bc0ec6abdabe070a8e98749360809fc8cca196e21661f93a038d75b45e13b18d",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf/1684.jpg",
+    "logits": [
+      0.5229860544204712,
+      -1.1698957681655884,
+      -1.7556657791137695,
+      0.29226937890052795
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.4710565322154165,
+    "energy": -1.255534276344634,
+    "candidates": [
+      "early_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "dd72a3ce039eca08bf6c8a65415cd62dc9fefbf7",
+    "label": "healthy",
+    "source_class": "Tomato leaf",
+    "path": "data/field/dd72a3ce039eca08bf6c8a65415cd62dc9fefbf7",
+    "sha256": "f462b769606f79703c44a2c595f57269924bb41ea335b94cbff099bc5c2525a2",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf/2013-08-20-06.jpg",
+    "logits": [
+      3.3787121772766113,
+      -9.231412887573242,
+      -0.2796921133995056,
+      2.6328728199005127
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.6552315393277811,
+    "energy": -3.7842525762490045,
+    "candidates": [
+      "early_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "e02dccae222f07a1dab34ba2f259a6e69d44402a",
+    "label": "healthy",
+    "source_class": "Tomato leaf",
+    "path": "data/field/e02dccae222f07a1dab34ba2f259a6e69d44402a",
+    "sha256": "e990d6c955434857b52b7904fdcc48893ff0b0cebcbc839db143bc301ec7b191",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf/90e2c0.jpg",
+    "logits": [
+      3.866675615310669,
+      -3.573275566101074,
+      -0.22980044782161713,
+      -3.7436466217041016
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9779349341450083,
+    "energy": -3.884234359904505,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "15395f4fc58e2aad9767dfa0128f127f42b639df",
+    "label": "healthy",
+    "source_class": "Tomato leaf",
+    "path": "data/field/15395f4fc58e2aad9767dfa0128f127f42b639df",
+    "sha256": "66e581feb1714e0cfd3e2afdc8f90dcf0394b897886233aa515b7dea1390da1a",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf/DSCN1015.JPG.jpg",
+    "logits": [
+      1.371504306793213,
+      -3.5310826301574707,
+      2.5537261962890625,
+      -3.4562456607818604
+    ],
+    "predicted": "late_blight",
+    "confidence": 0.749516384163431,
+    "energy": -2.8247666474020496,
+    "candidates": [
+      "early_blight",
+      "late_blight"
+    ]
+  },
+  {
+    "id": "004f5906ed63aa1c23fcbcf25f75b59d5a1550fa",
+    "label": "healthy",
+    "source_class": "Tomato leaf",
+    "path": "data/field/004f5906ed63aa1c23fcbcf25f75b59d5a1550fa",
+    "sha256": "d119deb0673b049551857318a686c6ecab5c2aa2607fc349ac25424d4ce636c2",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf/IMG_1246.jpg",
+    "logits": [
+      1.8312606811523438,
+      -3.5983376502990723,
+      0.579750657081604,
+      -0.7425905466079712
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.7138743296785925,
+    "energy": -2.1436588103361056,
+    "candidates": [
+      "early_blight",
+      "late_blight"
+    ]
+  },
+  {
+    "id": "ac477f907fd32ba0492ce652e4a81616cdd70d2d",
+    "label": "healthy",
+    "source_class": "Tomato leaf",
+    "path": "data/field/ac477f907fd32ba0492ce652e4a81616cdd70d2d",
+    "sha256": "36d4cf67739d3d7b079eed20331535674781886f75abbf7f010999a45b00980f",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf/Tomato59.JPG.jpg",
+    "logits": [
+      4.4198102951049805,
+      -6.220545768737793,
+      0.21379275619983673,
+      0.14007776975631714
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9647903312173031,
+    "energy": -4.448179950757063,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "19e46b41af1216702fe8fd696b11a3832fe67fd7",
+    "label": "healthy",
+    "source_class": "Tomato leaf",
+    "path": "data/field/19e46b41af1216702fe8fd696b11a3832fe67fd7",
+    "sha256": "9cffe92d5f898fa2bb96e78f63ef46059b710a0f2d97054f1e534a5619778b13",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf/Tomato_leaf.jpg",
+    "logits": [
+      0.29246869683265686,
+      -2.5780229568481445,
+      -1.087553858757019,
+      1.896652340888977
+    ],
+    "predicted": "septoria",
+    "confidence": 0.7725986270021432,
+    "energy": -2.1301637027580105,
+    "candidates": [
+      "septoria"
+    ]
+  },
+  {
+    "id": "18532d233613fabae9453c8f7479ece4fb250eca",
+    "label": "healthy",
+    "source_class": "Tomato leaf",
+    "path": "data/field/18532d233613fabae9453c8f7479ece4fb250eca",
+    "sha256": "66d8d18b9bf9c8d83efd3a0cf09c53fbbd575795a518b57a66bc338c11c07069",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf/main-qimg-d9c2a93f60568485c989670d9bbf703b.jpg",
+    "logits": [
+      0.3740100860595703,
+      -1.6676013469696045,
+      0.1923011839389801,
+      -0.9543507099151611
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.43990190596999246,
+    "energy": -1.175372243545517,
+    "candidates": [
+      "early_blight",
+      "late_blight"
+    ]
+  },
+  {
+    "id": "bc55e52987a8a3a5f24af02f28329b7cd0f6e903",
+    "label": "unknown",
+    "source_class": "Tomato leaf bacterial spot",
+    "path": "data/field/bc55e52987a8a3a5f24af02f28329b7cd0f6e903",
+    "sha256": "b609929106ab0044de24717ceb091163e7630ec3460ec18c6d9c7bf2b996121c",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20bacterial%20spot/%252320%2BBacterial%2BSpot%2Band%2BSpeck.jpg",
+    "logits": [
+      2.786093235015869,
+      -8.195945739746094,
+      -0.5635181069374084,
+      2.977306604385376
+    ],
+    "predicted": "septoria",
+    "confidence": 0.5347009778008109,
+    "energy": -3.5951696235396673,
+    "candidates": [
+      "early_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "f187684fdc475f293792899a4839d9a3aa81d682",
+    "label": "unknown",
+    "source_class": "Tomato leaf bacterial spot",
+    "path": "data/field/f187684fdc475f293792899a4839d9a3aa81d682",
+    "sha256": "d9e9aa3d8e0e58d5875c4b9bb17b19327a5b004e91e20942d7a528a8c52f4eeb",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20bacterial%20spot/07.17.18-Common_Tomato_Diseases_Canker-258x300.jpg",
+    "logits": [
+      4.14703369140625,
+      -8.46898365020752,
+      2.6537961959838867,
+      -2.5382516384124756
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.8025442796997081,
+    "energy": -4.35070624245527,
+    "candidates": [
+      "early_blight",
+      "late_blight"
+    ]
+  },
+  {
+    "id": "0983eb9a56ec57960cf8c60d09b579af17cb53e4",
+    "label": "unknown",
+    "source_class": "Tomato leaf bacterial spot",
+    "path": "data/field/0983eb9a56ec57960cf8c60d09b579af17cb53e4",
+    "sha256": "f8a309c930537862201f172a32c48db8558e0f3e119757ec85a5dc22d9e96e7f",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20bacterial%20spot/Bacterial_spots563.jpg",
+    "logits": [
+      1.435389757156372,
+      -6.097320079803467,
+      1.887139081954956,
+      -0.8571037650108337
+    ],
+    "predicted": "late_blight",
+    "confidence": 0.5786028012387827,
+    "energy": -2.418444391884828,
+    "candidates": [
+      "early_blight",
+      "late_blight"
+    ]
+  },
+  {
+    "id": "be31bf3ebc4e4d9228933eec3f3bb0b19d166b73",
+    "label": "unknown",
+    "source_class": "Tomato leaf bacterial spot",
+    "path": "data/field/be31bf3ebc4e4d9228933eec3f3bb0b19d166b73",
+    "sha256": "abe1259ccd33542f7cd9c14ecef8a995b601272c0808b52daade7f153fdc5b66",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20bacterial%20spot/Tom_Bact3.jpg",
+    "logits": [
+      2.687633514404297,
+      -7.933579444885254,
+      0.41286158561706543,
+      2.438382863998413
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.5243440427502188,
+    "energy": -3.3200904105197617,
+    "candidates": [
+      "early_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "6aabb229b091eef06114f9adb902bcecb7573f78",
+    "label": "unknown",
+    "source_class": "Tomato leaf bacterial spot",
+    "path": "data/field/6aabb229b091eef06114f9adb902bcecb7573f78",
+    "sha256": "07d8f5a4a18746daf367d85b9254364ace2824ce5c31dfacefb0d00b89d99ac8",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20bacterial%20spot/Tom_Bact7.jpg",
+    "logits": [
+      0.14286445081233978,
+      -1.4657413959503174,
+      -1.148915410041809,
+      1.7576303482055664
+    ],
+    "predicted": "septoria",
+    "confidence": 0.752022342481353,
+    "energy": -2.014921791634619,
+    "candidates": [
+      "septoria"
+    ]
+  },
+  {
+    "id": "9cec18c0d0d0062bf8ad27f73f00b2aac8333d10",
+    "label": "unknown",
+    "source_class": "Tomato leaf bacterial spot",
+    "path": "data/field/9cec18c0d0d0062bf8ad27f73f00b2aac8333d10",
+    "sha256": "98d1b4229761f914476b63c2b7c70a4bd5a23681bf9b4622b642c3dc09cac8ce",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20bacterial%20spot/Tomato%252BBacterial%252BSpot%252Bon%252BLeaves.jpg",
+    "logits": [
+      6.403841495513916,
+      -9.531726837158203,
+      -0.5645811557769775,
+      0.259922593832016
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9956025101038288,
+    "energy": -6.406924489670492,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "7cc7290404054b1aa0ac500c3140363e0d5e37d7",
+    "label": "unknown",
+    "source_class": "Tomato leaf bacterial spot",
+    "path": "data/field/7cc7290404054b1aa0ac500c3140363e0d5e37d7",
+    "sha256": "04de396dcc709310361f017f4b290e8994ba258685a0725607169e2c16bb5877",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20bacterial%20spot/bact-spot-fig-1.jpg",
+    "logits": [
+      2.019998788833618,
+      -4.070915222167969,
+      -0.42661482095718384,
+      0.7059158682823181
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.7185528417363211,
+    "energy": -2.325695341766462,
+    "candidates": [
+      "early_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "5c33c893f4900ef20ea0cca97c5355f0eb2c997d",
+    "label": "unknown",
+    "source_class": "Tomato leaf bacterial spot",
+    "path": "data/field/5c33c893f4900ef20ea0cca97c5355f0eb2c997d",
+    "sha256": "e23a29c94b58aac28e92f57f95eb6f53e99c874323cb2b90ebd327085721574e",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20bacterial%20spot/tomato_V8.jpg",
+    "logits": [
+      0.3991464674472809,
+      -5.62348747253418,
+      -0.9950777888298035,
+      3.398653984069824
+    ],
+    "predicted": "septoria",
+    "confidence": 0.9303119284000733,
+    "energy": -3.459077964417723,
+    "candidates": [
+      "septoria"
+    ]
+  },
+  {
+    "id": "f118e10d8736c00bc04ac689e41e1b6722ae7af6",
+    "label": "unknown",
+    "source_class": "Tomato leaf bacterial spot",
+    "path": "data/field/f118e10d8736c00bc04ac689e41e1b6722ae7af6",
+    "sha256": "18ce26ad83522efb7d2721582f0bd6f2a7d047f313e969442af25da038f6a2ec",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20bacterial%20spot/tomato_bacterial-speck_01_zoom.jpg",
+    "logits": [
+      4.507613182067871,
+      -10.343790054321289,
+      -1.7917896509170532,
+      3.6156671047210693
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.6976223784626809,
+    "energy": -4.852404376157484,
+    "candidates": [
+      "early_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "c4df309d6268cca63761adb68833f2ac7950c3d8",
+    "label": "unknown",
+    "source_class": "Tomato leaf mosaic virus",
+    "path": "data/field/c4df309d6268cca63761adb68833f2ac7950c3d8",
+    "sha256": "114ad00502e682078ccbed196422c3092e017a3d11078ebd439f9825a57e1fa2",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20mosaic%20virus/9511.img.jpg",
+    "logits": [
+      3.3202874660491943,
+      -6.713524341583252,
+      -0.8990382552146912,
+      1.0523570775985718
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.8801029638764839,
+    "energy": -3.4320780645917903,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "23dd406b6cbbac84355b50f959bcb33d7005f1f7",
+    "label": "unknown",
+    "source_class": "Tomato leaf mosaic virus",
+    "path": "data/field/23dd406b6cbbac84355b50f959bcb33d7005f1f7",
+    "sha256": "1dd06a9e3bd48713bb445a8588d8c38dec7643435e5c8b0652f584ac4eff64c1",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20mosaic%20virus/D%2529AlfMov.jpg",
+    "logits": [
+      0.8175610899925232,
+      -0.979817271232605,
+      -2.04738187789917,
+      0.4482414424419403
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.5113030601401601,
+    "energy": -1.4667164789697926,
+    "candidates": [
+      "early_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "ad03405815ede37733665edaa60e6c50c3ca2709",
+    "label": "unknown",
+    "source_class": "Tomato leaf mosaic virus",
+    "path": "data/field/ad03405815ede37733665edaa60e6c50c3ca2709",
+    "sha256": "4e1e9dd3e151f41b1a610024c4ca401a7c052f970723faf8b137edce24102e41",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20mosaic%20virus/Tomato-Mosaic-1wdr2jx-300x225.jpg",
+    "logits": [
+      -1.6866273880004883,
+      -2.607537269592285,
+      0.024720966815948486,
+      1.5583820343017578
+    ],
+    "predicted": "septoria",
+    "confidence": 0.7684137358050175,
+    "energy": -1.7975784518334286,
+    "candidates": [
+      "septoria"
+    ]
+  },
+  {
+    "id": "9fe49e71c75c424721e478487758cdc150f2dc4a",
+    "label": "unknown",
+    "source_class": "Tomato leaf mosaic virus",
+    "path": "data/field/9fe49e71c75c424721e478487758cdc150f2dc4a",
+    "sha256": "3be8d7001035234d99b56906f4b1d0d0037b22b785396889d3b9ce6eaa7d15cc",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20mosaic%20virus/everystockphoto-21099455-l.jpg",
+    "logits": [
+      1.2731621265411377,
+      -7.391297817230225,
+      -2.363243341445923,
+      4.979835510253906
+    ],
+    "predicted": "septoria",
+    "confidence": 0.9697421315487607,
+    "energy": -5.00473335121113,
+    "candidates": [
+      "septoria"
+    ]
+  },
+  {
+    "id": "4372785e0322ceaf26376840e65bdfdd7c26ec95",
+    "label": "unknown",
+    "source_class": "Tomato leaf mosaic virus",
+    "path": "data/field/4372785e0322ceaf26376840e65bdfdd7c26ec95",
+    "sha256": "fd47dc830e0dbbd0120d2a6777741dabbd9b4f6f296e31bc063b40568310250d",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20mosaic%20virus/ill-tomato-of-tomato-mosaic-virus-DBE17N.jpg",
+    "logits": [
+      3.651552438735962,
+      -6.165894031524658,
+      0.5752111077308655,
+      -0.47038534283638
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9299716440460187,
+    "energy": -3.712078489566946,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "e5c347d0a48f74e322fc6962ebc9607a7ee9a63f",
+    "label": "unknown",
+    "source_class": "Tomato leaf mosaic virus",
+    "path": "data/field/e5c347d0a48f74e322fc6962ebc9607a7ee9a63f",
+    "sha256": "995ada04ba135f89218ddc3f17617e59411b63ae5167c25ded94284aeda9d7e8",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20mosaic%20virus/page_2.jpg",
+    "logits": [
+      4.294172763824463,
+      -5.656408309936523,
+      -1.957690954208374,
+      1.485501766204834
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9316554765378318,
+    "energy": -4.3545711179133955,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "f2cf4c4a3cdab885b207423917cc8c164097015a",
+    "label": "unknown",
+    "source_class": "Tomato leaf mosaic virus",
+    "path": "data/field/f2cf4c4a3cdab885b207423917cc8c164097015a",
+    "sha256": "d4ced16a63bfb55865541775dfa1311bc76c6714659af4443d9154297bf41ff0",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20mosaic%20virus/tmv-tomato-34.jpg",
+    "logits": [
+      2.2391207218170166,
+      -6.3207221031188965,
+      1.2500079870224,
+      0.5872074961662292
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.6235917729700224,
+    "energy": -2.6862273278479765,
+    "candidates": [
+      "early_blight",
+      "late_blight"
+    ]
+  },
+  {
+    "id": "5d71326dac02834ea139ce17d1762d8f51dce309",
+    "label": "unknown",
+    "source_class": "Tomato leaf mosaic virus",
+    "path": "data/field/5d71326dac02834ea139ce17d1762d8f51dce309",
+    "sha256": "c5d7e06ccd83c8b15a0102d343fb9bfecfb36c4cf83acfdf92c2b88c18899f5f",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20mosaic%20virus/tmv-tomato-9.jpg",
+    "logits": [
+      0.4654253125190735,
+      -3.74729585647583,
+      0.9999544024467468,
+      0.40251198410987854
+    ],
+    "predicted": "late_blight",
+    "confidence": 0.4578837124989988,
+    "energy": -1.7630183033291957,
+    "candidates": [
+      "early_blight",
+      "late_blight",
+      "septoria"
+    ]
+  },
+  {
+    "id": "b9f02b108b566ccde565d7dd484a7113b8fb172c",
+    "label": "unknown",
+    "source_class": "Tomato leaf mosaic virus",
+    "path": "data/field/b9f02b108b566ccde565d7dd484a7113b8fb172c",
+    "sha256": "6314256efc354bde93065b70bd0044361644e866604b12ecd1cb762307405428",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20mosaic%20virus/toma_TMV.jpg",
+    "logits": [
+      2.40883207321167,
+      -1.953858733177185,
+      -0.8832151293754578,
+      -0.797758162021637
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.9013784879173634,
+    "energy": -2.4953914999180613,
+    "candidates": [
+      "early_blight"
+    ]
+  },
+  {
+    "id": "9f62b551d3a5470ea8f6a8a4761d04874ec53651",
+    "label": "unknown",
+    "source_class": "Tomato leaf mosaic virus",
+    "path": "data/field/9f62b551d3a5470ea8f6a8a4761d04874ec53651",
+    "sha256": "300516de60912443a4b013d2588e35bcbab6705561e04ba421eec3a7070f2148",
+    "source_url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/test/Tomato%20leaf%20mosaic%20virus/tomato_virus_04_zoom.jpg",
+    "logits": [
+      3.304915189743042,
+      -6.23941707611084,
+      2.033870220184326,
+      -2.842985153198242
+    ],
+    "predicted": "early_blight",
+    "confidence": 0.766666122043945,
+    "energy": -3.553919753006172,
+    "candidates": [
+      "early_blight",
+      "late_blight"
+    ]
+  }
+]
